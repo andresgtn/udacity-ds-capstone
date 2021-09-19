@@ -1,0 +1,12 @@
+{% extends "master.html" %}
+{% block title %}Recommendtions by listing{% endblock %}
+
+{% block message_listing %}
+    <p class="text">Listing identifier: {{query}}</p>
+{% endblock %}
+
+{% block content %}
+<h3> {{df4.title}} </h3>
+{{df4.table|safe}}
+
+{% endblock %}

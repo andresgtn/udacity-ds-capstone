@@ -1,0 +1,3041 @@
+identifier,type,size,beds,baths,price,location
+0,Apartment,1304,2,3,1100000.0,princess tower
+1,Apartment,1900,3,4,3188888.0,marina tower
+2,Apartment,1200,1,2,1440000.0,trident grand residence
+3,Apartment,1200,1,2,1440000.0,trident grand residence
+4,Apartment,2944,3,5,2900000.0,the atlantic
+5,Apartment,541,0,1,800000.0,silverene
+6,Apartment,542,0,1,780000.0,silverene
+7,Apartment,1220,2,2,940000.0,marina pinnacle
+8,Apartment,921,1,2,1200000.0,park island
+9,Apartment,864,1,2,750000.0,mag 218
+10,Apartment,900,1,2,760000.0,mag 218
+11,Townhouse,8427,7,7,7950000.0,bayside residence
+12,Apartment,792,1,2,700000.0,the royal oceanic
+13,Apartment,960,1,2,800000.0,princess tower
+14,Penthouse,6146,5,6,4799999.0,princess tower
+15,Apartment,1437,2,3,2570000.0,marina gate
+16,Apartment,572,1,1,540000.0,marina diamond 2
+17,Apartment,1067,2,2,1535000.0,silverene
+18,Apartment,1320,2,3,1650000.0,al majara
+19,Apartment,2174,3,4,1875000.0,marina heights
+20,Apartment,374,1,1,460000.0,marina diamond 1
+21,Apartment,858,1,2,850000.0,botanica tower
+22,Apartment,858,1,2,850000.0,botanica tower
+23,Apartment,685,1,2,800000.0,dorra bay
+24,Apartment,1076,1,2,1300000.0,marina promenade
+25,Apartment,690,1,2,775000.0,dream towers
+26,Apartment,690,1,2,740000.0,dream towers
+27,Apartment,690,1,2,775000.0,dream towers
+28,Apartment,690,1,2,775000.0,dream towers
+29,Apartment,691,1,1,775000.0,dream towers
+30,Apartment,1814,3,4,3115000.0,marina gate
+31,Apartment,841,1,2,1000000.0,al majara
+32,Apartment,1329,2,3,1095000.0,elite residence
+33,Apartment,1329,2,3,1249000.0,elite residence
+34,Penthouse,3172,4,6,3750000.0,elite residence
+35,Duplex,2381,3,5,2500000.0,azure
+36,Apartment,3890,3,5,2950000.0,emirates crown
+37,Apartment,708,1,1,650000.0,marina diamond 6
+38,Apartment,714,1,2,600000.0,marina diamond 6
+39,Apartment,430,0,1,430000.0,marina diamond 3
+40,Apartment,1525,1,2,1500000.0,emaar 6 towers
+41,Apartment,800,1,2,700000.0,yacht bay
+42,Apartment,792,1,2,700000.0,the royal oceanic
+43,Apartment,1176,2,2,1850000.0,5242
+44,Apartment,1780,3,4,2800000.0,5242
+45,Apartment,1203,2,3,1540000.0,no.9
+46,Apartment,1579,2,3,1225000.0,trident bayside
+47,Apartment,556,1,1,525000.0,manchester tower
+48,Apartment,2352,2,2,1625000.0,la residencia del mar
+49,Apartment,1347,2,3,1995000.0,marina gate
+50,Apartment,1940,3,4,3495000.0,marina gate
+51,Apartment,1919,3,4,1200000.0,sulafa tower
+52,Apartment,600,1,2,950000.0,silverene
+53,Apartment,600,1,2,950000.0,silverene
+54,Apartment,609,1,2,900000.0,silverene
+55,Apartment,609,1,2,900000.0,silverene
+56,Apartment,2173,3,4,2700000.0,marina crown
+57,Apartment,2173,3,4,2700000.0,marina crown
+58,Apartment,2328,3,4,2500000.0,trident bayside
+59,Townhouse,8427,7,7,7950000.0,trident bayside
+60,Townhouse,7172,5,5,6460000.0,trident bayside
+61,Apartment,1305,2,2,1000000.0,princess tower
+62,Apartment,2006,3,4,1650000.0,princess tower
+63,Apartment,1305,2,2,1000000.0,princess tower
+64,Apartment,1305,2,2,1050000.0,princess tower
+65,Apartment,1305,2,2,990000.0,princess tower
+66,Apartment,1999,3,4,1700000.0,princess tower
+67,Apartment,1066,2,2,1299999.0,silverene
+68,Apartment,1806,3,4,3100000.0,5242
+69,Apartment,529,0,1,919000.0,liv residence
+70,Apartment,1198,2,2,780000.0,the torch
+71,Penthouse,4032,3,3,3950000.0,the torch
+72,Apartment,959,1,1,999000.0,marina tower
+73,Apartment,761,1,2,950000.0,marina tower
+74,Apartment,959,1,2,945000.0,marina tower
+75,Apartment,958,1,2,949000.0,marina tower
+76,Apartment,959,1,1,990000.0,marina tower
+77,Apartment,761,1,2,950000.0,marina tower
+78,Apartment,833,1,2,1588000.0,damac heights
+79,Apartment,1640,3,3,4393000.0,damac residenze
+80,Apartment,724,1,2,730000.0,skyview tower
+81,Apartment,1700,2,3,715000.0,dec towers
+82,Apartment,910,1,2,1050000.0,park island
+83,Apartment,1070,2,3,1800000.0,silverene
+84,Apartment,772,1,1,800000.0,al sahab
+85,Apartment,700,1,1,795000.0,park island
+86,Apartment,924,1,2,770000.0,princess tower
+87,Apartment,890,1,1,1250000.0,marina promenade
+88,Apartment,951,1,2,650000.0,marina pinnacle
+89,Penthouse,6358,4,5,15250000.0,marina gate
+90,Apartment,1723,2,3,3129000.0,damac heights
+91,Apartment,1640,2,2,3185000.0,damac heights
+92,Apartment,1390,2,2,940000.0,sulafa tower
+93,Apartment,1002,1,2,1290000.0,marina promenade
+94,Apartment,982,2,2,1000000.0,la riviera
+95,Apartment,1002,1,2,1300000.0,marina promenade
+96,Penthouse,6147,5,6,4999999.0,princess tower
+97,Penthouse,5845,4,6,13152000.0,marina gate
+98,Apartment,2333,4,5,4950888.0,vida residences marina dubai
+99,Apartment,723,1,1,1000000.0,studio one
+100,Apartment,723,1,2,1000000.0,studio one
+101,Apartment,1109,2,3,1650000.0,studio one
+102,Apartment,828,2,2,1390000.0,studio one
+103,Apartment,1764,3,4,2999997.0,no.9
+104,Apartment,2179,2,4,1990000.0,the jewels
+105,Apartment,890,1,2,1690000.0,damac heights
+106,Apartment,1315,2,3,1750000.0,marina quays
+107,Apartment,1382,2,3,900000.0,yacht bay
+108,Penthouse,5456,4,5,5700000.0,marina heights
+109,Duplex,4390,4,5,10554999.0,marina gate
+110,Apartment,2428,2,3,5699000.0,marina gate
+111,Penthouse,6358,4,5,15699000.0,marina gate
+112,Penthouse,6358,4,5,15249000.0,marina gate
+113,Duplex,4618,4,5,10649000.0,marina gate
+114,Penthouse,5845,4,5,13000000.0,marina gate
+115,Apartment,1144,2,2,2000000.0,5242
+116,Apartment,1144,2,2,1900000.0,5242
+117,Apartment,1480,2,3,1600000.0,park island
+118,Apartment,1331,2,3,1450000.0,elite residence
+119,Apartment,1219,2,2,800000.0,marina pinnacle
+120,Apartment,1816,3,4,1650000.0,marina heights
+121,Apartment,410,0,1,550000.0,tfg marina hotel
+122,Apartment,593,1,2,780000.0,studio one
+123,Apartment,908,1,2,870000.0,mag 218
+124,Apartment,1258,2,2,920000.0,the torch
+125,Apartment,1258,2,2,900000.0,the torch
+126,Apartment,1258,2,2,840000.0,the torch
+127,Apartment,1258,2,2,820000.0,the torch
+128,Apartment,3882,3,6,3100000.0,emirates crown
+129,Apartment,700,1,1,1000000.0,escan tower
+130,Apartment,1208,2,3,1250000.0,ocean heights
+131,Apartment,848,1,1,1125000.0,the address dubai marina
+132,Apartment,1280,2,2,1980000.0,marina gate
+133,Apartment,1258,2,2,870000.0,the torch
+134,Apartment,1258,2,2,820000.0,the torch
+135,Apartment,600,1,2,1250000.0,orra harbour residences and hotel apartments
+136,Apartment,1396,2,3,2400000.0,damac heights
+137,Penthouse,9354,4,4,23500000.0,trident marinascape
+138,Apartment,1750,3,5,2100000.0,ocean heights
+139,Apartment,841,1,2,950000.0,al majara
+140,Apartment,773,1,2,1531000.0,marina gate
+141,Apartment,749,1,2,1100000.0,marina crown
+142,Apartment,827,1,2,600000.0,marina pinnacle
+143,Apartment,2460,3,5,3100000.0,marina arcade tower
+144,Apartment,832,1,2,650000.0,dec towers
+145,Apartment,958,1,2,800000.0,elite residence
+146,Apartment,499,0,1,650000.0,studio one
+147,Apartment,950,1,1,1100000.0,escan tower
+148,Apartment,1400,2,3,1300000.0,ocean heights
+149,Apartment,1825,2,3,1750000.0,ocean heights
+150,Apartment,800,1,2,1801000.0,marina gate
+151,Townhouse,3577,3,4,8575000.0,marina gate
+152,Apartment,949,1,2,1642000.0,marina gate
+153,Apartment,1589,3,3,2660000.0,5242
+154,Apartment,1598,3,3,2848000.0,5242
+155,Apartment,1657,3,4,2750000.0,vida residences marina dubai
+156,Apartment,1680,1,2,1350000.0,vida residences marina dubai
+157,Apartment,2334,2,2,1850000.0,vida residences marina dubai
+158,Apartment,1158,2,3,1400000.0,vida residences marina dubai
+159,Apartment,1006,1,2,1100000.0,vida residences marina dubai
+160,Townhouse,2428,2,4,5700000.0,marina gate
+161,Apartment,1005,1,2,1100000.0,vida residences marina dubai
+163,Apartment,1061,2,3,1972000.0,5242
+164,Apartment,1673,3,4,2799999.0,vida residences marina dubai
+165,Penthouse,3307,4,5,6580000.0,marina gate
+166,Apartment,992,1,2,1964888.0,5242
+167,Apartment,1219,2,2,800000.0,marina pinnacle
+168,Apartment,1510,3,3,1190000.0,sulafa tower
+169,Apartment,518,0,1,365000.0,dec towers
+170,Apartment,1208,2,3,1545000.0,marina arcade tower
+171,Apartment,1219,2,2,800000.0,marina pinnacle
+172,Apartment,1480,2,3,1999987.0,sparkle towers
+173,Apartment,862,1,2,1529998.0,sparkle towers
+174,Apartment,3080,3,4,2400000.0,23 marina
+175,Apartment,2057,3,5,2399999.0,al majara
+176,Apartment,645,1,2,980000.0,bay central
+177,Apartment,841,1,1,1050000.0,al majara
+178,Apartment,5050,3,5,3999950.0,marina tower
+179,Apartment,1270,1,2,1750000.0,trident grand residence
+180,Penthouse,3211,4,6,4750000.0,elite residence
+181,Penthouse,3173,4,6,3800000.0,elite residence
+182,Penthouse,3173,4,6,3950000.0,elite residence
+183,Apartment,3000,4,4,2600000.0,marina crown
+184,Duplex,2772,3,5,3000000.0,the point
+185,Apartment,1813,3,4,3900000.0,marina gate
+186,Apartment,836,1,2,1700000.0,marina gate
+187,Apartment,1750,2,3,1850000.0,marina 101
+188,Apartment,3022,4,5,2499999.0,marina crown
+189,Apartment,3022,4,5,2499999.0,marina crown
+190,Penthouse,2503,3,3,3350000.0,marina quays
+191,Penthouse,2503,3,3,3350000.0,marina quays
+192,Apartment,1595,3,3,1650000.0,the point
+193,Apartment,1595,3,3,1800000.0,the point
+194,Apartment,1521,2,3,2150000.0,cayan tower
+195,Penthouse,5456,5,6,5750000.0,marina heights
+196,Apartment,833,2,3,1100000.0,studio one
+197,Penthouse,5456,5,5,5750000.0,marina heights
+198,Apartment,833,2,2,1100000.0,studio one
+199,Apartment,1302,2,2,1895000.0,park island
+200,Apartment,1302,2,3,1895000.0,park island
+201,Apartment,1204,2,3,2150000.0,marina gate
+202,Apartment,1204,2,2,2150000.0,marina gate
+203,Apartment,868,1,1,2000000.0,marina gate
+204,Apartment,868,1,2,2000000.0,marina gate
+205,Apartment,880,1,1,1200000.0,damac heights
+206,Apartment,880,1,2,1200000.0,damac heights
+207,Apartment,2474,3,3,4082067.0,marina arcade tower
+208,Apartment,1599,2,2,2497763.0,marina arcade tower
+209,Apartment,1161,2,2,1845990.0,marina arcade tower
+210,Penthouse,5845,4,4,12950000.0,marina gate
+211,Apartment,1161,2,3,1845990.0,marina arcade tower
+212,Apartment,1599,2,3,2497763.0,marina arcade tower
+213,Apartment,2474,3,4,4082067.0,marina arcade tower
+214,Apartment,831,1,2,640000.0,escan tower
+215,Penthouse,3122,3,4,7900000.0,no.9
+216,Penthouse,3274,3,4,9995000.0,no.9
+217,Apartment,1525,2,3,1600000.0,cayan tower
+218,Apartment,1739,2,3,720000.0,dec towers
+219,Apartment,1740,2,3,850000.0,dec towers
+220,Apartment,1739,2,3,850000.0,dec towers
+221,Apartment,409,0,1,999000.0,wyndham marina dubai
+222,Apartment,1302,2,2,1050000.0,bay central
+223,Apartment,2123,2,3,1820000.0,sparkle towers
+224,Apartment,862,1,2,1530000.0,sparkle towers
+225,Apartment,3022,4,4,1999999.0,marina crown
+226,Apartment,751,1,2,750000.0,marina view
+227,Apartment,1302,2,2,1100000.0,bay central
+228,Apartment,1229,2,3,2552000.0,marina gate
+229,Apartment,1814,3,4,4173000.0,marina gate
+230,Apartment,1211,2,2,2587000.0,marina gate
+231,Apartment,773,1,2,1533000.0,marina gate
+232,Apartment,822,1,2,1300000.0,marina gate
+233,Apartment,775,1,2,1490000.0,marina gate
+234,Apartment,627,1,2,1015000.0,marina gate
+235,Apartment,1277,2,2,1890000.0,marina gate
+236,Apartment,1431,2,3,2491000.0,marina gate
+237,Apartment,947,1,2,1642000.0,marina gate
+238,Townhouse,4618,4,4,10650000.0,marina gate
+239,Apartment,822,1,2,1300000.0,marina gate
+240,Penthouse,5845,4,6,12859000.0,marina gate
+241,Apartment,1578,2,4,1350000.0,trident bayside
+242,Apartment,1073,1,2,820000.0,the jewels
+243,Penthouse,6544,4,4,7000000.0,23 marina
+244,Apartment,848,1,1,1000000.0,the address dubai marina
+245,Apartment,609,0,1,1500000.0,silverene
+246,Apartment,875,1,1,1800000.0,cayan tower
+247,Apartment,783,0,1,1500000.0,cayan tower
+248,Apartment,1219,2,2,790000.0,marina pinnacle
+249,Apartment,3277,5,4,5500000.0,emaar 6 towers
+250,Apartment,1444,2,2,1099000.0,dorra bay
+251,Apartment,2352,2,2,2000000.0,la residencia del mar
+252,Apartment,1973,3,2,2200000.0,marina terra
+253,Apartment,461,0,1,837548.0,liv residence
+254,Apartment,1043,2,3,1914548.0,liv residence
+255,Apartment,871,1,1,1354548.0,liv residence
+256,Apartment,1043,2,3,1914548.0,liv residence
+257,Apartment,871,1,1,1354548.0,liv residence
+258,Apartment,461,0,1,837548.0,liv residence
+259,Apartment,1710,3,3,1290000.0,the torch
+260,Apartment,1280,2,3,2100000.0,marina gate
+261,Apartment,822,1,1,1300000.0,marina gate
+262,Apartment,627,1,1,1030000.0,marina gate
+263,Apartment,1400,2,3,2100000.0,marina gate
+264,Apartment,2140,3,4,1599999.0,23 marina
+265,Apartment,1710,3,3,1340000.0,the torch
+266,Apartment,556,1,1,575000.0,manchester tower
+267,Apartment,556,1,2,585000.0,manchester tower
+268,Apartment,6100,4,5,14000000.0,le reve
+269,Apartment,2156,3,4,1635000.0,princess tower
+270,Apartment,1415,2,3,1180000.0,continental tower
+271,Apartment,357,0,1,530000.0,studio one
+272,Apartment,736,1,2,1000000.0,iris blue
+273,Apartment,1326,2,3,1700000.0,iris blue
+274,Apartment,808,1,2,950000.0,botanica tower
+275,Apartment,1843,3,3,1300000.0,dorra bay
+276,Apartment,726,1,2,999950.0,studio one
+277,Apartment,1041,1,2,1000000.0,ocean heights
+278,Apartment,1041,1,2,1000000.0,ocean heights
+279,Apartment,1061,2,2,2090000.0,5242
+280,Apartment,1139,2,3,2205888.0,5242
+281,Apartment,1132,2,3,1650000.0,5242
+282,Apartment,1428,2,3,2600000.0,damac heights
+283,Apartment,1428,2,3,2600000.0,damac heights
+284,Apartment,2249,2,3,2200000.0,the jewels
+285,Townhouse,4396,4,6,8000000.0,the jewels
+286,Apartment,953,1,2,1250000.0,marina promenade
+287,Penthouse,2623,4,7,2900000.0,ocean heights
+288,Apartment,1300,2,3,1150000.0,ocean heights
+289,Apartment,1150,2,2,1600000.0,5242
+290,Apartment,1176,2,2,1820000.0,5242
+291,Apartment,992,1,2,1924888.0,5242
+292,Apartment,1724,3,3,3213888.0,5242
+293,Apartment,1139,2,2,2123899.0,5242
+294,Apartment,1027,2,2,2055000.0,5242
+295,Apartment,1144,2,2,1950000.0,5242
+296,Apartment,1531,3,2,1200000.0,la riviera
+297,Apartment,1579,2,4,1350000.0,trident bayside
+299,Apartment,2067,2,3,1450000.0,al seef tower
+300,Apartment,3553,3,5,4799999.0,al seef tower
+301,Penthouse,7500,5,6,10499999.0,al seef tower
+302,Apartment,3553,4,4,3500000.0,al seef tower
+303,Apartment,3553,3,5,3699999.0,al seef tower
+304,Apartment,2067,2,3,1849999.0,al seef tower
+305,Apartment,3553,3,5,2920000.0,al seef tower
+306,Apartment,591,1,2,800000.0,studio one
+307,Apartment,591,1,1,850000.0,studio one
+308,Apartment,3553,3,4,3150000.0,al seef tower
+309,Apartment,3553,3,4,3500000.0,al seef tower
+310,Apartment,591,1,2,850000.0,studio one
+311,Apartment,591,1,1,850000.0,studio one
+312,Apartment,2979,3,3,1975000.0,23 marina
+313,Apartment,904,1,2,1557300.0,marina gate
+314,Apartment,904,1,2,1730000.0,marina gate
+315,Apartment,850,1,2,1791000.0,marina gate
+316,Apartment,850,1,2,1990000.0,marina gate
+317,Apartment,2205,3,4,2600000.0,al sahab
+318,Apartment,2205,3,4,2750000.0,al sahab
+321,Apartment,1324,2,2,1750000.0,marina quays
+322,Apartment,3888,4,5,2799999.0,emirates crown
+323,Apartment,3888,4,5,2799999.0,emirates crown
+324,Apartment,1426,3,3,3650000.0,damac heights
+325,Apartment,1426,3,3,3650000.0,damac heights
+326,Apartment,2412,3,4,1500000.0,emerald residence
+327,Apartment,2412,3,4,1500000.0,emerald residence
+328,Apartment,1455,2,2,1900000.0,silverene
+329,Apartment,1062,2,2,1750000.0,silverene
+330,Apartment,591,1,1,700000.0,studio one
+331,Apartment,829,2,2,1100000.0,studio one
+332,Apartment,2516,3,4,2500000.0,emaar 6 towers
+333,Apartment,791,1,2,650000.0,marina pinnacle
+334,Apartment,792,1,2,635000.0,marina pinnacle
+335,Apartment,1742,2,3,1200000.0,mag 218
+336,Apartment,898,1,1,700000.0,mag 218
+337,Apartment,844,1,2,650000.0,mag 218
+338,Apartment,838,1,2,1400000.0,marina gate
+339,Apartment,2368,4,4,4000000.0,marina gate
+340,Apartment,868,1,2,1650000.0,marina gate
+341,Apartment,1967,3,5,3000000.0,marina gate
+342,Apartment,868,1,2,1430000.0,marina gate
+343,Apartment,1471,2,3,2590000.0,marina gate
+344,Apartment,517,0,1,360000.0,dec towers
+345,Apartment,517,0,1,360000.0,dec towers
+346,Apartment,1318,2,3,2225000.0,damac heights
+347,Apartment,1769,3,5,3129548.0,liv residence
+348,Apartment,1443,2,3,2200000.0,liv residence
+349,Apartment,875,1,2,1200000.0,cayan tower
+350,Apartment,788,1,2,1150000.0,west avenue tower
+351,Penthouse,6146,5,6,4799999.0,princess tower
+352,Apartment,6146,5,6,4799999.0,princess tower
+353,Apartment,1152,1,2,1700000.0,marina promenade
+354,Apartment,1377,2,2,1250000.0,emerald residence
+355,Apartment,692,1,2,630000.0,bay central
+356,Apartment,693,1,2,650000.0,bay central
+357,Apartment,702,1,1,545000.0,marina park
+358,Apartment,702,1,1,545000.0,marina park
+359,Apartment,1328,2,2,1800000.0,elite residence
+360,Apartment,736,1,2,700000.0,elite residence
+361,Apartment,1329,2,3,1150000.0,elite residence
+362,Townhouse,3577,3,4,8575000.0,marina gate
+363,Apartment,1432,2,3,2495000.0,marina gate
+364,Apartment,3577,3,5,8575000.0,marina gate
+365,Apartment,949,1,2,1642000.0,marina gate
+366,Apartment,806,1,2,1713000.0,marina gate
+367,Apartment,945,1,2,1594000.0,marina gate
+368,Apartment,1012,1,2,725000.0,westside marina
+369,Apartment,693,1,2,650000.0,bay central
+370,Apartment,693,1,2,650000.0,bay central
+371,Apartment,692,1,2,650000.0,bay central
+372,Apartment,692,1,2,650000.0,bay central
+373,Penthouse,6297,4,5,16000000.0,le reve
+374,Apartment,884,1,2,1100000.0,liv residence
+375,Apartment,1302,2,2,1299998.0,park island
+376,Apartment,1302,2,2,1299998.0,park island
+377,Apartment,767,1,2,1075000.0,al sahab
+378,Apartment,667,1,1,699000.0,marina residence
+379,Apartment,613,1,2,555000.0,marina residence
+380,Apartment,1198,2,3,850000.0,the torch
+381,Apartment,1233,2,2,1550000.0,no.9
+382,Apartment,708,1,2,599000.0,marina diamond 6
+383,Apartment,706,1,2,599000.0,marina diamond 5
+384,Apartment,478,0,1,840000.0,sparkle towers
+385,Apartment,971,1,2,1215000.0,sparkle towers
+386,Apartment,1478,2,3,1995000.0,sparkle towers
+387,Apartment,1874,3,4,2910000.0,sparkle towers
+388,Apartment,2352,4,5,4000000.0,marina gate
+389,Apartment,1410,2,3,825000.0,marina crown
+390,Apartment,5878,3,4,3199999.0,trident waterfront
+391,Apartment,5878,3,4,3197999.0,trident waterfront
+392,Apartment,5878,3,4,3198999.0,trident waterfront
+393,Apartment,1323,2,2,1650000.0,al majara
+394,Apartment,840,1,1,1000050.0,al majara
+395,Apartment,1943,3,3,2099999.0,al sahab
+396,Apartment,1535,2,2,1599999.0,al sahab
+397,Apartment,1469,2,2,1650000.0,al sahab
+398,Apartment,833,1,1,1200000.0,silverene
+399,Apartment,1067,2,2,1900000.0,silverene
+400,Apartment,1381,2,3,2100000.0,marina gate
+401,Apartment,1381,2,3,2100000.0,marina gate
+402,Apartment,726,1,1,600000.0,marina diamond 3
+403,Apartment,1810,2,3,1339999.0,mag 218
+404,Apartment,1367,2,2,1600000.0,marina quays
+405,Apartment,1254,2,2,1500000.0,marina quays
+406,Apartment,1367,2,2,1600000.0,marina quays
+407,Apartment,1254,2,2,1425000.0,marina quays
+408,Apartment,841,1,1,950000.0,al majara
+409,Apartment,1030,1,2,800000.0,the waves
+410,Apartment,1030,1,1,830000.0,the waves
+411,Apartment,3173,4,4,2800000.0,elite residence
+412,Penthouse,6372,4,6,15250000.0,marina gate
+413,Townhouse,1398,1,2,1600000.0,marina promenade
+414,Apartment,1398,1,2,1500000.0,marina promenade
+415,Apartment,729,1,2,695000.0,dream tower
+416,Apartment,910,1,2,575000.0,sulafa tower
+417,Apartment,1350,2,3,1300000.0,elite residence
+418,Apartment,736,1,2,695000.0,elite residence
+419,Apartment,1350,2,3,1300000.0,elite residence
+420,Apartment,1680,3,3,3610888.0,vida residences marina dubai
+421,Apartment,1680,3,3,3610888.0,vida residences marina dubai
+422,Apartment,722,1,2,500000.0,manchester tower
+423,Apartment,1742,2,3,1400000.0,mag 218
+424,Apartment,484,1,1,580000.0,manchester tower
+425,Apartment,505,0,1,745000.0,the royal oceanic
+426,Apartment,4373,3,4,4899548.0,liv residence
+427,Apartment,963,2,3,800000.0,marina diamond 2
+428,Apartment,1718,2,3,1900000.0,5242
+429,Apartment,766,1,2,780000.0,zumurud tower
+430,Apartment,926,1,2,800000.0,al majara
+431,Apartment,1203,2,2,1300000.0,the royal oceanic
+432,Penthouse,6332,4,6,8800000.0,emaar 6 towers
+433,Penthouse,6332,4,6,8800000.0,emaar 6 towers
+434,Apartment,1714,2,3,1049999.0,marina crown
+435,Apartment,1714,2,3,1200000.0,marina crown
+436,Apartment,1159,2,3,1499000.0,studio one
+437,Apartment,627,1,2,1540000.0,marina gate
+438,Apartment,2154,3,4,4150000.0,marina gate
+439,Apartment,692,1,2,650000.0,bay central
+440,Apartment,692,1,2,650000.0,bay central
+441,Apartment,3456,3,5,3300000.0,la residencia del mar
+442,Apartment,1410,2,3,1900000.0,marina promenade
+443,Apartment,704,1,1,1399000.0,5242
+444,Apartment,1499,2,3,1800000.0,damac heights
+445,Apartment,3553,3,4,2950000.0,al seef tower
+446,Apartment,1499,2,3,1900000.0,damac heights
+447,Apartment,726,1,1,790000.0,park island
+448,Apartment,726,1,1,780000.0,park island
+449,Apartment,726,1,1,850000.0,park island
+450,Apartment,726,1,2,800000.0,park island
+451,Apartment,726,1,2,860000.0,park island
+452,Apartment,726,1,2,950000.0,park island
+453,Apartment,2258,3,4,2800000.0,damac heights
+454,Apartment,3884,3,5,3380000.0,emirates crown
+455,Apartment,3875,3,5,3050000.0,emirates crown
+456,Apartment,3885,3,5,2750000.0,emirates crown
+457,Apartment,2992,3,5,2500000.0,23 marina
+458,Apartment,1185,1,2,1045000.0,emaar 6 towers
+459,Apartment,1185,1,2,1095000.0,emaar 6 towers
+460,Apartment,768,1,1,1000050.0,al sahab
+461,Apartment,1535,2,2,1600000.0,al sahab
+462,Apartment,1943,3,3,2099000.0,al sahab
+463,Apartment,1328,2,3,1800000.0,elite residence
+464,Apartment,1180,2,3,1200000.0,princess tower
+465,Apartment,1750,3,4,3100000.0,damac heights
+466,Apartment,1400,2,3,930000.0,yacht bay
+467,Apartment,1490,2,3,1590900.0,marina quays
+468,Apartment,1259,2,3,810000.0,the torch
+469,Apartment,800,1,2,1200000.0,marina quays
+470,Apartment,789,1,1,530000.0,escan tower
+471,Apartment,755,1,1,530000.0,escan tower
+472,Apartment,362,0,1,390000.0,manchester tower
+473,Apartment,362,0,1,390000.0,manchester tower
+474,Apartment,926,1,2,950000.0,the waves
+475,Apartment,1853,3,3,1980000.0,marina tower
+476,Apartment,1371,2,3,1400000.0,iris blue
+477,Apartment,690,1,2,775000.0,dream towers
+478,Apartment,791,1,2,650000.0,marina pinnacle
+479,Apartment,449,0,1,600000.0,bay central
+480,Apartment,2334,4,4,4950888.0,vida residences marina dubai
+481,Apartment,1680,3,3,3616888.0,vida residences marina dubai
+482,Apartment,1680,3,3,3610888.0,vida residences marina dubai
+483,Apartment,1680,3,3,3616888.0,vida residences marina dubai
+484,Apartment,2990,2,2,4018888.0,vida residences marina dubai
+485,Apartment,966,1,2,1399000.0,ocean heights
+486,Townhouse,1398,1,2,1600000.0,marina promenade
+487,Apartment,473,0,1,650000.0,sparkle towers
+488,Apartment,1255,2,3,1850000.0,cayan tower
+489,Apartment,2146,3,4,1490000.0,23 marina
+490,Apartment,1616,2,3,1430000.0,23 marina
+491,Apartment,2146,3,4,1490000.0,23 marina
+492,Apartment,1493,2,3,1550000.0,marina crown
+493,Apartment,811,1,2,1000000.0,marina crown
+494,Apartment,1310,2,2,999000.0,the royal oceanic
+495,Apartment,1328,2,3,850000.0,yacht bay
+496,Apartment,616,0,1,1250000.0,marina gate
+497,Townhouse,4618,4,5,10650000.0,marina gate
+498,Townhouse,3577,3,4,8575000.0,marina gate
+499,Townhouse,2428,2,3,5700000.0,marina gate
+500,Apartment,788,1,2,1040000.0,west avenue tower
+501,Penthouse,6300,4,6,14000000.0,le reve
+502,Penthouse,6100,4,5,14000000.0,le reve
+503,Apartment,713,1,2,1050000.0,west avenue tower
+504,Apartment,713,1,2,1050000.0,west avenue tower
+505,Apartment,902,1,2,1100000.0,silverene
+506,Apartment,727,1,1,725000.0,sulafa tower
+507,Apartment,1683,3,3,3500000.0,vida residences marina dubai
+508,Apartment,4538,3,4,2300000.0,trident waterfront
+509,Townhouse,4538,3,5,2200000.0,trident waterfront
+510,Apartment,1945,3,4,1750000.0,marina wharf
+511,Apartment,764,1,2,950000.0,marina tower
+512,Apartment,2280,3,5,3200000.0,orra marina
+513,Apartment,785,1,2,950000.0,marina tower
+514,Apartment,753,1,2,950000.0,marina tower
+515,Apartment,753,1,1,950000.0,marina tower
+516,Apartment,761,1,2,960000.0,marina tower
+517,Apartment,765,1,2,949000.0,marina tower
+518,Apartment,959,1,1,950000.0,marina tower
+519,Apartment,1378,2,3,1080000.0,the belvedere
+520,Apartment,1372,2,3,2600000.0,iris blue
+521,Apartment,1209,2,3,1190000.0,botanica tower
+522,Apartment,682,1,2,999999.0,no.9
+523,Apartment,1480,2,2,2207325.0,sparkle towers
+524,Apartment,476,0,1,800000.0,sparkle towers
+525,Apartment,2979,3,4,2500000.0,23 marina
+526,Apartment,1069,2,2,1470000.0,silverene
+527,Apartment,1305,2,3,1000000.0,princess tower
+528,Apartment,2013,3,4,1650000.0,princess tower
+529,Apartment,2857,3,4,2500000.0,marina mansions
+530,Apartment,709,1,1,777950.0,park island
+531,Apartment,2860,3,4,2500000.0,ary marina view tower
+532,Apartment,833,2,2,1405000.0,studio one
+533,Apartment,712,1,2,1131000.0,studio one
+534,Apartment,360,0,1,629000.0,studio one
+535,Apartment,962,1,1,1499999.0,park island
+536,Apartment,903,1,2,1250000.0,orra harbour residences and hotel apartments
+537,Apartment,2761,3,4,1750000.0,kg tower
+538,Penthouse,6297,4,5,17000000.0,le reve
+539,Apartment,1262,2,3,1280888.0,ocean heights
+540,Apartment,1431,2,2,2491000.0,marina gate
+541,Apartment,800,1,2,1800000.0,marina gate
+542,Townhouse,3577,3,4,8575000.0,marina gate
+543,Townhouse,4618,4,5,10650000.0,marina gate
+544,Townhouse,3577,3,4,8575000.0,marina gate
+545,Townhouse,4618,4,5,10650000.0,marina gate
+546,Apartment,616,0,1,1490000.0,marina gate
+547,Townhouse,4618,4,3,10650000.0,marina gate
+548,Townhouse,2429,2,3,5700000.0,marina gate
+549,Apartment,2183,3,3,4660000.0,marina gate
+550,Apartment,1480,2,2,2600000.0,marina gate
+551,Duplex,2429,2,3,5700000.0,marina gate
+552,Apartment,1431,2,2,2491000.0,marina gate
+553,Apartment,1516,2,2,3378000.0,marina gate
+554,Apartment,805,1,2,1733000.0,marina gate
+555,Apartment,1431,2,3,2491000.0,marina gate
+556,Apartment,800,1,1,1800000.0,marina gate
+557,Apartment,616,0,1,1490000.0,marina gate
+558,Apartment,1786,3,4,2900000.0,silverene
+559,Apartment,1786,3,4,2900000.0,silverene
+560,Apartment,1713,2,3,1050000.0,marina crown
+561,Apartment,1210,2,2,1050000.0,continental tower
+562,Apartment,1210,2,3,1050000.0,continental tower
+563,Apartment,1396,2,2,1200000.0,continental tower
+564,Apartment,1396,2,3,1200000.0,continental tower
+565,Apartment,1867,3,3,3000000.0,the address dubai marina
+566,Apartment,692,1,1,575000.0,time place tower
+567,Apartment,692,1,1,670000.0,time place tower
+568,Apartment,602,1,2,700000.0,marina residence
+569,Apartment,1350,2,2,1350000.0,west avenue tower
+570,Apartment,602,1,2,700000.0,marina residence
+571,Apartment,1443,2,2,2000000.0,marina promenade
+572,Apartment,1443,2,3,1900000.0,marina promenade
+573,Penthouse,6100,4,5,19500000.0,le reve
+574,Apartment,764,1,2,890000.0,marina quays
+575,Penthouse,6100,4,4,17900000.0,le reve
+576,Apartment,1254,2,3,1900000.0,cayan tower
+577,Apartment,1254,2,3,1900000.0,cayan tower
+578,Apartment,909,1,2,1200000.0,park island
+579,Apartment,922,1,2,1030000.0,park island
+580,Apartment,922,1,2,1050000.0,park island
+581,Apartment,962,1,2,1250000.0,park island
+582,Apartment,1316,3,3,975000.0,manchester tower
+583,Apartment,1316,3,4,980000.0,manchester tower
+584,Apartment,841,1,2,950000.0,al majara
+585,Penthouse,6127,4,4,20000000.0,elite residence
+586,Apartment,1215,2,3,949999.0,marina pearl
+587,Apartment,1215,2,3,950000.0,marina pearl
+588,Apartment,1338,2,2,1150000.0,the royal oceanic
+589,Apartment,884,1,2,1050000.0,bayside residence
+590,Apartment,1075,2,2,1750000.0,no.9
+592,Apartment,1187,1,2,1899000.0,emaar 6 towers
+593,Apartment,360,0,1,525000.0,studio one
+594,Apartment,1136,2,2,1997000.0,no.9
+595,Apartment,1136,2,2,1997000.0,no.9
+596,Apartment,1750,2,2,800000.0,dec towers
+597,Apartment,1182,2,2,900000.0,la riviera
+599,Apartment,980,2,2,650000.0,marina diamond 2
+600,Apartment,1537,2,4,1350000.0,opal tower marina
+601,Apartment,1758,2,2,1500000.0,azure
+602,Apartment,1586,2,4,1350000.0,opal tower marina
+603,Apartment,2609,4,6,5500000.0,cayan tower
+604,Apartment,2612,4,6,5300000.0,cayan tower
+605,Apartment,982,1,2,2292000.0,marina gate
+606,Apartment,617,0,1,1490000.0,marina gate
+607,Apartment,949,1,2,1642000.0,marina gate
+608,Apartment,2146,3,3,4689000.0,marina gate
+609,Apartment,1431,2,3,2491000.0,marina gate
+610,Apartment,1437,2,3,2527000.0,marina gate
+611,Townhouse,4618,4,5,10650000.0,marina gate
+612,Apartment,1517,2,3,3378000.0,marina gate
+613,Townhouse,2429,2,3,5700000.0,marina gate
+614,Apartment,2629,2,3,6050000.0,marina gate
+615,Townhouse,3578,3,4,8575000.0,marina gate
+616,Apartment,982,1,2,2292000.0,marina gate
+617,Apartment,2183,3,4,4661000.0,marina gate
+618,Apartment,2146,3,4,4689000.0,marina gate
+619,Penthouse,6358,4,5,15250000.0,marina gate
+620,Apartment,1431,2,3,2491000.0,marina gate
+621,Apartment,949,1,2,1642000.0,marina gate
+622,Apartment,1437,2,3,2527000.0,marina gate
+623,Apartment,617,0,1,1490000.0,marina gate
+624,Apartment,1256,3,4,1060000.0,marina wharf
+625,Apartment,714,1,1,600000.0,marina diamond 6
+626,Apartment,1295,3,3,1400000.0,marina wharf
+627,Apartment,1422,2,3,2114548.0,liv residence
+628,Apartment,600,1,1,780000.0,studio one
+629,Apartment,500,0,1,650000.0,studio one
+630,Apartment,1998,3,4,2100000.0,princess tower
+631,Apartment,768,1,2,715000.0,dream tower
+632,Apartment,695,1,2,750000.0,dream towers
+633,Apartment,695,1,2,750000.0,dream towers
+634,Apartment,1500,2,3,1650000.0,marina quays
+635,Apartment,1500,2,3,1650000.0,marina quays
+636,Apartment,692,1,2,560000.0,time place tower
+637,Apartment,692,1,2,600000.0,time place tower
+638,Apartment,849,1,1,1550000.0,marina gate
+639,Apartment,902,1,1,1400000.0,marina gate
+640,Apartment,849,1,1,1550000.0,marina gate
+641,Apartment,2326,3,4,2299999.0,trident waterfront
+642,Apartment,2326,3,4,2299999.0,trident waterfront
+643,Apartment,481,0,1,399999.0,marina pearl
+644,Apartment,1330,2,3,1350000.0,elite residence
+645,Apartment,470,0,1,750000.0,botanica tower
+646,Apartment,1803,3,3,1950000.0,marina terra
+647,Penthouse,3692,4,4,4500000.0,elite residence
+648,Apartment,1679,1,2,2100000.0,marina arcade tower
+649,Apartment,1215,2,4,1872640.0,marina arcade tower
+650,Apartment,545,0,1,900000.0,the address dubai marina
+651,Apartment,1443,2,3,2000000.0,marina promenade
+652,Apartment,1443,2,3,2099950.0,marina promenade
+653,Apartment,1443,2,2,2000000.0,marina promenade
+654,Apartment,550,0,1,530000.0,dec towers
+655,Apartment,550,0,1,530000.0,dec towers
+656,Apartment,1500,2,3,1949998.0,marina promenade
+657,Apartment,714,1,2,830000.0,west avenue tower
+658,Apartment,1500,2,3,2300000.0,marina promenade
+659,Apartment,2600,4,5,4500000.0,cayan tower
+660,Apartment,2352,4,5,4100000.0,marina gate
+661,Apartment,2352,4,4,3990000.0,marina gate
+662,Apartment,1618,2,3,1975000.0,marina arcade tower
+663,Apartment,691,1,1,775000.0,dream towers
+664,Apartment,1302,2,3,1700000.0,park island
+665,Apartment,875,1,2,1350000.0,cayan tower
+666,Apartment,875,1,2,1350000.0,cayan tower
+667,Apartment,2450,4,4,1800000.0,horizon tower
+668,Apartment,2450,4,4,1800000.0,horizon tower
+669,Apartment,1586,3,4,2350000.0,marina tower
+670,Apartment,1586,3,4,2350000.0,marina tower
+671,Apartment,1453,2,3,2000000.0,trident grand residence
+672,Apartment,1453,2,3,2000000.0,trident grand residence
+673,Penthouse,4900,4,4,6500000.0,marina crown
+674,Penthouse,4900,4,4,6500000.0,marina crown
+675,Apartment,1105,1,2,780000.0,the jewels
+676,Apartment,4488,4,5,3100000.0,the jewels
+677,Apartment,2150,2,3,1600000.0,the jewels
+678,Apartment,1939,3,4,3890000.0,damac residenze
+679,Apartment,1923,3,4,3863000.0,damac residenze
+680,Apartment,1395,2,3,2250000.0,damac heights
+681,Apartment,737,1,2,650000.0,elite residence
+682,Apartment,1747,3,3,3690888.0,5242
+683,Apartment,1724,3,3,3259888.0,5242
+684,Apartment,1608,3,3,3352888.0,5242
+685,Apartment,1747,3,3,3648888.0,5242
+686,Apartment,1120,2,2,2220888.0,5242
+687,Apartment,1120,2,2,2193888.0,5242
+688,Apartment,1176,2,2,2405888.0,5242
+689,Apartment,992,1,1,1964888.0,5242
+690,Apartment,982,1,1,2094888.0,5242
+691,Apartment,1065,2,2,1650000.0,5242
+692,Townhouse,6200,4,5,19000000.0,le reve
+693,Townhouse,3199,4,4,3300000.0,princess tower
+694,Apartment,753,1,1,920000.0,marina tower
+695,Apartment,753,1,1,920000.0,marina tower
+696,Apartment,700,1,2,1450000.0,vida residences marina dubai
+697,Apartment,1670,3,4,3150000.0,vida residences marina dubai
+698,Apartment,1255,2,2,1250000.0,vida residences marina dubai
+699,Apartment,1670,3,3,2808888.0,vida residences marina dubai
+700,Apartment,1670,3,3,2808888.0,vida residences marina dubai
+701,Apartment,1670,3,4,3150000.0,vida residences marina dubai
+702,Apartment,1858,3,4,3200000.0,marina gate
+703,Apartment,1858,3,4,3200000.0,marina gate
+704,Apartment,1158,2,2,1450000.0,vida residences marina dubai
+705,Apartment,1328,2,3,1800000.0,elite residence
+706,Apartment,737,1,1,725000.0,elite residence
+707,Apartment,1130,2,3,1900000.0,5242
+708,Apartment,1130,2,3,1900000.0,5242
+709,Apartment,2045,3,3,4000000.0,marina quays
+710,Apartment,691,1,2,1450000.0,marina gate
+711,Apartment,868,1,2,1625000.0,marina gate
+712,Apartment,898,1,2,1380000.0,marina gate
+713,Apartment,625,1,2,1300000.0,marina gate
+714,Apartment,1814,3,3,3500000.0,marina gate
+715,Townhouse,4396,4,5,8000000.0,the jewels
+716,Townhouse,4396,4,5,8000000.0,the jewels
+717,Apartment,1364,2,3,2800000.0,vida residences marina dubai
+718,Apartment,3553,3,3,3750000.0,al seef tower
+719,Apartment,3553,3,3,3750000.0,al seef tower
+720,Apartment,3553,3,4,3750000.0,al seef tower
+721,Apartment,723,1,2,930000.0,studio one
+722,Apartment,722,1,2,925000.0,studio one
+723,Apartment,660,1,2,1000000.0,no.9
+724,Apartment,1212,2,3,1100000.0,the point
+725,Apartment,743,1,2,575000.0,sulafa tower
+726,Apartment,700,1,2,650000.0,bay central
+727,Apartment,1376,2,3,1475000.0,cayan tower
+728,Apartment,1255,2,2,1200000.0,cayan tower
+729,Apartment,2612,3,5,6400000.0,cayan tower
+730,Apartment,1814,3,4,3125000.0,marina gate
+731,Apartment,1814,3,3,3400000.0,marina gate
+732,Apartment,1307,2,3,1800000.0,al majara
+733,Apartment,1307,2,3,1800000.0,al majara
+734,Apartment,1330,2,3,1350000.0,elite residence
+735,Apartment,1330,2,3,1350000.0,elite residence
+736,Apartment,624,0,1,515000.0,marina diamond 3
+737,Apartment,624,0,1,525000.0,marina diamond 3
+738,Apartment,2120,4,4,4000000.0,damac heights
+739,Apartment,1420,2,3,2050999.0,damac heights
+740,Apartment,880,1,2,1490000.0,damac heights
+741,Apartment,1464,2,3,2090000.0,damac heights
+742,Apartment,1615,2,3,1400000.0,23 marina
+743,Apartment,2372,3,4,1900000.0,trident waterfront
+744,Apartment,899,1,2,895000.0,marina crown
+745,Apartment,744,1,1,459950.0,marina park
+746,Apartment,744,1,1,459950.0,marina park
+747,Apartment,945,1,1,1200000.0,al sahab
+748,Apartment,945,1,1,1200000.0,al sahab
+749,Apartment,1203,2,2,1395000.0,the royal oceanic
+750,Apartment,1348,2,3,1150000.0,skyview tower
+751,Apartment,1348,2,2,1200000.0,skyview tower
+752,Apartment,1161,2,2,1090000.0,bay central
+753,Apartment,651,1,1,950000.0,bay central
+754,Apartment,1570,2,2,2500000.0,emaar 6 towers
+755,Apartment,1219,2,2,770000.0,marina pinnacle
+756,Apartment,3881,3,3,4500000.0,emirates crown
+757,Apartment,773,1,1,1500000.0,marina gate
+758,Apartment,1211,2,2,2499000.0,marina gate
+759,Apartment,773,1,1,1500000.0,marina gate
+760,Apartment,1000,2,2,2250000.0,marina gate
+761,Apartment,616,1,1,1400000.0,marina gate
+762,Apartment,773,1,1,1500000.0,marina gate
+763,Apartment,770,1,1,1540000.0,marina gate
+764,Apartment,953,1,2,1250000.0,marina promenade
+765,Apartment,1496,2,3,2400000.0,marina promenade
+766,Apartment,1814,3,4,3750000.0,marina gate
+767,Apartment,2067,2,3,1799999.0,al seef tower
+768,Apartment,2900,4,4,2645000.0,emaar 6 towers
+771,Apartment,3811,3,3,3129999.0,emirates crown
+772,Apartment,1405,2,3,2000000.0,marina promenade
+773,Apartment,890,1,2,1100000.0,marina promenade
+774,Apartment,971,1,3,949999.0,ocean heights
+775,Apartment,771,1,2,819990.0,west avenue tower
+776,Apartment,2518,3,3,2750000.0,emaar 6 towers
+777,Apartment,844,1,2,750000.0,mag 218
+778,Apartment,2363,3,4,2700000.0,continental tower
+779,Apartment,1396,2,3,1249000.0,continental tower
+780,Apartment,1913,2,2,1599523.0,sparkle towers
+781,Apartment,2161,3,4,1490000.0,23 marina
+782,Apartment,956,1,2,1100000.0,marina promenade
+783,Apartment,1443,2,3,2000000.0,marina promenade
+784,Apartment,1443,2,3,2000000.0,marina promenade
+785,Apartment,1076,1,2,1300000.0,marina promenade
+786,Apartment,891,1,2,1300000.0,marina promenade
+787,Apartment,1558,2,3,2000000.0,marina promenade
+788,Apartment,1305,2,2,960000.0,princess tower
+789,Apartment,1564,2,3,2050000.0,marina quays
+790,Apartment,1546,2,3,1650000.0,marina quays
+791,Apartment,1564,2,3,2050000.0,marina quays
+792,Apartment,2901,4,5,3300000.0,emaar 6 towers
+793,Apartment,1443,2,3,1950000.0,marina promenade
+794,Apartment,3696,4,6,2100000.0,kg tower
+795,Apartment,841,1,1,925000.0,al majara
+796,Apartment,765,1,2,590000.0,the royal oceanic
+797,Apartment,765,2,1,600000.0,the royal oceanic
+798,Apartment,1173,2,3,800000.0,yacht bay
+799,Apartment,1547,3,5,1600000.0,ocean heights
+800,Apartment,1547,3,3,1599999.0,ocean heights
+801,Apartment,1547,3,5,1650000.0,ocean heights
+802,Penthouse,5644,4,5,6500000.0,23 marina
+803,Penthouse,5644,4,6,8500000.0,23 marina
+804,Apartment,737,1,2,720000.0,elite residence
+805,Penthouse,7727,4,4,6000000.0,the jewels
+806,Apartment,1711,3,4,1150000.0,marina pinnacle
+807,Apartment,1711,3,3,1150000.0,marina pinnacle
+808,Apartment,1734,3,3,1190000.0,the zen tower
+809,Apartment,1734,3,3,1190000.0,the zen tower
+810,Apartment,1027,1,2,1100000.0,the waves
+811,Apartment,1027,1,2,1100000.0,the waves
+812,Apartment,2152,3,5,2500000.0,the waves
+813,Apartment,2152,3,5,2500000.0,the waves
+814,Apartment,798,1,2,600000.0,dream towers
+815,Apartment,842,1,2,625000.0,marina crown
+816,Apartment,770,1,2,1420000.0,marina gate
+817,Apartment,627,1,1,950000.0,marina gate
+818,Apartment,775,1,2,1500000.0,marina gate
+819,Apartment,823,1,2,1300000.0,marina gate
+820,Apartment,618,1,1,1020000.0,marina gate
+821,Apartment,4396,4,5,5800000.0,the jewels
+822,Townhouse,5234,5,6,7500000.0,the jewels
+823,Apartment,1376,2,3,1400000.0,cayan tower
+824,Penthouse,4150,3,4,9995000.0,emaar 6 towers
+825,Apartment,1210,2,3,1049099.0,continental tower
+826,Apartment,1210,1,2,1049099.0,continental tower
+827,Apartment,2901,4,5,3550000.0,emaar 6 towers
+828,Apartment,2555,3,4,3050000.0,emaar 6 towers
+829,Apartment,2056,3,3,2800000.0,al majara
+830,Apartment,2409,4,4,1799000.0,horizon tower
+831,Apartment,2555,3,4,3050000.0,emaar 6 towers
+832,Apartment,2056,3,3,2800000.0,al majara
+833,Apartment,2901,4,4,3550000.0,emaar 6 towers
+834,Apartment,1154,1,2,1300000.0,ocean heights
+835,Apartment,821,1,2,1680000.0,liv residence
+836,Apartment,821,1,2,1680000.0,liv residence
+837,Apartment,1734,3,3,1250000.0,the zen tower
+838,Apartment,1735,3,4,1250000.0,the zen tower
+839,Apartment,1733,3,3,1250000.0,the zen tower
+840,Apartment,4195,3,4,4000000.0,emaar 6 towers
+841,Apartment,1307,2,3,1400000.0,continental tower
+842,Apartment,4195,3,4,4000000.0,emaar 6 towers
+843,Penthouse,4150,3,4,9995000.0,emaar 6 towers
+844,Apartment,880,1,2,1200000.0,the address dubai marina
+845,Apartment,880,1,2,1200000.0,the address dubai marina
+846,Apartment,2475,3,3,3199999.0,dorra bay
+847,Apartment,2475,3,3,3199999.0,dorra bay
+848,Apartment,958,1,2,1299950.0,marina promenade
+849,Apartment,958,1,2,1299950.0,marina promenade
+850,Apartment,2980,3,4,1999950.0,23 marina
+851,Apartment,2980,3,4,1999950.0,23 marina
+852,Penthouse,3650,3,4,6999000.0,no.9
+853,Penthouse,3650,3,4,6999000.0,no.9
+854,Apartment,1536,2,2,1300000.0,opal tower marina
+855,Apartment,1507,3,3,1100000.0,sulafa tower
+856,Apartment,960,1,2,949000.0,marina tower
+857,Apartment,1728,3,4,1090000.0,sulafa tower
+858,Apartment,2979,3,4,2400000.0,23 marina
+859,Apartment,2901,4,4,3450000.0,emaar 6 towers
+860,Apartment,908,1,2,1099000.0,park island
+862,Apartment,1282,2,2,1900000.0,damac heights
+863,Penthouse,5811,4,5,12949000.0,marina gate
+864,Penthouse,3694,4,5,4850000.0,elite residence
+865,Penthouse,3694,4,5,4850000.0,elite residence
+866,Apartment,1350,2,4,1750000.0,liv residence
+867,Penthouse,4717,4,4,10000000.0,liv residence
+868,Apartment,1006,1,2,1099950.0,vida residences marina dubai
+869,Apartment,975,1,2,700000.0,sulafa tower
+870,Apartment,1377,2,3,1000000.0,emerald residence
+871,Apartment,777,1,1,649999.0,marina diamond 4
+872,Apartment,700,1,2,790000.0,park island
+873,Apartment,709,1,2,850000.0,park island
+874,Apartment,1227,2,2,1200000.0,continental tower
+875,Apartment,1227,2,2,1250000.0,continental tower
+876,Apartment,1806,3,4,3450000.0,5242
+877,Apartment,1291,2,3,1200000.0,marina heights
+879,Apartment,964,2,2,875000.0,marina view
+880,Apartment,903,1,2,750000.0,marina sail
+881,Apartment,1001,2,2,800000.0,marina diamond 4
+882,Apartment,761,1,2,750000.0,marina view
+883,Apartment,762,1,2,750000.0,marina view
+884,Apartment,762,1,2,740000.0,marina view
+885,Apartment,662,1,2,1075000.0,no.9
+886,Apartment,796,1,2,600000.0,panoramic tower
+887,Apartment,600,0,1,375000.0,dec towers
+888,Apartment,944,1,1,1250000.0,al sahab
+889,Apartment,1102,2,3,1200000.0,marina residence
+890,Apartment,1330,2,2,1350000.0,al majara
+891,Apartment,1303,2,3,1630000.0,al majara
+892,Apartment,690,1,2,750000.0,dream towers
+893,Apartment,360,0,1,575000.0,studio one
+894,Apartment,981,1,2,2195000.0,marina gate
+895,Apartment,617,0,1,1430000.0,marina gate
+896,Apartment,740,1,2,650000.0,sulafa tower
+897,Apartment,1854,3,4,1500000.0,marina tower
+898,Apartment,1264,2,2,900000.0,marina park
+899,Apartment,879,1,2,1350000.0,the address dubai marina
+900,Apartment,357,0,1,510000.0,studio one
+901,Apartment,2460,3,4,3199999.0,marina arcade tower
+902,Apartment,1496,3,3,1800000.0,the point
+903,Apartment,736,1,2,1000000.0,iris blue
+904,Apartment,827,1,2,1124000.0,sparkle towers
+905,Apartment,6307,4,5,13999999.0,le reve
+906,Apartment,2197,3,4,2150000.0,23 marina
+907,Apartment,736,1,2,700000.0,elite residence
+908,Apartment,862,1,1,850000.0,princess tower
+909,Apartment,713,1,2,915000.0,cayan tower
+910,Apartment,1525,2,3,1550000.0,cayan tower
+911,Apartment,1255,2,3,1850000.0,cayan tower
+912,Apartment,1140,1,2,1250000.0,marina promenade
+913,Apartment,2518,3,4,2749950.0,emaar 6 towers
+914,Apartment,811,1,2,750000.0,marina crown
+915,Apartment,811,1,1,698000.0,marina crown
+916,Apartment,1120,2,2,1200000.0,al majara
+917,Apartment,1736,3,3,2200000.0,cayan tower
+918,Apartment,909,1,2,1199950.0,park island
+919,Apartment,1245,3,4,1400000.0,marina wharf
+920,Apartment,2663,3,4,1749950.0,marina mansions
+921,Apartment,833,2,2,14050000.0,studio one
+922,Apartment,714,1,2,1142000.0,studio one
+923,Apartment,659,1,2,985000.0,studio one
+924,Apartment,3948,4,5,7100000.0,marina gate
+925,Apartment,1382,2,3,950000.0,yacht bay
+926,Apartment,1410,2,2,2000000.0,marina promenade
+927,Apartment,920,1,2,775000.0,princess tower
+928,Apartment,923,1,2,850000.0,princess tower
+929,Apartment,495,0,1,575000.0,studio one
+930,Apartment,1786,3,4,2625000.0,silverene
+931,Apartment,953,1,2,1300000.0,marina promenade
+932,Apartment,2328,3,4,2299000.0,trident bayside
+933,Apartment,860,1,2,1550000.0,marina gate
+934,Apartment,875,1,2,1250000.0,cayan tower
+935,Apartment,1456,2,3,925000.0,marina crown
+936,Townhouse,1355,1,2,2300000.0,marina promenade
+937,Apartment,951,1,2,1249950.0,al majara
+938,Apartment,1012,1,2,900000.0,the belvedere
+939,Apartment,1141,1,2,1245000.0,marina promenade
+940,Apartment,1325,2,3,1700000.0,iris blue
+941,Apartment,477,0,1,749999.0,sparkle towers
+942,Apartment,778,1,2,780000.0,dream towers
+943,Apartment,3937,3,3,4450000.0,emirates crown
+944,Apartment,465,0,1,750000.0,botanica tower
+945,Apartment,1400,2,3,1400000.0,cayan tower
+946,Apartment,1521,2,3,1600000.0,cayan tower
+947,Apartment,875,1,2,1200000.0,cayan tower
+948,Apartment,953,1,2,1249500.0,marina promenade
+949,Apartment,1329,2,2,1550000.0,elite residence
+950,Apartment,1937,2,2,1999999.0,the jewels
+951,Apartment,1814,2,3,1075000.0,kg tower
+952,Apartment,1861,1,1,1650000.0,emaar 6 towers
+953,Apartment,708,1,2,770000.0,dorra bay
+954,Apartment,909,1,2,1200000.0,park island
+955,Apartment,775,1,2,1500000.0,marina gate
+956,Apartment,708,1,1,625000.0,marina diamond 6
+957,Apartment,2699,3,4,2700000.0,kg tower
+958,Apartment,1770,2,4,1275000.0,kg tower
+959,Apartment,941,1,2,730000.0,marina sail
+960,Apartment,2798,3,4,2100000.0,marina sail
+961,Apartment,1739,2,3,800000.0,dec towers
+962,Apartment,1490,2,3,820000.0,dec towers
+963,Apartment,1245,3,3,1300000.0,marina wharf
+964,Apartment,1302,2,3,1900000.0,park island
+965,Apartment,922,1,2,1100000.0,park island
+966,Apartment,674,1,1,580000.0,marina diamond 4
+967,Apartment,1979,3,4,4990000.0,marina promenade
+968,Apartment,1640,2,3,2104000.0,damac heights
+969,Apartment,1814,3,4,4170000.0,marina gate
+970,Apartment,1211,2,2,2587000.0,marina gate
+971,Apartment,773,1,2,1555000.0,marina gate
+972,Apartment,1255,2,3,2575000.0,marina gate
+973,Apartment,1229,2,3,2552000.0,marina gate
+974,Apartment,773,1,2,1533000.0,marina gate
+975,Apartment,1105,2,2,1350000.0,the point
+976,Apartment,710,1,1,1075000.0,5242
+977,Apartment,670,1,1,1075000.0,5242
+978,Apartment,1490,3,4,2490000.0,trident oceanic
+979,Apartment,1674,3,4,2999999.0,vida residences marina dubai
+980,Apartment,875,1,2,1600000.0,marina gate
+981,Apartment,1258,2,2,800000.0,the torch
+982,Apartment,1509,2,2,2399950.0,emaar 6 towers
+983,Apartment,1509,2,2,2200000.0,emaar 6 towers
+984,Apartment,1509,2,2,2300000.0,emaar 6 towers
+985,Apartment,2400,3,3,2850000.0,emaar 6 towers
+986,Apartment,1441,2,3,2300000.0,silverene
+987,Apartment,1324,2,2,1599950.0,al majara
+988,Apartment,1787,3,3,2200000.0,cayan tower
+989,Apartment,5079,4,4,8500000.0,silverene
+990,Apartment,713,1,2,1250000.0,cayan tower
+991,Apartment,619,1,1,949999.0,marina gate
+992,Apartment,1786,3,4,3400000.0,silverene
+993,Apartment,1366,2,3,1700000.0,marina promenade
+994,Apartment,1329,2,3,1390000.0,elite residence
+995,Apartment,800,1,2,750000.0,panoramic tower
+996,Apartment,592,1,1,825000.0,studio one
+997,Apartment,592,1,1,825000.0,studio one
+998,Apartment,1367,2,3,1799950.0,marina promenade
+999,Apartment,1944,3,3,1500000.0,marina wharf
+1000,Apartment,1269,2,3,1600000.0,marina tower
+1001,Apartment,1502,3,4,999999.0,sulafa tower
+1002,Penthouse,1315,2,2,1899999.0,marina quays
+1003,Apartment,1509,3,3,1075000.0,sulafa tower
+1004,Apartment,1727,3,4,1089000.0,sulafa tower
+1005,Apartment,1728,3,4,1090000.0,sulafa tower
+1006,Apartment,875,1,2,1499950.0,marina gate
+1007,Apartment,980,1,2,750000.0,the torch
+1008,Apartment,980,1,2,750000.0,the torch
+1009,Apartment,807,1,2,1045000.0,botanica tower
+1010,Apartment,3882,4,5,2650000.0,emirates crown
+1011,Apartment,3885,4,5,2395000.0,emirates crown
+1012,Apartment,844,1,1,1045000.0,damac heights
+1013,Apartment,2280,3,5,3200000.0,orra marina
+1014,Apartment,1480,2,2,1750000.0,park island
+1015,Apartment,992,1,2,1964888.0,5242
+1016,Apartment,2970,3,4,2100000.0,23 marina
+1017,Apartment,1814,3,5,3500000.0,marina gate
+1018,Penthouse,3719,5,5,7000000.0,bay central
+1019,Apartment,1825,2,3,2200000.0,the atlantic
+1020,Apartment,922,1,1,720000.0,princess tower
+1021,Apartment,829,2,2,1000000.0,studio one
+1022,Apartment,826,2,2,1000000.0,studio one
+1023,Apartment,591,1,2,875000.0,studio one
+1024,Apartment,3076,3,5,1800000.0,kg tower
+1025,Apartment,1255,2,3,2575000.0,marina gate
+1026,Apartment,773,1,2,1533000.0,marina gate
+1027,Apartment,928,1,2,1150000.0,damac heights
+1028,Apartment,928,1,2,1199999.0,damac heights
+1029,Apartment,374,0,1,470000.0,marina diamond 1
+1030,Apartment,572,0,1,550000.0,marina diamond 2
+1031,Apartment,1043,2,2,1864548.0,liv residence
+1032,Apartment,1328,2,3,1889548.0,liv residence
+1033,Apartment,529,0,1,919000.0,liv residence
+1034,Apartment,504,0,1,857548.0,liv residence
+1035,Apartment,504,0,1,872548.0,liv residence
+1036,Apartment,1328,2,2,2150000.0,liv residence
+1037,Townhouse,4544,3,4,4900000.0,emaar 6 towers
+1038,Apartment,2672,3,4,2300000.0,marina quays
+1039,Apartment,2430,2,3,2100000.0,marina quays
+1040,Apartment,339,1,1,499999.0,tfg marina hotel
+1041,Apartment,1814,3,4,3600000.0,marina gate
+1042,Apartment,1850,3,4,2400000.0,ocean heights
+1043,Apartment,1490,2,3,1050000.0,dec towers
+1044,Apartment,909,1,2,899000.0,park island
+1045,Apartment,909,1,2,899000.0,park island
+1046,Apartment,710,1,2,800000.0,park island
+1047,Apartment,932,1,2,1100000.0,park island
+1048,Apartment,2353,4,5,3800000.0,marina gate
+1050,Apartment,898,1,2,750000.0,mag 218
+1052,Apartment,1220,2,2,940000.0,marina pinnacle
+1053,Apartment,746,1,2,1120000.0,vida residences marina dubai
+1054,Apartment,2860,3,4,2200000.0,ary marina view tower
+1055,Apartment,5645,4,4,6500000.0,23 marina
+1056,Apartment,1858,3,4,3200000.0,marina gate
+1057,Apartment,1334,2,3,2000000.0,5242
+1058,Apartment,790,1,1,610000.0,marina diamond 4
+1059,Apartment,1350,2,3,1400000.0,marina tower
+1060,Apartment,1405,2,2,2350000.0,marina promenade
+1061,Apartment,1347,2,3,1650000.0,park island
+1062,Apartment,690,1,2,775000.0,dream towers
+1063,Apartment,1739,2,3,850000.0,dec towers
+1064,Apartment,592,1,1,720000.0,studio one
+1065,Apartment,360,0,1,449999.0,studio one
+1066,Apartment,160,3,4,1080000.0,marina tower
+1067,Apartment,1255,2,3,2399999.0,marina gate
+1068,Apartment,1694,2,2,1450000.0,emaar 6 towers
+1069,Apartment,768,1,2,1050000.0,al sahab
+1070,Apartment,1000,2,3,1000000.0,marina view
+1071,Townhouse,5121,5,6,6000000.0,bay central
+1072,Townhouse,4624,4,5,5100000.0,bay central
+1073,Apartment,807,1,2,1300000.0,silverene
+1074,Apartment,1497,2,3,2000000.0,marina promenade
+1075,Apartment,795,1,1,843999.0,marina quays
+1076,Apartment,1182,1,2,1450000.0,trident grand residence
+1077,Apartment,1356,2,3,1390000.0,dorra bay
+1078,Apartment,2030,3,3,4150000.0,marina quays
+1079,Apartment,690,1,1,1199999.0,marina gate
+1080,Apartment,1850,2,3,1450000.0,trident marinascape
+1081,Apartment,1162,2,2,1269999.0,bay central
+1082,Apartment,1650,2,3,1600000.0,trident marinascape
+1083,Apartment,2018,3,4,1750000.0,dorra bay
+1084,Apartment,3553,3,4,3750000.0,al seef tower
+1085,Apartment,1860,2,3,1450000.0,trident marinascape
+1086,Apartment,1382,2,3,1350000.0,ocean heights
+1087,Apartment,2150,3,4,2900000.0,trident grand residence
+1088,Apartment,1860,2,3,2100000.0,trident marinascape
+1089,Apartment,890,1,1,1700000.0,damac heights
+1090,Apartment,1376,2,3,1650000.0,cayan tower
+1091,Apartment,765,1,2,650000.0,the royal oceanic
+1092,Apartment,1858,3,3,2895000.0,marina promenade
+1093,Penthouse,6250,5,7,5000000.0,princess tower
+1094,Apartment,1237,2,2,1500000.0,west avenue tower
+1095,Apartment,1304,2,3,950000.0,princess tower
+1096,Apartment,1480,2,3,1800000.0,park island
+1097,Apartment,514,0,1,650000.0,the royal oceanic
+1098,Apartment,1560,2,2,835000.0,ary marina view tower
+1099,Apartment,857,1,2,1600000.0,marina gate
+1100,Apartment,1171,2,3,2740000.0,marina gate
+1101,Apartment,1181,2,3,2430000.0,marina gate
+1102,Apartment,763,1,2,1650000.0,marina gate
+1103,Apartment,1160,2,3,2450000.0,the address jumeirah resort and spa
+1104,Apartment,1498,2,3,3130000.0,the address jumeirah resort and spa
+1105,Apartment,1553,2,3,2499950.0,marina promenade
+1106,Apartment,1553,2,3,2400000.0,marina promenade
+1107,Apartment,789,1,2,1362925.0,marina arcade tower
+1108,Apartment,1161,2,3,1740000.0,marina arcade tower
+1109,Apartment,1524,2,3,2200000.0,damac heights
+1110,Apartment,1487,2,3,2100000.0,damac heights
+1111,Apartment,1813,3,4,3150000.0,cayan tower
+1112,Apartment,1290,2,3,1900000.0,damac heights
+1113,Apartment,1302,2,2,1650000.0,al majara
+1114,Apartment,1350,2,3,1900000.0,park island
+1115,Apartment,746,1,2,1000000.0,vida residences marina dubai
+1116,Apartment,1676,2,3,950000.0,kg tower
+1117,Apartment,1456,2,3,2100000.0,damac heights
+1118,Apartment,824,1,2,560000.0,dec towers
+1119,Apartment,824,1,2,590000.0,dec towers
+1120,Apartment,691,1,1,590000.0,time place tower
+1121,Apartment,1378,2,3,950000.0,sulafa tower
+1122,Penthouse,3122,3,5,6745000.0,no.9
+1123,Apartment,461,0,1,837499.0,liv residence
+1124,Apartment,1366,2,3,1700000.0,marina quays
+1125,Apartment,768,1,1,950000.0,al sahab
+1126,Apartment,2204,3,4,2500000.0,al sahab
+1127,Apartment,2204,3,4,2500000.0,al sahab
+1128,Apartment,909,1,2,1299999.0,park island
+1129,Apartment,1302,2,3,1950000.0,park island
+1130,Apartment,1480,2,3,2050000.0,park island
+1131,Apartment,1302,2,2,1400000.0,park island
+1132,Apartment,2859,3,4,1999999.0,ary marina view tower
+1133,Apartment,917,1,1,595000.0,sulafa tower
+1134,Apartment,2409,4,4,1600000.0,horizon tower
+1135,Apartment,1502,3,3,1150000.0,sulafa tower
+1136,Apartment,865,0,1,524999.0,dec towers
+1137,Apartment,1858,3,4,3199999.0,marina gate
+1138,Apartment,3682,3,4,6100000.0,la residencia del mar
+1139,Apartment,844,1,2,630000.0,mag 218
+1140,Penthouse,6732,5,6,6450000.0,la riviera
+1141,Apartment,2112,1,2,1100000.0,studio one
+1142,Apartment,1739,2,3,850000.0,dec towers
+1143,Apartment,1184,2,3,799950.0,yacht bay
+1144,Apartment,592,1,1,795000.0,studio one
+1145,Apartment,1139,2,3,2205888.0,5242
+1146,Apartment,768,1,1,800000.0,al sahab
+1147,Apartment,1544,2,4,1500000.0,trident marinascape
+1148,Apartment,1376,2,3,1675000.0,cayan tower
+1149,Apartment,762,1,2,960000.0,marina tower
+1150,Apartment,1664,2,2,2400000.0,marina promenade
+1151,Apartment,3562,3,5,3500000.0,the atlantic
+1152,Apartment,4585,4,5,5900000.0,bay central
+1153,Apartment,4585,4,5,6950000.0,bay central
+1154,Apartment,1739,2,2,820000.0,dec towers
+1155,Apartment,592,1,1,800000.0,studio one
+1156,Apartment,823,1,2,550000.0,dec towers
+1157,Apartment,2611,2,3,2050000.0,emirates crown
+1158,Apartment,1198,2,2,950000.0,the torch
+1159,Apartment,736,1,1,550000.0,marina diamond 3
+1160,Apartment,1586,3,3,2100000.0,marina tower
+1161,Apartment,1900,3,4,3188888.0,marina tower
+1163,Apartment,1709,2,3,1200000.0,trident waterfront
+1165,Apartment,2314,3,4,2200000.0,trident bayside
+1166,Apartment,1347,2,3,2000000.0,park island
+1167,Apartment,360,0,1,575000.0,studio one
+1168,Apartment,725,1,2,1000000.0,studio one
+1169,Apartment,813,1,2,1300000.0,liv residence
+1170,Apartment,736,1,2,1299999.0,iris blue
+1171,Apartment,1325,2,3,1650000.0,iris blue
+1172,Apartment,1443,2,4,2130000.0,liv residence
+1173,Apartment,1798,2,3,1100000.0,mag 218
+1174,Apartment,690,1,2,775000.0,dream towers
+1175,Apartment,837,1,2,1400000.0,marina gate
+1176,Apartment,2279,3,3,3928250.0,marina gate
+1177,Apartment,2200,4,4,12216050.0,marina gate
+1179,Apartment,830,1,2,1500000.0,marina gate
+1180,Apartment,545,0,1,999999.0,marina gate
+1181,Apartment,1663,2,3,2100000.0,marina arcade tower
+1182,Apartment,722,1,2,1100000.0,west avenue tower
+1183,Apartment,1258,2,3,970000.0,the torch
+1184,Penthouse,6408,4,6,15700000.0,marina gate
+1185,Townhouse,2428,2,3,5700000.0,marina gate
+1186,Townhouse,4618,4,6,10650000.0,marina gate
+1187,Townhouse,3577,3,5,8573000.0,marina gate
+1188,Apartment,820,2,2,1475000.0,studio one
+1189,Apartment,502,0,1,600000.0,studio one
+1190,Apartment,833,2,2,1090000.0,studio one
+1191,Apartment,834,2,2,1250000.0,studio one
+1192,Apartment,1226,2,2,1180000.0,bay central
+1193,Apartment,692,1,2,650000.0,bay central
+1194,Apartment,1787,3,4,2700000.0,silverene
+1195,Apartment,1067,2,2,1900000.0,silverene
+1196,Apartment,1556,2,3,2200000.0,silverene
+1197,Apartment,832,1,2,1200000.0,silverene
+1198,Duplex,2649,3,4,6200000.0,marina quays
+1199,Apartment,2488,3,3,1745000.0,marina view
+1200,Apartment,1302,2,3,1900000.0,park island
+1201,Apartment,787,1,2,900000.0,the royal oceanic
+1202,Apartment,2327,3,5,1900000.0,trident waterfront
+1203,Apartment,1329,2,2,1800000.0,elite residence
+1204,Apartment,1775,3,3,1450000.0,trident grand residence
+1205,Apartment,736,1,2,800000.0,elite residence
+1206,Apartment,759,2,2,845000.0,marina wharf
+1207,Apartment,1287,3,3,1180000.0,marina wharf
+1208,Apartment,1006,2,2,2100000.0,no.9
+1209,Apartment,720,1,2,799000.0,botanica tower
+1210,Apartment,1330,2,3,975000.0,elite residence
+1211,Apartment,1314,2,3,1900000.0,damac heights
+1212,Apartment,950,1,2,1300000.0,damac heights
+1213,Townhouse,4537,3,5,2500000.0,trident waterfront
+1214,Apartment,968,1,2,1500000.0,damac heights
+1215,Apartment,705,1,2,790000.0,bay central
+1217,Apartment,443,0,1,500000.0,marina diamond 3
+1218,Apartment,750,1,1,875000.0,west avenue tower
+1219,Apartment,1400,2,3,1899999.0,cayan tower
+1220,Apartment,5839,4,3,7000000.0,23 marina
+1221,Apartment,768,1,1,800000.0,al sahab
+1222,Apartment,2982,3,4,2100000.0,23 marina
+1223,Apartment,2326,3,4,1730000.0,trident waterfront
+1224,Apartment,830,1,2,1250000.0,silverene
+1225,Penthouse,5743,4,5,13500000.0,trident grand residence
+1226,Apartment,957,1,2,815000.0,ocean heights
+1227,Apartment,1440,2,3,1300000.0,ocean heights
+1228,Apartment,1187,1,2,1050000.0,ocean heights
+1229,Apartment,2018,3,4,1599950.0,dorra bay
+1230,Apartment,4274,3,3,3900000.0,emaar 6 towers
+1231,Apartment,1347,2,3,1600000.0,park island
+1232,Apartment,2497,3,4,2875000.0,emaar 6 towers
+1233,Apartment,1198,2,2,950000.0,the torch
+1234,Apartment,1200,2,2,988888.0,the torch
+1235,Apartment,982,2,2,895000.0,la riviera
+1236,Apartment,1372,2,3,1830000.0,cayan tower
+1237,Apartment,592,1,1,850000.0,studio one
+1238,Apartment,1599,2,2,2289616.0,marina arcade tower
+1239,Penthouse,5056,4,5,9100656.0,marina arcade tower
+1240,Apartment,2091,3,4,3260000.0,marina arcade tower
+1241,Apartment,841,1,2,1452747.0,marina arcade tower
+1242,Apartment,789,1,2,1362925.0,marina arcade tower
+1243,Apartment,1552,2,2,1800000.0,emaar 6 towers
+1244,Apartment,2164,3,2,1800000.0,marina view
+1245,Apartment,761,1,1,900000.0,marina quays
+1246,Apartment,1386,2,3,1900000.0,marina gate
+1247,Apartment,1386,2,3,1975000.0,marina gate
+1248,Apartment,1724,3,4,3259888.0,5242
+1249,Apartment,507,0,1,949548.0,liv residence
+1250,Apartment,861,1,2,1749548.0,liv residence
+1251,Apartment,1043,2,3,1915000.0,liv residence
+1252,Apartment,871,1,2,1355000.0,liv residence
+1253,Apartment,1715,2,3,2200000.0,emaar 6 towers
+1254,Apartment,817,1,2,950000.0,the belvedere
+1255,Apartment,720,1,2,1150000.0,botanica tower
+1256,Apartment,838,1,2,1450000.0,marina gate
+1257,Apartment,1502,3,3,1000000.0,sulafa tower
+1258,Apartment,848,1,2,1350000.0,damac heights
+1259,Apartment,2100,3,3,3200000.0,marina arcade tower
+1260,Apartment,1357,2,3,1500000.0,dorra bay
+1261,Apartment,1497,2,3,2450000.0,marina promenade
+1262,Apartment,775,1,2,1800000.0,marina gate
+1263,Apartment,1312,2,3,2175000.0,marina gate
+1264,Apartment,772,1,2,1100000.0,marina gate
+1265,Apartment,1283,2,3,1050000.0,la riviera
+1266,Apartment,1490,2,2,785000.0,dec towers
+1267,Apartment,923,1,2,800000.0,princess tower
+1268,Apartment,1258,2,2,1050000.0,the torch
+1269,Apartment,2980,3,4,2400000.0,23 marina
+1270,Apartment,1739,2,3,850000.0,dec towers
+1271,Apartment,1245,3,4,1327500.0,marina wharf
+1272,Penthouse,5624,5,5,6500000.0,23 marina
+1274,Apartment,1497,2,3,2089000.0,marina promenade
+1275,Apartment,1026,1,2,1475000.0,marina promenade
+1276,Apartment,1497,2,3,2100000.0,marina promenade
+1277,Apartment,1246,3,3,1100000.0,marina wharf
+1278,Apartment,1602,2,3,1799950.0,trident grand residence
+1279,Apartment,712,1,1,1131000.0,studio one
+1280,Apartment,887,1,1,735000.0,azure
+1281,Apartment,1750,2,3,1200000.0,azure
+1282,Apartment,3881,3,6,3900000.0,emirates crown
+1283,Apartment,723,1,1,970000.0,studio one
+1284,Apartment,773,1,2,1533000.0,marina gate
+1285,Apartment,877,1,2,495000.0,marina pearl
+1286,Apartment,1733,3,3,1400000.0,the zen tower
+1287,Apartment,1454,2,3,1164000.0,the zen tower
+1288,Apartment,1667,2,3,1250000.0,kg tower
+1289,Apartment,1168,2,2,950000.0,yacht bay
+1290,Apartment,1875,2,3,2100000.0,trident oceanic
+1291,Apartment,5757,4,5,3745000.0,marina view
+1292,Apartment,2995,3,4,1990000.0,yacht bay
+1293,Apartment,770,1,2,1600000.0,marina gate
+1294,Apartment,613,1,2,595000.0,marina residence
+1295,Apartment,1532,3,2,1275000.0,la riviera
+1296,Apartment,834,2,2,1550000.0,studio one
+1297,Apartment,2590,4,5,2950000.0,emaar 6 towers
+1298,Apartment,847,1,2,1450000.0,damac heights
+1299,Apartment,1303,2,3,1650000.0,al majara
+1300,Apartment,713,1,2,875000.0,west avenue tower
+1301,Apartment,1056,2,3,2300000.0,5242
+1302,Apartment,614,1,2,1300000.0,5242
+1303,Apartment,1102,2,3,1730000.0,studio one
+1304,Apartment,1100,1,2,800000.0,the jewels
+1305,Apartment,690,1,2,775000.0,dream towers
+1306,Apartment,2980,3,4,2349000.0,23 marina
+1307,Apartment,1258,2,2,1149950.0,the torch
+1308,Apartment,2451,4,4,1649000.0,horizon tower
+1309,Apartment,897,1,2,1500000.0,the address dubai marina
+1310,Apartment,1105,1,2,800000.0,the jewels
+1311,Townhouse,4447,4,5,7000000.0,the jewels
+1312,Apartment,1432,2,3,1999999.0,marina gate
+1313,Duplex,2484,3,4,2200000.0,dorra bay
+1314,Apartment,3022,4,5,2000000.0,marina crown
+1315,Apartment,2174,3,4,1600000.0,marina crown
+1316,Apartment,2314,3,3,2260000.0,trident bayside
+1317,Apartment,638,1,1,750000.0,bay central
+1318,Apartment,660,1,2,1000000.0,no.9
+1319,Apartment,1150,2,3,1575000.0,no.9
+1320,Apartment,2449,3,3,2099000.0,trident marinascape
+1321,Apartment,822,1,2,750000.0,marina wharf
+1322,Apartment,753,1,1,565000.0,marina diamond 4
+1323,Apartment,762,1,2,845000.0,marina quays
+1324,Apartment,1258,2,2,1430000.0,west avenue tower
+1325,Duplex,5600,4,5,7900000.0,23 marina
+1326,Apartment,1746,3,4,3000000.0,damac heights
+1327,Apartment,1746,3,4,2990000.0,damac heights
+1328,Apartment,1329,2,2,1399999.0,elite residence
+1329,Apartment,1180,2,2,1699999.0,princess tower
+1330,Apartment,624,1,1,654000.0,marina diamond 3
+1331,Apartment,918,1,2,650000.0,sulafa tower
+1332,Penthouse,1608,2,3,1999999.0,marina quays
+1333,Apartment,858,1,1,1550000.0,botanica tower
+1334,Apartment,800,1,2,570000.0,marina pinnacle
+1335,Apartment,1300,2,2,850000.0,marina pinnacle
+1336,Apartment,1750,3,3,1150000.0,marina pinnacle
+1337,Apartment,1875,3,3,2395000.0,marina quays
+1338,Apartment,2326,3,4,1725000.0,trident waterfront
+1339,Penthouse,5878,3,4,3000000.0,trident waterfront
+1340,Apartment,1100,1,2,560000.0,dec towers
+1341,Apartment,2445,2,4,1590000.0,emirates crown
+1342,Apartment,1550,2,3,2300000.0,marina promenade
+1343,Penthouse,5810,4,5,12950000.0,marina gate
+1344,Apartment,936,1,2,950000.0,park island
+1345,Apartment,763,1,2,649000.0,the royal oceanic
+1346,Apartment,1388,2,3,1350000.0,the royal oceanic
+1347,Apartment,881,1,2,700000.0,mag 218
+1348,Apartment,2178,3,4,2350000.0,trident grand residence
+1349,Apartment,1663,2,3,1650000.0,trident grand residence
+1350,Apartment,1185,1,2,1140000.0,emaar 6 towers
+1351,Apartment,895,1,2,1200000.0,marina promenade
+1352,Apartment,909,1,2,1300000.0,the address dubai marina
+1353,Apartment,880,1,2,1400000.0,the address dubai marina
+1354,Apartment,761,1,2,500000.0,marina pinnacle
+1355,Apartment,769,1,2,900000.0,al sahab
+1356,Apartment,768,1,2,950000.0,al sahab
+1357,Apartment,1894,3,3,2499999.0,marina tower
+1358,Apartment,474,0,1,620000.0,botanica tower
+1359,Apartment,612,1,1,669000.0,tfg marina hotel
+1360,Apartment,623,1,1,650000.0,marina diamond 3
+1361,Apartment,982,2,2,1100000.0,la riviera
+1362,Apartment,2514,3,4,3000000.0,emaar 6 towers
+1363,Apartment,867,1,2,2150000.0,marina gate
+1364,Apartment,891,1,2,1250000.0,marina promenade
+1365,Apartment,923,1,2,850000.0,princess tower
+1366,Apartment,1225,2,2,1095000.0,time place tower
+1367,Apartment,980,1,2,720000.0,dorra bay
+1368,Apartment,896,1,2,1249995.0,marina promenade
+1369,Apartment,714,1,2,1199950.0,cayan tower
+1370,Apartment,2980,3,4,2150000.0,23 marina
+1371,Apartment,1861,2,2,1650000.0,emaar 6 towers
+1372,Apartment,847,1,2,1550000.0,damac heights
+1373,Apartment,1259,2,2,1589950.0,west avenue tower
+1374,Apartment,616,0,1,1490000.0,marina gate
+1375,Apartment,1313,2,3,999000.0,the waves
+1376,Apartment,1211,2,3,2499000.0,marina gate
+1377,Apartment,1377,2,2,1400000.0,emerald residence
+1378,Apartment,710,1,1,540000.0,marina diamond 5
+1379,Apartment,517,0,1,380000.0,dec towers
+1380,Apartment,1330,2,3,1249000.0,elite residence
+1381,Apartment,761,1,2,929999.0,marina tower
+1382,Apartment,795,1,1,1300000.0,park island
+1383,Apartment,1792,3,4,2200000.0,silverene
+1384,Apartment,3000,3,5,4000000.0,cayan tower
+1385,Apartment,1557,2,3,2100000.0,silverene
+1386,Apartment,1376,2,3,1450000.0,cayan tower
+1387,Apartment,1813,3,3,2600000.0,cayan tower
+1388,Apartment,2014,3,4,1790000.0,princess tower
+1389,Apartment,1441,2,3,2200000.0,silverene
+1390,Apartment,1479,2,3,1900000.0,park island
+1391,Apartment,1395,2,3,2534000.0,marina gate
+1392,Penthouse,3307,4,6,6650000.0,marina gate
+1393,Apartment,1944,3,4,1400000.0,time place tower
+1394,Apartment,3875,3,3,3400000.0,emirates crown
+1395,Apartment,1100,2,3,1849999.0,silverene
+1396,Apartment,517,0,1,380000.0,dec towers
+1397,Apartment,1210,2,2,1750000.0,marina quays
+1398,Apartment,2050,3,4,3600000.0,marina quays
+1399,Apartment,761,1,2,700000.0,marina pinnacle
+1400,Apartment,886,1,1,619000.0,the torch
+1401,Apartment,1720,2,2,1500000.0,azure
+1402,Apartment,801,1,1,700000.0,yacht bay
+1403,Apartment,746,1,2,1120000.0,vida residences marina dubai
+1404,Apartment,1000,1,2,1390000.0,damac heights
+1405,Apartment,744,1,2,670000.0,mag 218
+1406,Apartment,1338,2,2,1600000.0,al majara
+1407,Apartment,750,1,2,700000.0,yacht bay
+1408,Apartment,360,0,1,520000.0,studio one
+1409,Apartment,833,2,2,1258888.0,studio one
+1410,Apartment,833,2,2,1250000.0,studio one
+1411,Apartment,2514,3,4,3200000.0,emaar 6 towers
+1412,Apartment,573,1,1,475000.0,manchester tower
+1413,Apartment,2141,2,2,1900000.0,the jewels
+1414,Apartment,714,1,2,1200000.0,cayan tower
+1415,Apartment,1594,3,3,1600000.0,the point
+1416,Apartment,962,1,2,1249999.0,park island
+1417,Apartment,385,0,1,399999.0,marina diamond 1
+1418,Apartment,2800,3,4,1999995.0,23 marina
+1419,Apartment,1909,2,3,2300000.0,the address dubai marina
+1420,Apartment,1770,3,2,3150000.0,liv residence
+1421,Apartment,1055,2,2,1700000.0,silverene
+1422,Apartment,600,1,2,920000.0,silverene
+1423,Apartment,1305,2,2,1050000.0,princess tower
+1424,Apartment,885,1,2,649999.0,the torch
+1425,Apartment,1734,3,3,1250000.0,the zen tower
+1426,Apartment,466,0,1,650000.0,botanica tower
+1427,Apartment,861,1,1,548000.0,marina park
+1428,Townhouse,4364,3,5,3099999.0,time place tower
+1429,Apartment,1328,1,2,1100000.0,the waves
+1430,Apartment,1348,2,3,2000000.0,liv residence
+1431,Apartment,1376,2,3,1595000.0,cayan tower
+1432,Apartment,1279,2,2,850000.0,the torch
+1433,Apartment,1582,2,3,1700000.0,ocean heights
+1434,Apartment,1219,2,3,1100000.0,marina pinnacle
+1435,Apartment,1801,3,4,1780000.0,marina pinnacle
+1436,Apartment,867,1,1,1600000.0,marina gate
+1437,Apartment,1071,1,2,899999.0,ocean heights
+1438,Apartment,1490,1,2,975000.0,elite residence
+1439,Apartment,1270,2,3,2164548.0,liv residence
+1440,Apartment,942,1,2,1525548.0,liv residence
+1441,Apartment,1043,2,3,1914548.0,liv residence
+1442,Apartment,891,1,2,1250000.0,marina promenade
+1443,Apartment,778,1,2,1200000.0,marina quays
+1444,Apartment,713,1,2,850000.0,west avenue tower
+1445,Apartment,1314,2,3,1900000.0,damac heights
+1446,Apartment,600,1,2,550000.0,marina view
+1447,Townhouse,4584,4,5,5900000.0,bay central
+1448,Apartment,358,0,1,600000.0,studio one
+1449,Apartment,664,1,2,765000.0,dream towers
+1450,Apartment,865,1,2,1503000.0,sparkle towers
+1451,Apartment,2514,3,4,3195000.0,emaar 6 towers
+1452,Apartment,1800,2,3,2000000.0,the atlantic
+1453,Apartment,1036,1,2,1295000.0,marina promenade
+1454,Apartment,1485,2,3,1450000.0,marina crown
+1455,Apartment,982,2,2,1100000.0,la riviera
+1456,Apartment,1739,2,3,830000.0,dec towers
+1457,Apartment,890,1,2,800000.0,ocean heights
+1458,Apartment,1167,2,3,900000.0,yacht bay
+1459,Apartment,1830,2,3,1500000.0,marina terra
+1460,Apartment,1384,2,3,1100000.0,sulafa tower
+1461,Townhouse,2672,3,4,2500000.0,marina quays
+1462,Apartment,1192,2,2,1650000.0,marina arcade tower
+1463,Townhouse,8427,7,7,7950000.0,trident bayside
+1464,Townhouse,7172,5,6,6460000.0,trident bayside
+1465,Apartment,591,1,1,850000.0,studio one
+1466,Apartment,3022,4,6,2250000.0,marina crown
+1467,Apartment,926,1,2,1500000.0,marina promenade
+1468,Apartment,1480,2,3,1900000.0,park island
+1469,Apartment,950,1,2,1300000.0,damac heights
+1470,Apartment,616,1,1,1490000.0,marina gate
+1471,Apartment,2314,3,4,2260000.0,trident bayside
+1472,Apartment,949,1,2,1300000.0,damac heights
+1473,Apartment,1958,3,5,3050000.0,marina gate
+1474,Apartment,2352,2,3,1900000.0,la residencia del mar
+1475,Apartment,1258,2,2,1000000.0,the torch
+1476,Apartment,827,1,1,1300000.0,bay central
+1477,Apartment,1281,2,4,1150000.0,continental tower
+1478,Townhouse,7172,5,6,6460000.0,trident bayside
+1479,Apartment,1394,2,3,2199950.0,continental tower
+1480,Apartment,699,1,2,1149990.0,continental tower
+1481,Apartment,1503,3,3,1200000.0,sulafa tower
+1482,Apartment,3553,3,5,3300000.0,al seef tower
+1483,Apartment,1105,1,2,830000.0,the jewels
+1484,Apartment,719,1,2,800000.0,botanica tower
+1485,Apartment,909,1,2,1100000.0,park island
+1486,Penthouse,6972,4,5,3850000.0,trident waterfront
+1487,Apartment,1226,2,3,1120000.0,bay central
+1488,Apartment,1185,2,3,1190000.0,marina heights
+1489,Apartment,946,1,2,1450000.0,marina promenade
+1490,Penthouse,5845,4,5,13152000.0,marina gate
+1491,Apartment,1547,3,5,1650000.0,ocean heights
+1492,Apartment,1904,3,3,2000000.0,marina terra
+1493,Apartment,875,1,2,1100000.0,cayan tower
+1494,Apartment,1339,2,3,1120000.0,the royal oceanic
+1495,Apartment,1484,2,3,1600000.0,marina quays
+1496,Apartment,1071,2,2,900000.0,marina residence
+1497,Apartment,922,1,2,1050000.0,park island
+1498,Apartment,1036,1,1,1400000.0,marina promenade
+1499,Apartment,728,1,1,640000.0,dream towers
+1500,Apartment,775,1,2,1575000.0,marina gate
+1501,Penthouse,3307,4,5,6650000.0,marina gate
+1502,Apartment,1516,2,3,3378000.0,marina gate
+1503,Apartment,806,1,2,1713000.0,marina gate
+1504,Townhouse,4618,4,6,10650000.0,marina gate
+1505,Apartment,1520,2,3,3475000.0,marina gate
+1506,Apartment,978,1,2,2310000.0,marina gate
+1507,Apartment,2183,3,4,4661000.0,marina gate
+1508,Apartment,1441,2,3,2565000.0,marina gate
+1509,Apartment,949,1,2,1642000.0,marina gate
+1510,Apartment,1211,2,2,2587000.0,marina gate
+1511,Townhouse,2428,2,4,5700000.0,marina gate
+1512,Apartment,2146,3,5,4689000.0,marina gate
+1513,Apartment,981,1,2,2292000.0,marina gate
+1514,Apartment,616,0,1,1492000.0,marina gate
+1515,Apartment,616,0,1,1490000.0,marina gate
+1516,Apartment,800,1,2,1801000.0,marina gate
+1517,Apartment,773,1,2,1590000.0,marina gate
+1518,Apartment,773,1,2,1533000.0,marina gate
+1519,Apartment,1814,3,4,4173000.0,marina gate
+1520,Penthouse,3122,3,4,7950000.0,no.9
+1521,Apartment,714,1,2,1142000.0,studio one
+1522,Apartment,714,1,2,1131000.0,studio one
+1523,Apartment,360,0,1,679000.0,studio one
+1524,Apartment,1229,2,3,2552000.0,marina gate
+1525,Apartment,1136,2,3,1997000.0,no.9
+1526,Penthouse,3951,4,6,7100000.0,marina gate
+1527,Penthouse,5810,4,6,12950000.0,marina gate
+1528,Apartment,1645,3,3,1590000.0,marina terra
+1529,Apartment,1554,2,3,1399000.0,marina terra
+1530,Apartment,857,1,2,780000.0,marina view
+1531,Apartment,821,1,2,1400000.0,liv residence
+1532,Apartment,1769,3,4,3000000.0,liv residence
+1533,Apartment,2291,2,3,3350000.0,liv residence
+1534,Apartment,1384,2,3,1800000.0,liv residence
+1535,Apartment,1050,2,2,840000.0,marina diamond 4
+1536,Apartment,805,1,2,1299000.0,liv residence
+1537,Apartment,520,0,1,480000.0,dec towers
+1538,Apartment,1507,3,3,1200000.0,sulafa tower
+1539,Apartment,950,1,2,630000.0,dec towers
+1540,Apartment,661,1,2,1130000.0,no.9
+1541,Apartment,666,1,1,590000.0,marina diamond 2
+1542,Apartment,2000,3,3,2090000.0,marina tower
+1543,Apartment,800,1,2,1200000.0,marina quays
+1544,Apartment,838,1,2,1400000.0,marina gate
+1545,Apartment,1619,3,4,2900000.0,5242
+1546,Apartment,1056,2,2,1800000.0,5242
+1547,Apartment,1653,2,3,1550000.0,trident marinascape
+1548,Apartment,1278,2,2,850000.0,the torch
+1549,Apartment,1302,2,3,1800000.0,park island
+1550,Apartment,958,1,2,1100000.0,marina promenade
+1551,Apartment,1258,2,2,899900.0,the torch
+1552,Apartment,827,1,2,690000.0,bay central
+1553,Apartment,958,1,2,1250000.0,marina promenade
+1554,Apartment,1036,1,2,1400000.0,marina promenade
+1555,Apartment,1304,2,3,950000.0,princess tower
+1556,Apartment,3201,4,5,2900000.0,princess tower
+1557,Penthouse,3172,4,6,3950000.0,elite residence
+1558,Penthouse,7600,5,5,11000000.0,trident grand residence
+1559,Apartment,2179,2,3,2200000.0,the jewels
+1560,Apartment,1036,1,2,1400000.0,marina promenade
+1561,Apartment,692,1,1,675000.0,time place tower
+1562,Penthouse,3313,3,3,6958500.0,no.9
+1563,Penthouse,3313,3,3,6950500.0,no.9
+1564,Apartment,473,0,1,680000.0,sparkle towers
+1565,Apartment,476,0,1,680000.0,sparkle towers
+1566,Apartment,609,1,1,500000.0,wyndham marina dubai
+1567,Apartment,2409,4,4,1800000.0,horizon tower
+1568,Apartment,1620,2,3,1175000.0,23 marina
+1571,Duplex,2787,3,4,4700000.0,vida residences marina dubai
+1572,Apartment,1017,1,2,1700000.0,vida residences marina dubai
+1573,Apartment,3554,3,5,4500000.0,al seef tower
+1574,Apartment,2547,4,5,3200000.0,cayan tower
+1575,Apartment,1102,1,2,800000.0,the jewels
+1576,Apartment,775,1,2,1000000.0,marina quays
+1577,Apartment,1550,2,3,1600000.0,marina quays
+1578,Apartment,833,1,2,890000.0,botanica tower
+1579,Apartment,830,1,2,899998.0,botanica tower
+1580,Apartment,720,1,2,790000.0,botanica tower
+1581,Apartment,807,1,2,770000.0,botanica tower
+1582,Apartment,807,1,2,890000.0,botanica tower
+1583,Apartment,1318,2,2,1419998.0,orra marina
+1584,Apartment,1170,2,3,1200000.0,ocean heights
+1585,Apartment,877,1,2,950000.0,ocean heights
+1586,Apartment,1256,2,2,2250000.0,marina quays
+1587,Apartment,1075,1,2,1200000.0,marina promenade
+1588,Apartment,1390,2,2,1600000.0,sulafa tower
+1589,Apartment,1375,2,3,1900000.0,cayan tower
+1590,Apartment,699,1,2,1000000.0,west avenue tower
+1591,Apartment,700,1,2,900000.0,west avenue tower
+1592,Apartment,700,1,2,825000.0,west avenue tower
+1593,Apartment,1120,2,2,1694888.0,5242
+1594,Apartment,762,1,2,1220000.0,cayan tower
+1595,Apartment,728,1,2,800000.0,skyview tower
+1596,Apartment,728,1,2,850000.0,skyview tower
+1597,Penthouse,2649,3,4,6249999.0,marina quays
+1598,Apartment,1256,2,2,1895000.0,marina quays
+1599,Apartment,1062,2,2,1850000.0,silverene
+1600,Penthouse,6307,4,5,14000000.0,le reve
+1601,Apartment,1067,2,2,1450000.0,silverene
+1602,Penthouse,3313,3,4,6958500.0,no.9
+1603,Apartment,3080,3,3,2000000.0,23 marina
+1604,Apartment,3554,4,5,3750000.0,al seef tower
+1605,Apartment,709,1,1,760000.0,park island
+1606,Apartment,709,1,1,760000.0,park island
+1607,Apartment,3882,3,6,3950000.0,emirates crown
+1608,Apartment,1979,3,4,4500000.0,marina promenade
+1609,Apartment,753,1,1,630000.0,marina diamond 4
+1610,Apartment,841,1,1,925000.0,al majara
+1611,Apartment,1502,3,3,1150000.0,sulafa tower
+1612,Apartment,1596,3,3,1700000.0,skyview tower
+1613,Apartment,1243,2,3,1890000.0,liv residence
+1614,Penthouse,4717,4,5,9990548.0,liv residence
+1615,Apartment,1563,2,3,1995000.0,damac heights
+1616,Penthouse,4642,4,5,11900000.0,marina gate
+1617,Apartment,1259,2,3,2400000.0,marina gate
+1618,Apartment,2297,3,4,3400000.0,al sahab
+1619,Apartment,8000,4,5,10500000.0,emirates crown
+1620,Apartment,2857,3,4,1900000.0,marina mansions
+1621,Apartment,2455,2,4,1600000.0,emirates crown
+1622,Apartment,981,2,2,1305000.0,la riviera
+1623,Apartment,1036,1,2,1400000.0,marina promenade
+1624,Apartment,2007,3,4,1650000.0,princess tower
+1625,Apartment,1739,2,3,850000.0,dec towers
+1626,Apartment,1277,2,2,1890000.0,marina gate
+1627,Apartment,788,1,1,1150000.0,west avenue tower
+1628,Apartment,1411,2,3,850000.0,marina crown
+1629,Apartment,2450,2,2,1620000.0,emirates crown
+1630,Apartment,609,0,1,650000.0,yacht bay
+1631,Apartment,1653,2,3,1680000.0,trident marinascape
+1632,Apartment,693,1,2,950000.0,bay central
+1633,Apartment,923,1,2,825000.0,princess tower
+1634,Apartment,1910,2,3,1850000.0,the address dubai marina
+1635,Apartment,909,1,2,1050000.0,park island
+1636,Apartment,801,1,2,900000.0,elite residence
+1637,Apartment,1405,2,3,2099950.0,marina promenade
+1638,Apartment,651,1,2,1099999.0,bay central
+1639,Apartment,1688,2,2,2485000.0,emaar 6 towers
+1640,Apartment,1405,2,3,2099950.0,marina promenade
+1641,Apartment,2755,3,4,3000000.0,emaar 6 towers
+1642,Apartment,1150,2,2,1400000.0,la riviera
+1643,Apartment,864,1,2,700000.0,mag 218
+1644,Apartment,1279,2,2,1090000.0,the torch
+1645,Apartment,2990,3,4,2590000.0,23 marina
+1646,Apartment,886,1,1,700000.0,the torch
+1647,Penthouse,5456,5,6,5700000.0,marina heights
+1648,Apartment,1198,2,2,820000.0,the torch
+1649,Penthouse,3442,2,3,9000000.0,la residencia del mar
+1650,Apartment,848,1,1,1100000.0,the address dubai marina
+1651,Apartment,1700,2,3,1550000.0,mag 218
+1652,Apartment,2330,3,4,1650000.0,trident waterfront
+1653,Apartment,1350,2,2,1199999.0,skyview tower
+1654,Apartment,923,1,2,780000.0,princess tower
+1655,Apartment,859,1,2,1695000.0,liv residence
+1656,Apartment,1550,2,3,1625000.0,iris blue
+1657,Apartment,1441,2,3,1900000.0,silverene
+1658,Penthouse,5600,4,4,6500000.0,23 marina
+1659,Apartment,1497,2,3,2450000.0,marina promenade
+1660,Apartment,967,1,2,1245000.0,damac heights
+1661,Apartment,1066,2,2,1500000.0,silverene
+1662,Apartment,1315,2,2,1500000.0,ocean heights
+1663,Duplex,3348,3,5,2525000.0,trident bayside
+1664,Apartment,957,1,2,1300000.0,marina promenade
+1665,Apartment,958,1,2,1200000.0,marina promenade
+1666,Apartment,714,1,2,600000.0,marina diamond 6
+1667,Apartment,877,1,2,970000.0,ocean heights
+1668,Apartment,708,1,1,650000.0,marina diamond 6
+1669,Apartment,950,1,2,999999.0,park island
+1670,Apartment,1998,3,4,2400000.0,princess tower
+1671,Apartment,746,1,1,1200000.0,vida residences marina dubai
+1672,Apartment,1075,1,2,1250000.0,marina promenade
+1673,Apartment,2097,3,4,2950000.0,marina promenade
+1674,Apartment,1073,1,2,1250000.0,marina promenade
+1675,Apartment,1595,3,3,1199999.0,la riviera
+1676,Apartment,844,1,2,685000.0,mag 218
+1677,Apartment,1430,1,2,1750000.0,marina promenade
+1678,Apartment,1271,2,3,999905.0,yacht bay
+1679,Apartment,1202,2,3,1200000.0,yacht bay
+1680,Apartment,713,1,2,1100000.0,cayan tower
+1681,Apartment,838,1,2,1380000.0,marina gate
+1682,Apartment,2080,3,4,1700000.0,azure
+1683,Apartment,1302,2,3,1700000.0,park island
+1684,Apartment,1000,2,2,810000.0,marina diamond 4
+1685,Penthouse,4834,4,6,5799000.0,marina crown
+1686,Apartment,720,1,1,775000.0,botanica tower
+1687,Apartment,919,1,2,899999.0,al sahab
+1688,Penthouse,6727,5,6,8999999.0,emaar 6 towers
+1689,Apartment,1219,2,2,795000.0,marina pinnacle
+1690,Apartment,1207,2,3,1550000.0,marina arcade tower
+1691,Apartment,1275,2,2,750000.0,marina park
+1692,Apartment,1350,2,3,1594950.0,orra marina
+1693,Penthouse,5810,4,5,12950000.0,marina gate
+1694,Apartment,1329,2,3,1450000.0,elite residence
+1695,Apartment,1913,2,3,1550000.0,sparkle towers
+1696,Apartment,600,1,2,1450000.0,silverene
+1697,Penthouse,5500,4,5,6900000.0,23 marina
+1698,Apartment,690,1,2,775000.0,dream towers
+1699,Apartment,1167,2,2,800000.0,yacht bay
+1700,Apartment,2755,3,4,3500000.0,emaar 6 towers
+1701,Apartment,980,1,2,850000.0,dorra bay
+1702,Apartment,1209,2,2,850000.0,marina pinnacle
+1703,Apartment,775,1,2,1575000.0,marina gate
+1704,Apartment,1008,1,2,1249950.0,marina promenade
+1705,Apartment,908,1,1,830000.0,mag 218
+1706,Apartment,838,1,2,1490000.0,marina gate
+1707,Apartment,1382,2,3,2500000.0,marina gate
+1708,Apartment,1856,3,5,2000000.0,skyview tower
+1709,Apartment,1653,2,3,1530000.0,trident marinascape
+1710,Apartment,762,1,2,950000.0,marina tower
+1711,Apartment,2345,3,4,3199999.0,emaar 6 towers
+1712,Apartment,1770,3,4,3129548.0,liv residence
+1713,Apartment,1043,2,3,1914548.0,liv residence
+1714,Apartment,871,1,2,1354548.0,liv residence
+1715,Apartment,461,0,1,837548.0,liv residence
+1716,Apartment,1304,2,2,1100000.0,princess tower
+1717,Apartment,1694,2,2,2975000.0,emaar 6 towers
+1718,Apartment,1256,2,2,1580000.0,marina quays
+1719,Apartment,755,1,2,1574950.0,marina gate
+1720,Apartment,370,0,1,355000.0,manchester tower
+1721,Apartment,1586,2,3,1350000.0,opal tower marina
+1722,Apartment,1586,2,4,1350000.0,opal tower marina
+1723,Apartment,1586,2,4,1350000.0,opal tower marina
+1724,Apartment,1723,2,3,1240000.0,mag 218
+1725,Apartment,1820,2,3,1500000.0,mag 218
+1726,Apartment,2405,3,4,1700000.0,the point
+1727,Apartment,1558,2,3,1990000.0,marina promenade
+1728,Apartment,960,1,2,1100000.0,sparkle towers
+1729,Apartment,840,1,1,900000.0,al majara
+1730,Apartment,1910,2,3,2300000.0,the address dubai marina
+1731,Apartment,958,1,2,1250000.0,marina promenade
+1732,Apartment,1485,2,3,1500000.0,marina crown
+1733,Apartment,720,1,1,800000.0,botanica tower
+1735,Apartment,720,1,2,825000.0,botanica tower
+1736,Apartment,1596,2,3,1400000.0,skyview tower
+1737,Apartment,1488,2,3,825000.0,dec towers
+1738,Penthouse,4032,3,4,3300000.0,the torch
+1739,Apartment,691,1,2,595000.0,time place tower
+1740,Apartment,3881,3,6,3650000.0,emirates crown
+1741,Apartment,871,1,2,1354540.0,liv residence
+1742,Apartment,871,1,1,1270000.0,liv residence
+1743,Apartment,878,1,1,700000.0,time place tower
+1744,Apartment,1578,2,3,1350000.0,trident bayside
+1745,Apartment,1480,2,3,1550000.0,park island
+1746,Apartment,1979,3,4,3300000.0,marina promenade
+1747,Apartment,2552,3,5,2500000.0,emaar 6 towers
+1748,Apartment,1302,2,3,1700000.0,park island
+1749,Apartment,1270,2,3,1650000.0,damac heights
+1750,Apartment,724,1,2,1100000.0,studio one
+1751,Apartment,724,1,2,1150000.0,studio one
+1752,Apartment,3172,4,5,3600000.0,elite residence
+1753,Apartment,614,1,1,935000.0,marina view
+1754,Apartment,1104,2,3,1100000.0,marina residence
+1755,Apartment,1208,2,3,1050000.0,botanica tower
+1756,Apartment,916,1,2,625000.0,sulafa tower
+1757,Apartment,736,1,2,700000.0,elite residence
+1758,Apartment,940,1,2,895000.0,marina sail
+1759,Apartment,1603,2,3,2380000.0,trident grand residence
+1760,Apartment,840,1,2,950000.0,al majara
+1761,Apartment,827,1,2,1195500.0,sparkle towers
+1762,Apartment,963,1,2,1225500.0,sparkle towers
+1763,Apartment,1913,2,3,1783500.0,sparkle towers
+1764,Apartment,1861,3,4,3021888.0,sparkle towers
+1765,Apartment,2000,2,3,1820000.0,sparkle towers
+1766,Apartment,616,0,1,1290000.0,marina gate
+1767,Apartment,2756,3,5,3300000.0,emaar 6 towers
+1768,Apartment,823,1,2,525000.0,dec towers
+1769,Apartment,922,1,2,1050000.0,park island
+1770,Apartment,1822,3,5,3200000.0,marina gate
+1771,Apartment,1693,2,3,1640000.0,the royal oceanic
+1772,Apartment,2243,2,3,2200000.0,the jewels
+1773,Apartment,1211,2,2,2200000.0,marina gate
+1774,Apartment,1255,2,3,2000000.0,marina gate
+1775,Apartment,1158,2,2,1450000.0,vida residences marina dubai
+1776,Apartment,2018,3,3,1425000.0,dorra bay
+1777,Apartment,848,1,1,1450000.0,vida residences marina dubai
+1778,Apartment,1465,2,3,1650000.0,cayan tower
+1779,Apartment,922,1,2,999950.0,park island
+1780,Apartment,476,0,1,800000.0,sparkle towers
+1781,Apartment,823,1,2,510000.0,dec towers
+1782,Apartment,1741,2,3,1350000.0,mag 218
+1783,Apartment,358,0,1,500000.0,studio one
+1784,Apartment,1507,3,4,1200000.0,sulafa tower
+1785,Apartment,619,1,2,1400000.0,marina gate
+1786,Apartment,618,1,2,1400000.0,marina gate
+1787,Apartment,2483,3,3,3100000.0,emaar 6 towers
+1788,Apartment,548,0,1,900000.0,the address dubai marina
+1789,Apartment,808,1,2,1100000.0,the address dubai marina
+1790,Apartment,847,1,1,750000.0,the waves
+1791,Apartment,1139,2,2,1900000.0,5242
+1792,Apartment,843,1,2,610000.0,marina crown
+1793,Penthouse,6332,4,6,8500000.0,emaar 6 towers
+1794,Penthouse,6141,3,5,7000000.0,la residencia del mar
+1795,Apartment,949,1,2,1300000.0,damac heights
+1796,Apartment,1030,2,2,850000.0,marina diamond 4
+1797,Apartment,880,1,2,1200000.0,damac heights
+1798,Apartment,699,1,2,1250000.0,damac heights
+1799,Apartment,952,1,2,1100000.0,damac heights
+1800,Apartment,1557,3,4,1635000.0,bay central
+1801,Apartment,1480,2,3,2000000.0,park island
+1802,Apartment,923,1,2,799999.0,princess tower
+1803,Apartment,2040,3,4,2950000.0,ocean heights
+1804,Apartment,1347,2,3,1850000.0,park island
+1805,Apartment,713,1,2,1000000.0,west avenue tower
+1806,Apartment,868,1,2,1550000.0,marina gate
+1807,Apartment,2755,3,5,3500000.0,emaar 6 towers
+1808,Apartment,1348,2,3,1000000.0,skyview tower
+1809,Apartment,1120,1,2,1150000.0,ocean heights
+1810,Apartment,1641,2,3,2000000.0,marina arcade tower
+1811,Apartment,868,1,2,1625000.0,marina gate
+1812,Apartment,910,1,2,1095000.0,ocean heights
+1813,Apartment,1347,2,3,1950000.0,park island
+1814,Apartment,1477,2,3,2400000.0,trident grand residence
+1815,Apartment,1773,3,4,2100000.0,trident grand residence
+1816,Apartment,1773,3,4,2100000.0,trident grand residence
+1817,Apartment,1477,2,3,2400000.0,trident grand residence
+1818,Apartment,1773,3,4,2100000.0,trident grand residence
+1819,Apartment,1477,2,3,2400000.0,trident grand residence
+1820,Apartment,714,1,1,600000.0,marina diamond 6
+1821,Apartment,1391,3,3,900000.0,manchester tower
+1822,Apartment,694,1,1,625000.0,dream towers
+1823,Apartment,1859,2,3,1535000.0,trident marinascape
+1824,Apartment,1700,2,3,1685000.0,trident marinascape
+1825,Apartment,1258,2,2,800000.0,the torch
+1826,Apartment,975,1,2,1900000.0,marina gate
+1827,Apartment,1622,3,4,2550000.0,ocean heights
+1828,Apartment,1874,2,3,2900000.0,trident marinascape
+1829,Apartment,2000,3,4,2350000.0,marina tower
+1830,Apartment,792,1,2,700000.0,the royal oceanic
+1831,Apartment,915,1,2,700000.0,sulafa tower
+1832,Apartment,1377,2,2,1400000.0,emerald residence
+1833,Apartment,1230,2,3,1150000.0,continental tower
+1834,Apartment,772,1,2,1540000.0,marina gate
+1835,Apartment,2700,3,5,1550000.0,kg tower
+1836,Apartment,908,1,2,800000.0,mag 218
+1837,Apartment,1748,3,3,2200000.0,ocean heights
+1838,Apartment,1302,2,3,1400000.0,park island
+1839,Apartment,591,1,1,830000.0,studio one
+1840,Apartment,950,1,2,1300000.0,damac heights
+1841,Apartment,824,1,2,515000.0,dec towers
+1842,Apartment,1700,2,3,2200000.0,emaar 6 towers
+1843,Apartment,1206,2,3,1400000.0,botanica tower
+1844,Penthouse,3307,4,5,6250000.0,marina gate
+1845,Apartment,1329,2,3,2044499.0,liv residence
+1846,Apartment,948,1,2,545000.0,dec towers
+1847,Apartment,908,1,2,850000.0,mag 218
+1848,Apartment,1622,3,4,2625000.0,ocean heights
+1849,Apartment,760,2,2,850000.0,marina wharf
+1850,Townhouse,4396,4,6,8000000.0,the jewels
+1851,Apartment,1857,3,3,1350000.0,the waves
+1852,Apartment,448,0,1,600000.0,bay central
+1853,Apartment,824,1,1,699999.0,dec towers
+1854,Apartment,1860,1,2,1650000.0,emaar 6 towers
+1855,Apartment,1590,2,2,1900000.0,damac heights
+1856,Apartment,868,1,2,1460000.0,marina gate
+1857,Apartment,1258,2,2,880000.0,the torch
+1858,Apartment,514,1,1,589000.0,marina diamond 6
+1859,Apartment,1653,2,4,1399950.0,trident marinascape
+1860,Apartment,1066,2,2,1900000.0,silverene
+1861,Apartment,850,1,2,900000.0,botanica tower
+1862,Apartment,2314,3,5,2300000.0,trident bayside
+1863,Apartment,521,0,1,500000.0,dec towers
+1864,Apartment,2455,2,4,1600000.0,emirates crown
+1865,Apartment,695,1,2,800000.0,bay central
+1866,Apartment,1386,2,2,2390000.0,liv residence
+1867,Apartment,1042,2,2,1750000.0,liv residence
+1868,Townhouse,4060,3,3,7200000.0,marina promenade
+1869,Apartment,952,1,2,1500000.0,damac heights
+1870,Penthouse,5451,4,5,5000000.0,23 marina
+1871,Apartment,2979,3,4,2349000.0,23 marina
+1872,Apartment,1650,3,3,1590000.0,marina terra
+1873,Apartment,1653,2,3,1550000.0,trident marinascape
+1874,Apartment,1184,2,2,990000.0,la riviera
+1875,Apartment,3022,4,4,2450000.0,marina crown
+1876,Apartment,1408,2,3,1895000.0,al majara
+1877,Apartment,1491,2,3,790000.0,dec towers
+1878,Penthouse,2313,3,4,3400000.0,al sahab
+1879,Apartment,2297,3,4,3900000.0,al sahab
+1880,Apartment,678,1,1,750000.0,dream towers
+1881,Apartment,1330,2,3,1200000.0,elite residence
+1882,Apartment,3378,3,3,2999950.0,the jewels
+1883,Apartment,699,1,2,999999.0,no.9
+1884,Apartment,707,1,2,810000.0,bay central
+1885,Apartment,1313,2,4,999999.0,the waves
+1886,Townhouse,4396,4,6,8000000.0,the jewels
+1887,Apartment,1408,2,2,1800000.0,al majara
+1888,Penthouse,6727,5,7,9000000.0,emaar 6 towers
+1889,Apartment,1179,2,3,1149950.0,marina residence
+1890,Apartment,910,1,2,1075000.0,skyview tower
+1891,Penthouse,4543,3,5,3950000.0,dorra bay
+1892,Apartment,2013,3,4,1800000.0,princess tower
+1893,Apartment,761,1,2,950000.0,marina tower
+1894,Apartment,1109,2,3,1630000.0,studio one
+1895,Apartment,3880,3,5,2700000.0,emirates crown
+1896,Apartment,1030,1,1,1100000.0,ocean heights
+1897,Townhouse,4227,3,4,7200000.0,marina promenade
+1898,Apartment,2014,3,4,1800000.0,princess tower
+1899,Apartment,963,1,2,1327500.0,sparkle towers
+1900,Apartment,1478,2,3,2123500.0,sparkle towers
+1901,Apartment,3885,3,3,2999000.0,emirates crown
+1902,Apartment,1500,2,3,990000.0,westside marina
+1903,Apartment,3619,3,5,2680000.0,the jewels
+1904,Apartment,2900,4,6,3800000.0,emaar 6 towers
+1905,Apartment,682,1,2,1000000.0,no.9
+1906,Apartment,950,1,2,1150000.0,liv residence
+1907,Apartment,737,1,2,950000.0,continental tower
+1908,Apartment,1329,2,3,1250000.0,elite residence
+1909,Townhouse,4065,3,4,7200000.0,marina promenade
+1910,Apartment,1243,2,3,2100000.0,liv residence
+1911,Townhouse,2495,3,5,2695000.0,al sahab
+1912,Apartment,773,1,2,1250000.0,marina gate
+1913,Apartment,826,1,2,1450000.0,marina gate
+1914,Apartment,834,1,2,999995.0,botanica tower
+1915,Apartment,889,1,2,1200000.0,damac heights
+1916,Apartment,1491,2,3,800000.0,dec towers
+1917,Apartment,1256,3,4,1050000.0,marina wharf
+1918,Apartment,2200,3,4,1550000.0,23 marina
+1919,Apartment,3375,3,3,2999999.0,the jewels
+1920,Apartment,962,1,2,1150000.0,sparkle towers
+1921,Apartment,1350,2,3,1800000.0,park island
+1922,Apartment,5644,4,5,7000000.0,23 marina
+1923,Apartment,1299,2,3,1399000.0,elite residence
+1924,Apartment,2279,3,4,3100000.0,emaar 6 towers
+1926,Apartment,895,1,2,1200000.0,marina promenade
+1927,Apartment,5644,4,4,6899999.0,23 marina
+1928,Apartment,5644,4,5,5490000.0,23 marina
+1929,Penthouse,5644,4,4,7000000.0,23 marina
+1930,Apartment,1500,2,2,2200000.0,marina promenade
+1931,Apartment,2300,3,3,2800000.0,damac heights
+1932,Apartment,3554,3,3,2950000.0,al seef tower
+1933,Apartment,1570,2,2,2200000.0,emaar 6 towers
+1934,Apartment,2168,3,2,2999999.0,orra marina
+1935,Apartment,1381,2,3,2099999.0,marina gate
+1936,Apartment,875,1,2,1800000.0,cayan tower
+1937,Penthouse,5600,4,4,5300000.0,23 marina
+1938,Apartment,2326,3,4,1670000.0,trident waterfront
+1939,Apartment,1201,2,3,980000.0,la riviera
+1940,Apartment,770,1,2,1200000.0,cayan tower
+1941,Apartment,875,1,2,1100000.0,cayan tower
+1942,Apartment,2120,3,3,2930850.0,damac residenze
+1943,Apartment,963,1,2,1201500.0,sparkle towers
+1944,Apartment,1565,2,2,2000000.0,marina quays
+1945,Apartment,2800,4,4,2800000.0,princess tower
+1946,Apartment,926,1,2,950000.0,the waves
+1948,Apartment,784,0,1,1500000.0,cayan tower
+1949,Apartment,916,1,2,624999.0,sulafa tower
+1950,Apartment,1278,2,3,750000.0,marina park
+1951,Duplex,1502,3,2,1150000.0,yacht bay
+1952,Apartment,1376,2,2,1595000.0,cayan tower
+1953,Apartment,1510,2,3,2270000.0,damac residenze
+1954,Apartment,1900,3,4,2820000.0,damac residenze
+1955,Apartment,637,1,2,1500000.0,silverene
+1956,Apartment,712,0,1,1750000.0,cayan tower
+1957,Apartment,689,1,2,1175000.0,marina gate
+1958,Apartment,1930,2,3,1990000.0,the jewels
+1959,Apartment,800,1,2,1090000.0,west avenue tower
+1960,Apartment,1721,3,3,1499000.0,marina heights
+1961,Apartment,1098,1,2,850000.0,the jewels
+1962,Apartment,1543,2,2,1400000.0,marina terra
+1963,Apartment,1161,2,3,1788000.0,marina arcade tower
+1964,Apartment,788,1,2,1050000.0,west avenue tower
+1965,Apartment,2326,3,4,2600000.0,trident waterfront
+1966,Apartment,513,0,1,680000.0,the royal oceanic
+1967,Apartment,1185,1,2,1250000.0,emaar 6 towers
+1968,Apartment,1255,2,3,1600000.0,cayan tower
+1969,Apartment,1606,2,3,1500000.0,skyview tower
+1970,Apartment,1452,1,2,1357000.0,skyview tower
+1971,Apartment,991,2,2,1450000.0,bay central
+1972,Apartment,918,1,2,680000.0,sulafa tower
+1973,Apartment,1731,2,3,1890000.0,trident grand residence
+1974,Apartment,627,1,1,1250000.0,marina gate
+1975,Apartment,1749,3,3,3999999.0,marina gate
+1976,Apartment,1258,2,2,855000.0,the torch
+1977,Apartment,2327,3,3,1670000.0,trident waterfront
+1978,Apartment,1445,2,3,950000.0,marina crown
+1979,Apartment,1562,3,3,2100000.0,marina tower
+1980,Apartment,613,1,2,595000.0,marina residence
+1981,Apartment,1350,2,3,2000000.0,liv residence
+1982,Apartment,591,1,1,850000.0,studio one
+1983,Townhouse,4663,3,5,5500000.0,bay central
+1984,Apartment,909,1,2,1200000.0,park island
+1985,Apartment,1307,2,3,1675000.0,al majara
+1986,Apartment,960,1,2,820000.0,elite residence
+1987,Apartment,1250,2,3,1699999.0,marina arcade tower
+1988,Apartment,2612,4,5,4200000.0,cayan tower
+1989,Apartment,878,1,1,800000.0,ocean heights
+1990,Apartment,1397,2,3,1400000.0,continental tower
+1991,Apartment,838,1,1,1500000.0,marina gate
+1992,Apartment,1653,3,3,3400000.0,vida residences marina dubai
+1993,Apartment,1138,2,2,1810000.0,5242
+1994,Apartment,1324,2,3,1850000.0,orra marina
+1995,Apartment,2326,3,4,1675000.0,trident waterfront
+1996,Apartment,1330,2,3,1400000.0,elite residence
+1997,Apartment,1450,2,3,1150000.0,princess tower
+1998,Apartment,1990,3,4,1849999.0,princess tower
+1999,Apartment,875,1,2,1529950.0,marina gate
+2000,Apartment,1809,3,4,4000000.0,marina gate
+2001,Penthouse,6250,4,5,6750000.0,elite residence
+2002,Apartment,1046,2,3,1900000.0,no.9
+2003,Apartment,981,1,1,1642000.0,marina gate
+2004,Apartment,1930,2,3,2000000.0,the jewels
+2005,Apartment,1259,2,2,1150000.0,the torch
+2006,Apartment,1787,3,4,2700000.0,silverene
+2007,Apartment,2500,3,3,3450000.0,marina quays
+2008,Apartment,1496,2,3,1680000.0,damac heights
+2009,Apartment,1875,3,3,2395000.0,marina quays
+2010,Apartment,1185,1,2,1350000.0,emaar 6 towers
+2011,Apartment,1685,2,3,2300000.0,cayan tower
+2012,Apartment,2970,3,4,4150000.0,cayan tower
+2013,Apartment,775,1,2,1100000.0,marina gate
+2014,Apartment,1382,2,3,2099999.0,marina gate
+2015,Apartment,494,0,1,375000.0,marina pearl
+2016,Apartment,762,1,2,1135000.0,cayan tower
+2017,Apartment,2755,3,4,3600000.0,emaar 6 towers
+2018,Apartment,890,1,2,1100000.0,damac heights
+2019,Apartment,3179,4,4,3100000.0,princess tower
+2020,Apartment,1330,2,2,1500000.0,al majara
+2021,Apartment,1219,2,3,800000.0,marina pinnacle
+2022,Apartment,1312,2,3,1200000.0,bay central
+2023,Apartment,1563,2,2,2350000.0,emaar 6 towers
+2024,Apartment,830,1,2,1200000.0,silverene
+2025,Apartment,845,1,2,1529950.0,marina gate
+2026,Apartment,2497,3,3,2900000.0,emaar 6 towers
+2027,Apartment,2860,3,4,3300000.0,ary marina view tower
+2028,Apartment,838,1,2,1390000.0,marina gate
+2029,Apartment,2622,3,4,2500000.0,trident bayside
+2030,Apartment,1979,3,4,3300000.0,marina promenade
+2031,Apartment,1203,2,4,1350000.0,the royal oceanic
+2032,Apartment,470,0,2,750000.0,botanica tower
+2033,Apartment,2683,3,4,1700000.0,marina mansions
+2034,Apartment,2459,3,5,3200000.0,marina arcade tower
+2035,Apartment,612,0,1,734596.0,tfg marina hotel
+2036,Apartment,2384,3,4,1700000.0,trident waterfront
+2037,Apartment,1525,2,3,1500000.0,cayan tower
+2038,Apartment,1405,2,3,2150000.0,marina promenade
+2039,Apartment,2261,3,4,4000000.0,marina gate
+2040,Apartment,875,1,2,1575000.0,marina gate
+2041,Apartment,450,0,1,475000.0,zumurud tower
+2042,Apartment,1133,2,2,1120000.0,bay central
+2043,Apartment,849,1,2,1575000.0,marina gate
+2044,Apartment,624,1,2,1416000.0,marina gate
+2045,Apartment,823,1,2,587000.0,dec towers
+2046,Apartment,1135,2,3,2150888.0,no.9
+2047,Apartment,1010,1,1,1099999.0,marina heights
+2048,Apartment,1525,2,3,1500000.0,cayan tower
+2049,Apartment,1292,2,3,1070000.0,marina heights
+2050,Apartment,1389,2,3,1600000.0,sulafa tower
+2051,Apartment,761,1,2,825000.0,marina view
+2052,Apartment,1673,3,4,2950000.0,vida residences marina dubai
+2053,Apartment,750,1,1,850000.0,ary marina view tower
+2054,Apartment,1262,2,2,1400000.0,vida residences marina dubai
+2055,Apartment,1721,3,3,1650000.0,marina heights
+2056,Apartment,3882,3,5,2799999.0,emirates crown
+2057,Apartment,1943,3,2,2099999.0,al sahab
+2058,Apartment,1981,3,5,2000000.0,the waves
+2059,Apartment,2483,3,4,3000000.0,emaar 6 towers
+2060,Apartment,2871,3,4,1750000.0,trident bayside
+2061,Apartment,1305,2,2,1050000.0,princess tower
+2062,Apartment,1572,3,4,1100000.0,marina pinnacle
+2063,Apartment,529,0,1,898548.0,liv residence
+2064,Apartment,529,0,1,913548.0,liv residence
+2065,Apartment,1328,2,3,1934548.0,liv residence
+2066,Apartment,978,1,2,2310000.0,marina gate
+2067,Apartment,1056,2,2,2250000.0,5242
+2068,Apartment,1375,2,3,1999000.0,cayan tower
+2069,Apartment,1814,3,4,3150000.0,marina gate
+2070,Apartment,1400,2,2,1300000.0,marina crown
+2071,Apartment,1507,2,2,2500000.0,emaar 6 towers
+2072,Apartment,1210,2,3,1250000.0,continental tower
+2073,Apartment,2352,2,3,1900000.0,la residencia del mar
+2074,Townhouse,2777,3,4,3800000.0,the point
+2075,Duplex,3009,3,5,3400000.0,cayan tower
+2076,Duplex,2911,3,4,7000000.0,cayan tower
+2077,Apartment,690,1,2,1200000.0,marina gate
+2078,Apartment,609,1,2,935000.0,silverene
+2079,Apartment,957,1,2,1300000.0,marina promenade
+2080,Apartment,1587,3,3,2150000.0,marina tower
+2081,Apartment,1220,2,3,849999.0,marina pinnacle
+2082,Apartment,1759,2,3,1300000.0,marina sail
+2083,Apartment,777,1,1,579000.0,marina diamond 4
+2084,Apartment,1097,2,3,1595000.0,no.9
+2085,Apartment,982,2,3,1600000.0,la riviera
+2086,Apartment,1382,2,2,950000.0,yacht bay
+2087,Apartment,3179,4,5,3000000.0,princess tower
+2088,Penthouse,4393,4,5,7100000.0,marina gate
+2089,Apartment,886,1,1,740000.0,azure
+2090,Apartment,849,1,2,1480000.0,marina gate
+2091,Apartment,5776,4,6,13152000.0,marina gate
+2092,Apartment,1313,2,4,999999.0,the waves
+2093,Apartment,660,1,2,1000000.0,no.9
+2094,Apartment,1910,2,3,2000000.0,the address dubai marina
+2095,Apartment,2147,3,4,1600000.0,23 marina
+2096,Apartment,4515,3,5,3750000.0,la residencia del mar
+2097,Apartment,1814,3,3,4250000.0,marina gate
+2098,Apartment,1800,3,4,1680000.0,marina pinnacle
+2099,Apartment,982,2,2,1100000.0,la riviera
+2100,Apartment,1367,2,2,1649999.0,marina quays
+2101,Apartment,709,1,2,850000.0,dorra bay
+2102,Apartment,1786,3,4,2650000.0,silverene
+2103,Apartment,900,1,2,800000.0,ocean heights
+2104,Apartment,701,1,2,795000.0,dream towers
+2105,Apartment,2249,2,3,2300000.0,the jewels
+2106,Apartment,786,1,1,725000.0,time place tower
+2107,Apartment,767,0,1,1000000.0,cayan tower
+2108,Apartment,1036,1,2,1400000.0,marina promenade
+2109,Apartment,2450,4,4,1700000.0,horizon tower
+2110,Apartment,767,0,1,1000000.0,cayan tower
+2111,Apartment,875,1,2,1285000.0,cayan tower
+2112,Apartment,1750,2,3,2900000.0,cayan tower
+2113,Apartment,2970,3,5,4300000.0,cayan tower
+2114,Apartment,1525,2,3,1850000.0,cayan tower
+2115,Apartment,1525,2,3,1900000.0,cayan tower
+2116,Apartment,1579,2,3,1275000.0,trident bayside
+2117,Apartment,1809,3,4,4200000.0,marina gate
+2118,Apartment,1809,3,4,4200000.0,marina gate
+2119,Apartment,875,1,2,1200000.0,cayan tower
+2120,Apartment,2141,2,4,1900000.0,the jewels
+2121,Apartment,923,1,2,830000.0,princess tower
+2122,Apartment,2099,3,3,2299950.0,marina arcade tower
+2123,Apartment,1056,2,2,1650000.0,silverene
+2124,Apartment,1874,2,3,2900000.0,trident marinascape
+2125,Apartment,592,1,2,1250000.0,orra harbour residences and hotel apartments
+2126,Apartment,1790,3,4,3000000.0,silverene
+2127,Apartment,1105,2,2,1450000.0,silverene
+2128,Apartment,1375,2,3,2200000.0,cayan tower
+2129,Apartment,700,1,2,1400000.0,no.9
+2130,Apartment,908,1,2,1000000.0,skyview tower
+2131,Apartment,1557,3,4,1600000.0,bay central
+2132,Duplex,5757,4,4,7000000.0,23 marina
+2133,Apartment,1441,2,3,1999000.0,silverene
+2134,Apartment,714,1,2,1200000.0,cayan tower
+2135,Apartment,1372,2,2,2100000.0,cayan tower
+2136,Penthouse,5747,4,5,7200000.0,23 marina
+2137,Apartment,1557,3,3,1650000.0,bay central
+2138,Apartment,723,1,1,580007.0,manchester tower
+2140,Apartment,1465,3,3,1495000.0,bay central
+2141,Apartment,2384,3,4,1750000.0,trident waterfront
+2142,Apartment,726,0,1,1299000.0,cayan tower
+2143,Apartment,862,1,1,705000.0,princess tower
+2144,Apartment,2340,3,3,1700000.0,trident waterfront
+2145,Apartment,1739,2,2,820000.0,dec towers
+2146,Apartment,1510,2,2,2350000.0,damac heights
+2147,Apartment,1750,2,3,1200000.0,trident waterfront
+2148,Apartment,2101,3,4,1900000.0,dorra bay
+2149,Penthouse,2032,3,3,4150000.0,marina quays
+2150,Apartment,953,1,1,1199999.0,marina promenade
+2151,Apartment,1480,2,2,2300000.0,park island
+2152,Apartment,1050,1,2,1300000.0,park island
+2153,Apartment,1490,2,3,999000.0,dec towers
+2154,Apartment,595,2,2,970000.0,silverene
+2155,Apartment,1814,3,4,4135000.0,marina gate
+2156,Apartment,360,0,1,565000.0,studio one
+2157,Apartment,678,1,1,730000.0,dream towers
+2158,Apartment,719,1,2,875000.0,botanica tower
+2159,Apartment,1497,2,3,2000000.0,marina promenade
+2160,Apartment,1185,2,2,1400000.0,la riviera
+2161,Apartment,1198,2,2,1250000.0,the torch
+2162,Apartment,1694,2,2,1495000.0,emaar 6 towers
+2163,Apartment,919,1,2,899950.0,al sahab
+2164,Apartment,1336,2,2,1250000.0,marina heights
+2165,Apartment,950,1,2,1288888.0,damac heights
+2166,Apartment,858,1,2,890000.0,botanica tower
+2167,Apartment,875,1,2,1625000.0,marina gate
+2168,Apartment,2351,4,4,3600000.0,marina gate
+2169,Apartment,909,1,1,1150000.0,orra marina
+2170,Apartment,1302,2,3,1795000.0,park island
+2171,Apartment,1036,1,2,1400000.0,marina promenade
+2172,Apartment,1330,2,2,1350000.0,al majara
+2173,Apartment,1582,3,3,2199950.0,marina tower
+2174,Apartment,803,1,2,880000.0,elite residence
+2175,Apartment,773,1,2,1150000.0,marina gate
+2176,Apartment,1329,2,3,1200000.0,la riviera
+2177,Apartment,2327,3,4,1500000.0,trident waterfront
+2178,Apartment,978,1,2,2310000.0,marina gate
+2179,Apartment,1211,2,3,2664000.0,marina gate
+2181,Townhouse,3915,3,3,6000000.0,park island
+2182,Apartment,1262,2,2,1375000.0,vida residences marina dubai
+2183,Apartment,1727,2,3,1500000.0,westside marina
+2184,Apartment,2000,3,4,1699000.0,princess tower
+2185,Apartment,1330,2,3,999000.0,princess tower
+2186,Apartment,762,1,2,560000.0,marina pinnacle
+2187,Apartment,1400,2,2,850000.0,marina crown
+2188,Apartment,823,1,2,569000.0,dec towers
+2189,Apartment,1366,2,3,1670000.0,marina promenade
+2190,Apartment,1805,3,4,3730000.0,no.9
+2191,Apartment,1640,3,3,1599000.0,marina terra
+2192,Apartment,2001,3,4,2350000.0,marina tower
+2193,Apartment,1149,2,2,1100000.0,bay central
+2194,Apartment,1579,2,3,1350000.0,trident bayside
+2195,Apartment,940,1,2,800000.0,marina sail
+2196,Apartment,941,1,2,850000.0,marina sail
+2197,Apartment,1210,2,4,1150000.0,continental tower
+2198,Apartment,1485,2,3,1550000.0,marina quays
+2200,Apartment,1194,1,2,900000.0,ocean heights
+2201,Apartment,1009,2,2,980000.0,marina diamond 3
+2202,Apartment,1302,2,3,1675000.0,park island
+2203,Apartment,1277,2,2,1650000.0,marina gate
+2204,Apartment,775,1,2,2274999.0,marina gate
+2205,Apartment,691,1,2,1200000.0,marina gate
+2206,Apartment,838,1,2,2249999.0,marina gate
+2207,Apartment,838,1,1,1961186.0,marina gate
+2208,Apartment,1277,2,3,2259999.0,marina gate
+2209,Apartment,1009,2,2,1000000.0,marina diamond 3
+2210,Apartment,1269,2,3,2390000.0,liv residence
+2211,Apartment,1595,3,4,1550000.0,the point
+2212,Apartment,1813,3,4,3900000.0,marina gate
+2213,Apartment,1075,1,2,1275000.0,marina promenade
+2214,Apartment,445,0,1,590000.0,bay central
+2215,Apartment,1331,2,3,1195000.0,elite residence
+2216,Apartment,1255,2,3,1890000.0,marina gate
+2217,Apartment,1329,2,3,1145000.0,elite residence
+2218,Penthouse,5845,4,5,12859000.0,marina gate
+2219,Apartment,1333,2,3,2950000.0,the address dubai marina
+2220,Apartment,1281,2,3,1800000.0,vida residences marina dubai
+2221,Apartment,1259,2,2,1038888.0,the torch
+2222,Apartment,2547,4,4,4299000.0,cayan tower
+2223,Duplex,2969,3,5,3990000.0,cayan tower
+2224,Apartment,418,0,1,999000.0,cayan tower
+2225,Apartment,454,0,1,899000.0,cayan tower
+2226,Apartment,1102,1,1,1049000.0,the jewels
+2227,Apartment,802,1,2,950000.0,elite residence
+2228,Townhouse,5000,4,6,6400000.0,emaar 6 towers
+2229,Apartment,2328,3,4,2700000.0,trident bayside
+2230,Apartment,1870,2,3,1700000.0,trident marinascape
+2231,Apartment,960,1,2,830000.0,elite residence
+2232,Apartment,797,1,2,900000.0,elite residence
+2233,Apartment,1204,2,1,798888.0,marina park
+2234,Apartment,775,1,2,1350000.0,marina quays
+2235,Apartment,833,1,2,900000.0,botanica tower
+2236,Penthouse,3772,5,6,8750000.0,bay central
+2237,Apartment,1258,2,2,1600000.0,west avenue tower
+2238,Apartment,1520,2,3,3350000.0,marina gate
+2239,Apartment,2149,3,3,4661000.0,marina gate
+2240,Apartment,977,1,2,2230000.0,marina gate
+2241,Apartment,3277,5,4,5500000.0,emaar 6 towers
+2242,Apartment,2901,4,4,3299950.0,emaar 6 towers
+2243,Apartment,1456,2,3,1200000.0,marina crown
+2244,Apartment,3268,3,5,6000000.0,damac heights
+2245,Apartment,1302,2,3,2000000.0,park island
+2246,Duplex,1502,3,2,1200000.0,yacht bay
+2247,Apartment,773,1,2,1400000.0,marina gate
+2248,Apartment,1076,1,2,1295000.0,marina promenade
+2249,Apartment,2204,3,4,2450000.0,al sahab
+2250,Apartment,942,1,1,1275000.0,liv residence
+2251,Apartment,899,1,2,1350000.0,marina gate
+2252,Apartment,910,1,2,614999.0,sulafa tower
+2253,Apartment,1200,2,3,1270000.0,ocean heights
+2254,Apartment,682,1,1,1050000.0,no.9
+2255,Apartment,862,1,2,700000.0,the waves
+2256,Apartment,875,1,1,1200000.0,cayan tower
+2257,Apartment,713,1,1,1200000.0,cayan tower
+2258,Apartment,778,1,2,1100000.0,marina promenade
+2259,Apartment,1979,3,4,3300000.0,marina promenade
+2260,Apartment,1290,2,2,1070000.0,marina heights
+2261,Apartment,1066,2,2,1600000.0,silverene
+2262,Apartment,770,1,2,2275000.0,marina gate
+2263,Apartment,971,1,2,1195000.0,sparkle towers
+2264,Apartment,1474,2,4,2306000.0,sparkle towers
+2265,Townhouse,4600,4,5,5900000.0,bay central
+2266,Apartment,1410,2,3,1850000.0,marina promenade
+2267,Apartment,3180,4,4,3000000.0,princess tower
+2268,Apartment,1533,2,3,2400000.0,damac heights
+2269,Apartment,690,1,2,1600000.0,marina gate
+2270,Apartment,2450,3,4,2300000.0,trident oceanic
+2271,Apartment,2450,3,4,2325000.0,trident marinascape
+2272,Apartment,1918,2,3,1350000.0,marina view
+2273,Apartment,805,1,2,950000.0,elite residence
+2274,Apartment,800,1,1,980000.0,marina tower
+2275,Apartment,1254,2,3,1700000.0,cayan tower
+2276,Apartment,517,1,1,520000.0,manchester tower
+2277,Apartment,2314,2,2,1900000.0,marina promenade
+2278,Apartment,958,1,2,1100000.0,marina promenade
+2279,Apartment,721,1,2,790000.0,botanica tower
+2280,Apartment,790,1,2,950000.0,the point
+2281,Apartment,869,1,1,725000.0,time place tower
+2282,Apartment,692,1,2,900000.0,bay central
+2283,Townhouse,5353,3,5,5999999.0,bay central
+2284,Apartment,360,0,1,459999.0,studio one
+2285,Townhouse,4224,3,3,6400000.0,marina promenade
+2286,Apartment,1400,2,3,2500000.0,marina gate
+2287,Apartment,975,1,2,1600000.0,marina gate
+2288,Townhouse,3915,3,4,5000000.0,park island
+2289,Townhouse,4624,4,5,5099999.0,bay central
+2290,Apartment,1408,2,2,1800000.0,al majara
+2291,Apartment,2352,4,4,4400000.0,marina gate
+2292,Apartment,713,1,2,925000.0,west avenue tower
+2293,Apartment,800,1,2,1250000.0,damac heights
+2294,Apartment,833,1,2,1350000.0,marina gate
+2295,Apartment,1074,2,2,1950000.0,no.9
+2296,Apartment,1245,3,4,1327500.0,marina wharf
+2297,Apartment,1330,2,3,1700000.0,marina promenade
+2298,Apartment,1535,2,3,2250000.0,emaar 6 towers
+2299,Apartment,1346,2,3,1995000.0,marina gate
+2300,Apartment,722,1,2,500000.0,manchester tower
+2301,Apartment,761,1,2,999999.0,marina tower
+2302,Apartment,906,1,1,1350000.0,the address dubai marina
+2303,Apartment,627,1,1,999950.0,marina gate
+2304,Apartment,704,1,1,1075000.0,5242
+2305,Apartment,662,1,2,1200000.0,no.9
+2306,Apartment,1258,2,2,925000.0,the torch
+2307,Apartment,915,1,2,950000.0,ocean heights
+2308,Apartment,945,1,2,1250000.0,al sahab
+2309,Apartment,3459,3,3,3200000.0,dorra bay
+2310,Apartment,1390,2,3,1250000.0,sulafa tower
+2311,Apartment,2326,3,3,1600000.0,trident waterfront
+2312,Apartment,844,1,2,740000.0,mag 218
+2313,Apartment,1491,2,3,1200000.0,dec towers
+2314,Penthouse,6000,4,4,7500000.0,23 marina
+2315,Apartment,879,1,1,1100000.0,the address dubai marina
+2316,Apartment,926,1,2,1500000.0,marina promenade
+2317,Apartment,1723,2,3,1149999.0,mag 218
+2318,Apartment,1779,2,3,1249999.0,mag 218
+2319,Apartment,1779,2,3,1349999.0,mag 218
+2320,Apartment,1376,2,3,1500000.0,cayan tower
+2321,Apartment,1813,3,3,2899999.0,cayan tower
+2322,Apartment,1746,3,3,3450000.0,damac heights
+2323,Apartment,1979,3,4,3300000.0,marina promenade
+2324,Apartment,1497,3,4,1500000.0,sulafa tower
+2325,Apartment,719,1,2,1400000.0,botanica tower
+2326,Apartment,471,0,1,1000000.0,botanica tower
+2327,Apartment,764,1,2,650000.0,manchester tower
+2328,Penthouse,3375,4,5,6958500.0,no.9
+2329,Apartment,1255,2,3,2650000.0,marina gate
+2330,Apartment,1177,1,2,1300000.0,emaar 6 towers
+2331,Apartment,841,1,1,1070000.0,al majara
+2332,Apartment,1441,2,2,2200000.0,silverene
+2333,Apartment,1302,2,3,1650000.0,park island
+2334,Apartment,1185,2,2,1150000.0,princess tower
+2335,Apartment,1280,2,3,2400000.0,marina gate
+2336,Apartment,836,1,2,1400000.0,marina gate
+2337,Apartment,1361,2,2,1700000.0,park island
+2338,Apartment,592,1,1,750000.0,studio one
+2339,Apartment,2979,3,4,2145000.0,23 marina
+2340,Apartment,822,1,2,890000.0,marina wharf
+2341,Apartment,1330,2,3,1500000.0,elite residence
+2342,Apartment,746,1,2,1150000.0,vida residences marina dubai
+2343,Apartment,718,1,2,1000000.0,studio one
+2344,Apartment,770,1,2,1575000.0,marina gate
+2345,Apartment,2280,3,4,3200000.0,orra marina
+2346,Apartment,713,1,2,1250000.0,cayan tower
+2347,Apartment,725,1,2,880000.0,marina heights
+2348,Apartment,1348,2,3,1170000.0,skyview tower
+2349,Townhouse,3274,3,3,3650000.0,park island
+2350,Apartment,2172,3,3,1599999.0,marina crown
+2351,Apartment,710,1,2,755000.0,bay central
+2352,Apartment,1465,3,3,1950000.0,bay central
+2353,Townhouse,1366,1,2,1750000.0,marina promenade
+2354,Apartment,2018,3,3,1725000.0,dorra bay
+2355,Apartment,1745,3,3,2199999.0,ocean heights
+2356,Apartment,2146,3,4,1999000.0,23 marina
+2357,Apartment,723,1,2,850000.0,studio one
+2358,Apartment,773,1,2,1573000.0,marina gate
+2359,Penthouse,3173,4,5,3950000.0,elite residence
+2360,Penthouse,3211,4,5,4850000.0,elite residence
+2361,Apartment,2173,3,3,2250000.0,marina crown
+2362,Apartment,1062,2,2,2200000.0,silverene
+2363,Apartment,3277,5,5,5500000.0,emaar 6 towers
+2364,Apartment,1330,2,3,1000000.0,princess tower
+2365,Apartment,700,1,1,1000000.0,no.9
+2366,Apartment,801,1,2,950000.0,elite residence
+2367,Apartment,1219,2,3,850000.0,marina pinnacle
+2368,Apartment,1258,2,3,845000.0,the torch
+2369,Apartment,1760,2,3,1355000.0,mag 218
+2370,Apartment,3553,3,4,2950000.0,al seef tower
+2371,Apartment,3553,3,4,2950000.0,al seef tower
+2372,Apartment,801,1,1,1000000.0,elite residence
+2373,Apartment,374,0,1,415000.0,marina diamond 1
+2374,Apartment,386,0,1,415000.0,marina diamond 1
+2375,Apartment,1405,2,3,2095000.0,marina promenade
+2376,Penthouse,3307,4,5,6650000.0,marina gate
+2377,Apartment,796,1,2,1300000.0,park island
+2378,Apartment,844,1,2,700000.0,marina pinnacle
+2379,Apartment,1480,2,3,2000000.0,park island
+2380,Apartment,985,1,2,1350000.0,damac heights
+2381,Apartment,1176,2,2,1900000.0,5242
+2382,Apartment,1255,2,3,1500000.0,cayan tower
+2383,Apartment,2228,3,5,3900000.0,al fardan tower
+2384,Apartment,1994,3,4,3099950.0,marina gate
+2385,Apartment,836,1,2,1180000.0,marina gate
+2386,Apartment,592,1,1,850000.0,studio one
+2387,Apartment,1347,2,3,1900000.0,park island
+2388,Apartment,96,1,2,1600000.0,marina promenade
+2389,Apartment,667,0,1,1600000.0,tfg marina hotel
+2390,Apartment,713,1,2,950000.0,west avenue tower
+2391,Apartment,1526,2,3,1850000.0,emaar 6 towers
+2392,Apartment,1372,2,3,1899950.0,cayan tower
+2393,Apartment,909,1,2,1050000.0,park island
+2394,Apartment,1307,2,4,1600000.0,continental tower
+2395,Apartment,1760,2,3,1350000.0,mag 218
+2396,Apartment,1307,2,3,1670000.0,continental tower
+2397,Penthouse,7685,4,5,11000000.0,emirates crown
+2398,Apartment,1624,2,3,1800000.0,marina quays
+2399,Apartment,795,1,2,1300000.0,park island
+2400,Apartment,2015,3,4,1790000.0,princess tower
+2401,Apartment,2031,3,3,1600000.0,marina diamond 4
+2402,Apartment,1496,2,3,1925000.0,marina promenade
+2403,Apartment,3201,4,5,3050000.0,princess tower
+2404,Apartment,1105,2,2,1180000.0,the point
+2405,Apartment,469,0,1,650000.0,botanica tower
+2406,Penthouse,3595,3,4,2950000.0,the waves
+2407,Apartment,1121,1,2,830000.0,the jewels
+2408,Apartment,2439,3,4,2900000.0,emaar 6 towers
+2409,Apartment,1431,2,3,2491000.0,marina gate
+2410,Apartment,2146,3,4,4689000.0,marina gate
+2411,Apartment,720,1,2,900000.0,west avenue tower
+2412,Apartment,702,1,2,1000000.0,west avenue tower
+2413,Apartment,2707,3,4,2700000.0,marina tower
+2414,Apartment,978,1,2,700000.0,the torch
+2415,Apartment,950,1,2,1500000.0,damac heights
+2416,Apartment,822,1,2,1299950.0,marina gate
+2417,Apartment,5078,4,5,8500000.0,silverene
+2418,Apartment,2518,3,4,2500000.0,emaar 6 towers
+2419,Apartment,775,1,1,1550000.0,marina gate
+2420,Apartment,902,1,2,1450000.0,marina gate
+2421,Apartment,2518,3,4,2550000.0,emaar 6 towers
+2422,Apartment,1579,2,2,1999950.0,al majara
+2423,Apartment,725,1,2,1400000.0,studio one
+2424,Apartment,1493,2,3,1100000.0,marina crown
+2425,Apartment,900,1,2,1099999.0,damac heights
+2426,Apartment,1732,2,3,1400000.0,marina sail
+2427,Apartment,838,1,1,1650000.0,marina gate
+2428,Apartment,909,1,2,1800000.0,orra marina
+2429,Penthouse,3316,4,5,6650000.0,marina gate
+2431,Duplex,5757,4,5,7490000.0,23 marina
+2434,Apartment,850,0,1,1029000.0,marina promenade
+2435,Apartment,2915,3,4,2500000.0,marina tower
+2436,Apartment,768,1,1,1200000.0,al sahab
+2437,Apartment,1643,3,2,2000000.0,al majara
+2438,Apartment,1910,2,3,2000000.0,the address dubai marina
+2439,Apartment,844,1,1,685000.0,mag 218
+2440,Apartment,1433,2,2,1550000.0,damac heights
+2441,Apartment,830,1,2,650000.0,escan tower
+2442,Apartment,684,1,2,800000.0,marina heights
+2443,Apartment,1874,2,3,1875000.0,trident marinascape
+2444,Apartment,1036,1,2,1399999.0,marina promenade
+2445,Apartment,1824,3,3,1500000.0,la riviera
+2446,Apartment,1410,2,3,1950000.0,marina promenade
+2447,Apartment,1786,3,4,2850000.0,silverene
+2448,Apartment,2173,3,3,1290000.0,marina crown
+2449,Apartment,1553,2,3,2000000.0,marina promenade
+2450,Apartment,898,1,2,700000.0,mag 218
+2451,Apartment,1060,1,2,1400000.0,damac heights
+2452,Apartment,1664,2,3,2350000.0,marina promenade
+2453,Apartment,1779,2,3,1099000.0,mag 218
+2454,Apartment,1400,2,3,1600000.0,marina tower
+2455,Apartment,1750,3,4,1999000.0,ocean heights
+2456,Apartment,822,1,2,1399000.0,marina gate
+2457,Apartment,2291,3,3,3350000.0,liv residence
+2458,Apartment,461,0,1,837400.0,liv residence
+2459,Apartment,522,0,1,800000.0,silverene
+2460,Apartment,522,0,1,800000.0,silverene
+2461,Apartment,725,1,2,820000.0,studio one
+2462,Apartment,1431,2,3,2491000.0,marina gate
+2463,Apartment,949,1,2,1601000.0,marina gate
+2464,Apartment,1152,2,3,1390000.0,studio one
+2465,Apartment,591,1,2,961000.0,studio one
+2466,Penthouse,5810,4,6,12950000.0,marina gate
+2467,Apartment,1345,2,3,1700000.0,park island
+2468,Apartment,792,1,2,730000.0,the royal oceanic
+2469,Apartment,1508,2,3,2400000.0,emaar 6 towers
+2470,Apartment,1300,2,3,1150000.0,princess tower
+2471,Apartment,861,1,1,550000.0,marina park
+2472,Apartment,796,1,1,1300000.0,park island
+2473,Apartment,418,0,1,550000.0,marina view
+2474,Apartment,893,1,2,1400000.0,marina promenade
+2475,Apartment,2450,4,4,1750000.0,horizon tower
+2476,Apartment,5457,5,5,5750000.0,marina heights
+2477,Apartment,764,1,2,1100000.0,al sahab
+2478,Apartment,1800,3,4,2800000.0,silverene
+2479,Apartment,1062,2,2,1900000.0,silverene
+2480,Apartment,1233,2,3,1570000.0,no.9
+2481,Apartment,1850,3,4,3100000.0,no.9
+2482,Apartment,683,1,1,675000.0,marina diamond 3
+2483,Apartment,1509,2,3,2400000.0,emaar 6 towers
+2484,Apartment,831,1,2,650000.0,escan tower
+2485,Apartment,602,1,1,675000.0,marina residence
+2486,Apartment,942,1,2,1275000.0,liv residence
+2487,Apartment,1059,2,2,1830000.0,silverene
+2488,Apartment,1477,2,3,1600000.0,trident grand residence
+2489,Apartment,1674,3,4,2750000.0,vida residences marina dubai
+2490,Apartment,822,1,2,1400000.0,marina gate
+2491,Apartment,1348,2,3,1250000.0,ocean heights
+2492,Apartment,983,2,2,720000.0,marina diamond 1
+2493,Apartment,1234,2,3,1100000.0,time place tower
+2494,Apartment,867,1,2,1190000.0,marina gate
+2495,Apartment,1464,2,3,2450000.0,marina gate
+2496,Apartment,723,1,2,715000.0,marina residence
+2497,Apartment,1498,2,3,1900000.0,silverene
+2498,Apartment,1337,2,3,1700000.0,al majara
+2499,Penthouse,14594,5,7,40500000.0,le reve
+2500,Apartment,3700,4,4,3200000.0,kg tower
+2501,Apartment,1075,1,1,1250000.0,marina promenade
+2502,Apartment,684,1,1,735000.0,marina heights
+2503,Penthouse,5456,3,4,6000000.0,marina heights
+2504,Penthouse,3307,4,5,6251000.0,marina gate
+2505,Apartment,3185,4,6,5700000.0,5242
+2506,Apartment,833,2,2,1100000.0,studio one
+2507,Apartment,727,1,2,1075000.0,west avenue tower
+2508,Apartment,1331,2,3,1800000.0,elite residence
+2509,Apartment,1308,2,3,1150000.0,continental tower
+2510,Apartment,1372,2,3,2000000.0,cayan tower
+2511,Apartment,1721,3,4,1800000.0,marina heights
+2512,Apartment,1054,1,2,1349999.0,marina terra
+2513,Apartment,2174,3,4,2000000.0,marina crown
+2514,Apartment,896,1,2,1250000.0,skyview tower
+2515,Penthouse,4683,4,5,11900000.0,marina gate
+2516,Apartment,1113,1,1,1000000.0,ocean heights
+2517,Apartment,360,0,1,535000.0,studio one
+2518,Apartment,762,1,2,1150000.0,cayan tower
+2519,Apartment,834,2,2,1407000.0,studio one
+2520,Apartment,723,1,1,1149000.0,studio one
+2521,Apartment,2154,3,4,3700000.0,marina gate
+2522,Apartment,2075,2,4,1500000.0,al seef tower
+2523,Apartment,1210,2,3,2000000.0,marina gate
+2524,Apartment,1940,3,4,2200000.0,marina terra
+2525,Apartment,1604,2,3,1900000.0,trident grand residence
+2526,Apartment,771,1,2,2200000.0,marina gate
+2527,Apartment,1331,2,3,1550000.0,elite residence
+2528,Apartment,1307,2,4,1400000.0,continental tower
+2529,Apartment,938,1,2,759999.0,park island
+2530,Apartment,2544,4,6,3300000.0,ocean heights
+2531,Apartment,2125,3,5,2350000.0,the waves
+2532,Apartment,1071,2,3,1100000.0,marina residence
+2533,Apartment,1219,2,3,800000.0,marina pinnacle
+2534,Apartment,842,1,2,690000.0,marina crown
+2535,Apartment,1900,3,4,2500000.0,marina heights
+2536,Penthouse,9604,4,4,14000000.0,silverene
+2537,Apartment,1361,2,3,2400000.0,park island
+2538,Apartment,941,1,2,1100000.0,park island
+2539,Apartment,720,1,2,875000.0,botanica tower
+2540,Apartment,768,1,1,1150000.0,the address dubai marina
+2541,Apartment,702,1,1,545000.0,marina park
+2542,Apartment,2614,2,3,2900000.0,emirates crown
+2543,Apartment,1072,1,2,1199999.0,marina promenade
+2544,Apartment,1071,2,2,1100000.0,marina residence
+2545,Townhouse,4554,4,5,6200000.0,al mass villas
+2546,Apartment,1182,2,2,1000000.0,la riviera
+2547,Apartment,1553,2,3,2200000.0,marina promenade
+2548,Apartment,1150,2,3,1000000.0,la riviera
+2549,Apartment,868,1,1,850000.0,azure
+2550,Apartment,886,1,2,640000.0,mag 218
+2551,Apartment,805,1,2,700000.0,time place tower
+2552,Apartment,4500,4,5,3200000.0,the jewels
+2553,Apartment,899,1,2,1710000.0,marina gate
+2554,Townhouse,4396,4,4,7999000.0,the jewels
+2555,Penthouse,4683,4,4,10500000.0,marina gate
+2556,Apartment,1260,2,2,890000.0,the torch
+2557,Apartment,761,1,1,1250000.0,al sahab
+2558,Apartment,5992,3,5,9850000.0,the torch
+2559,Apartment,2380,3,4,2450000.0,azure
+2560,Apartment,2980,3,4,2400000.0,23 marina
+2561,Apartment,2588,4,5,2625000.0,emaar 6 towers
+2562,Apartment,890,1,2,1399999.0,cayan tower
+2563,Apartment,1821,3,4,3800000.0,marina gate
+2564,Townhouse,4313,4,5,9000000.0,marina gate
+2565,Apartment,701,1,2,800000.0,bay central
+2566,Penthouse,6237,5,6,11900000.0,elite residence
+2567,Apartment,1031,1,2,1475000.0,marina promenade
+2568,Apartment,1750,3,4,3650000.0,marina gate
+2569,Apartment,1409,2,3,1790000.0,marina promenade
+2570,Apartment,962,1,2,1280000.0,damac heights
+2571,Apartment,684,1,2,790000.0,marina heights
+2572,Apartment,1684,2,3,1250000.0,the point
+2573,Apartment,1500,2,3,2590000.0,marina promenade
+2574,Apartment,774,1,2,550000.0,marina park
+2575,Penthouse,5810,4,5,12950000.0,marina gate
+2576,Apartment,1208,2,2,950000.0,botanica tower
+2577,Apartment,922,1,2,1090000.0,park island
+2578,Apartment,774,1,2,529000.0,dream towers
+2579,Apartment,1854,3,3,1350000.0,dorra bay
+2580,Apartment,1444,2,2,1500000.0,dorra bay
+2581,Apartment,838,2,2,1100000.0,studio one
+2582,Apartment,705,1,1,1000000.0,west avenue tower
+2583,Apartment,1863,2,3,1850000.0,trident marinascape
+2584,Apartment,1588,3,3,1150000.0,marina pinnacle
+2585,Apartment,1750,2,2,1650000.0,marina sail
+2586,Apartment,1900,3,4,1500000.0,la riviera
+2587,Apartment,1694,2,2,1450000.0,emaar 6 towers
+2588,Apartment,445,0,1,600000.0,bay central
+2589,Apartment,2098,3,3,3100000.0,marina promenade
+2590,Apartment,974,1,1,1295000.0,damac heights
+2591,Apartment,721,1,2,720000.0,skyview tower
+2592,Apartment,1301,2,3,1280000.0,princess tower
+2593,Apartment,1361,2,2,1649999.0,park island
+2594,Apartment,900,1,2,1299999.0,park island
+2595,Apartment,2408,4,4,1700000.0,horizon tower
+2596,Penthouse,6055,4,5,4900000.0,marina view
+2597,Apartment,2516,3,4,2900000.0,emaar 6 towers
+2598,Apartment,690,1,1,1200000.0,marina gate
+2599,Apartment,1468,2,3,1200000.0,dorra bay
+2600,Apartment,927,1,2,1499999.0,marina promenade
+2601,Apartment,1065,2,2,720000.0,manchester tower
+2602,Apartment,496,0,1,750000.0,botanica tower
+2603,Apartment,982,2,2,850000.0,la riviera
+2604,Apartment,1694,2,3,1700000.0,park island
+2605,Apartment,2326,3,3,1500000.0,trident waterfront
+2606,Apartment,977,1,2,1600000.0,damac heights
+2607,Apartment,1428,2,3,2000000.0,damac heights
+2608,Apartment,1562,2,3,1950000.0,damac heights
+2609,Apartment,916,1,2,650000.0,sulafa tower
+2610,Apartment,1456,2,3,1150000.0,marina crown
+2611,Apartment,937,1,2,1125000.0,marina terra
+2612,Townhouse,3969,4,6,5100000.0,bay central
+2613,Apartment,1036,1,2,1600000.0,marina promenade
+2614,Apartment,1087,1,2,1300000.0,the waves
+2615,Penthouse,6146,5,6,5700000.0,princess tower
+2616,Apartment,1258,2,2,1440000.0,west avenue tower
+2617,Apartment,3881,3,4,4000000.0,emirates crown
+2618,Apartment,1854,3,3,1400000.0,dorra bay
+2619,Apartment,1429,2,2,3299999.0,silverene
+2620,Apartment,650,1,1,1000000.0,bay central
+2621,Apartment,1168,2,3,1050000.0,yacht bay
+2622,Apartment,3022,4,5,1799999.0,marina crown
+2623,Apartment,1710,2,3,2300000.0,damac heights
+2624,Apartment,1546,2,3,1800000.0,emaar 6 towers
+2625,Apartment,1256,3,4,1135000.0,marina wharf
+2626,Apartment,1256,3,4,984999.0,marina wharf
+2627,Apartment,1400,2,3,2000000.0,elite residence
+2628,Apartment,2800,3,4,2500000.0,marina crown
+2629,Apartment,1622,3,4,2750000.0,ocean heights
+2630,Apartment,796,1,2,1300000.0,park island
+2631,Apartment,2297,3,4,2325000.0,al sahab
+2632,Apartment,1787,3,4,2700000.0,silverene
+2633,Apartment,1556,2,2,1990000.0,silverene
+2634,Apartment,967,1,1,1100000.0,damac heights
+2635,Apartment,886,1,2,850000.0,mag 218
+2636,Penthouse,5750,4,4,7500000.0,23 marina
+2637,Apartment,885,1,1,740000.0,azure
+2638,Apartment,1526,2,2,1800000.0,emaar 6 towers
+2639,Apartment,833,1,2,1225000.0,silverene
+2640,Apartment,762,1,1,870000.0,marina quays
+2641,Apartment,858,1,2,1300000.0,botanica tower
+2642,Apartment,1328,2,3,1800000.0,elite residence
+2643,Apartment,1347,2,2,1800000.0,park island
+2644,Apartment,759,1,2,520000.0,escan tower
+2645,Apartment,759,1,2,875000.0,the point
+2646,Apartment,824,1,1,1399999.0,silverene
+2647,Apartment,2409,4,5,1675000.0,horizon tower
+2648,Penthouse,3179,4,5,3795000.0,princess tower
+2649,Apartment,926,1,2,800000.0,al majara
+2650,Apartment,554,0,1,590000.0,yacht bay
+2651,Apartment,723,1,1,900000.0,studio one
+2652,Apartment,713,1,1,1850000.0,cayan tower
+2653,Apartment,2174,3,3,1995000.0,marina crown
+2654,Apartment,1258,2,2,1200000.0,the torch
+2655,Townhouse,2772,3,4,4000000.0,the point
+2656,Apartment,856,1,1,1500000.0,bay central
+2657,Apartment,2349,3,4,2950000.0,emaar 6 towers
+2658,Apartment,1347,2,3,1800000.0,park island
+2659,Apartment,2859,3,5,2200000.0,ary marina view tower
+2660,Penthouse,3847,3,4,2500000.0,the torch
+2661,Apartment,2160,3,3,1435000.0,23 marina
+2662,Apartment,2865,3,5,1850000.0,marina mansions
+2663,Apartment,961,1,2,740000.0,elite residence
+2664,Apartment,1066,2,2,1600000.0,silverene
+2665,Apartment,960,1,2,790000.0,elite residence
+2666,Apartment,2089,3,4,3400000.0,damac heights
+2667,Apartment,1702,3,3,2675000.0,iris blue
+2668,Apartment,3022,4,5,2499000.0,marina crown
+2669,Apartment,1372,2,3,1800000.0,cayan tower
+2670,Apartment,1556,2,2,2400000.0,silverene
+2671,Apartment,1754,3,4,3350000.0,marina gate
+2672,Apartment,2462,2,4,1700000.0,emirates crown
+2673,Apartment,780,1,1,1250000.0,the address dubai marina
+2674,Apartment,844,1,1,730000.0,mag 218
+2676,Apartment,840,1,2,1400000.0,marina gate
+2677,Apartment,1244,2,3,1900000.0,marina arcade tower
+2679,Apartment,1586,2,3,1900000.0,ocean heights
+2680,Apartment,2098,3,4,3177000.0,damac residenze
+2681,Apartment,1604,2,3,2200000.0,trident grand residence
+2682,Apartment,1204,2,3,2095000.0,marina gate
+2683,Apartment,685,1,2,800000.0,marina heights
+2684,Apartment,1979,3,5,3750000.0,marina promenade
+2685,Apartment,811,1,2,1000000.0,marina crown
+2686,Apartment,923,1,2,900000.0,princess tower
+2687,Apartment,620,1,1,670000.0,tfg marina hotel
+2688,Apartment,1493,2,3,1550000.0,marina crown
+2689,Apartment,823,1,2,590000.0,dec towers
+2690,Apartment,1465,2,3,1150000.0,westside marina
+2691,Apartment,609,1,2,990000.0,silverene
+2692,Penthouse,5460,5,6,5200000.0,marina crown
+2693,Apartment,2345,3,4,3200000.0,emaar 6 towers
+2694,Apartment,454,0,1,800000.0,cayan tower
+2695,Apartment,1206,2,3,1450000.0,marina arcade tower
+2696,Penthouse,3945,4,4,6650000.0,marina gate
+2697,Apartment,1330,2,3,2090000.0,the address dubai marina
+2698,Apartment,2337,3,4,3500000.0,emaar 6 towers
+2699,Apartment,1410,2,3,1850000.0,marina promenade
+2700,Apartment,958,1,2,1075000.0,marina promenade
+2701,Apartment,893,1,2,1130000.0,al majara
+2702,Apartment,2857,3,4,1600000.0,marina mansions
+2703,Apartment,813,1,2,1100000.0,botanica tower
+2704,Apartment,2013,3,3,1625000.0,princess tower
+2705,Apartment,830,1,2,1400000.0,botanica tower
+2706,Apartment,1265,2,2,1375000.0,vida residences marina dubai
+2707,Penthouse,3172,4,4,2799999.0,elite residence
+2708,Apartment,1633,2,3,2244566.0,marina arcade tower
+2709,Apartment,1002,1,1,1400000.0,marina promenade
+2710,Apartment,750,1,2,900000.0,marina heights
+2711,Penthouse,4371,4,6,3499999.0,horizon tower
+2712,Apartment,2410,3,4,3595000.0,marina arcade tower
+2713,Apartment,1084,2,2,900000.0,marina diamond 6
+2714,Apartment,449,0,1,585000.0,bay central
+2715,Apartment,778,1,2,685000.0,dream towers
+2716,Apartment,1303,2,3,1630000.0,al majara
+2717,Apartment,555,0,1,580000.0,yacht bay
+2718,Apartment,1252,2,2,1600000.0,the royal oceanic
+2719,Apartment,1168,2,3,1050000.0,yacht bay
+2720,Apartment,1184,1,1,1495000.0,trident grand residence
+2721,Apartment,1302,2,3,1589950.0,al majara
+2722,Apartment,1023,1,2,700000.0,the belvedere
+2723,Penthouse,7685,4,5,11000000.0,emirates crown
+2724,Apartment,774,1,2,1149999.0,damac heights
+2725,Apartment,3277,5,4,5500000.0,emaar 6 towers
+2726,Apartment,545,0,2,850000.0,the address dubai marina
+2727,Apartment,2173,3,4,2175000.0,trident grand residence
+2728,Apartment,706,1,1,1300000.0,the address jumeirah resort and spa
+2729,Apartment,2161,3,4,1350000.0,23 marina
+2730,Apartment,978,1,2,699999.0,the torch
+2731,Apartment,1405,2,2,2200000.0,marina promenade
+2732,Apartment,736,1,2,750000.0,elite residence
+2733,Apartment,923,1,2,1350000.0,park island
+2734,Apartment,835,1,2,1185000.0,marina gate
+2735,Apartment,1067,2,2,1600000.0,silverene
+2736,Apartment,337,0,1,385000.0,manchester tower
+2737,Apartment,1500,2,3,795000.0,dec towers
+2738,Apartment,1779,2,3,1550000.0,mag 218
+2739,Apartment,1030,1,2,830000.0,the waves
+2740,Apartment,1009,1,1,720000.0,westside marina
+2741,Apartment,705,1,2,875000.0,continental tower
+2742,Apartment,950,1,2,999999.0,continental tower
+2743,Apartment,1292,2,4,1700000.0,continental tower
+2744,Apartment,1308,2,4,1750000.0,continental tower
+2745,Apartment,761,1,2,560000.0,marina pinnacle
+2746,Apartment,950,1,2,1300000.0,damac heights
+2747,Apartment,954,1,2,1300000.0,damac heights
+2748,Apartment,2328,2,3,2200000.0,trident bayside
+2749,Apartment,1723,2,2,1340000.0,mag 218
+2750,Apartment,1491,2,3,880000.0,dec towers
+2751,Apartment,1325,2,3,1595000.0,orra marina
+2752,Apartment,761,1,1,920000.0,marina quays
+2753,Apartment,759,2,2,850000.0,marina wharf
+2754,Apartment,1401,2,3,1900000.0,park island
+2755,Apartment,445,0,1,725000.0,bay central
+2756,Apartment,505,0,1,415000.0,dec towers
+2757,Apartment,1395,2,3,1700000.0,marina gate
+2758,Apartment,461,0,1,837500.0,liv residence
+2759,Apartment,1339,2,2,1800000.0,damac heights
+2760,Apartment,718,1,2,880000.0,botanica tower
+2761,Apartment,989,1,1,1100000.0,marina promenade
+2762,Apartment,615,1,1,760000.0,wyndham marina dubai
+2763,Apartment,826,1,2,1160000.0,sparkle towers
+2764,Penthouse,3594,4,5,2950000.0,the waves
+2765,Apartment,1338,2,3,1300000.0,the royal oceanic
+2766,Apartment,1674,3,4,3436888.0,vida residences marina dubai
+2767,Apartment,880,1,2,1400000.0,the address dubai marina
+2768,Apartment,3179,4,5,3100000.0,princess tower
+2769,Apartment,1385,2,3,2175000.0,al majara
+2770,Apartment,845,1,2,850000.0,mag 218
+2771,Apartment,870,1,2,645000.0,escan tower
+2772,Apartment,1115,2,2,1150000.0,bay central
+2773,Apartment,1117,2,2,1950000.0,5242
+2774,Apartment,800,1,2,1000000.0,elite residence
+2775,Apartment,659,1,1,985000.0,studio one
+2776,Apartment,1525,2,2,2250000.0,emaar 6 towers
+2777,Apartment,1331,2,3,1800000.0,marina promenade
+2778,Apartment,1739,2,3,835000.0,dec towers
+2779,Apartment,1493,2,3,2645000.0,damac heights
+2780,Penthouse,7685,4,5,11000000.0,emirates crown
+2781,Apartment,2173,3,3,2175000.0,trident grand residence
+2782,Apartment,1262,2,2,1675000.0,vida residences marina dubai
+2783,Apartment,541,0,1,1090000.0,the address dubai marina
+2784,Apartment,1578,2,3,2280000.0,al majara
+2785,Apartment,1270,2,2,2500000.0,liv residence
+2786,Apartment,713,1,2,1200000.0,cayan tower
+2787,Apartment,1441,2,2,2200000.0,silverene
+2788,Apartment,875,1,2,1050000.0,cayan tower
+2791,Apartment,1336,2,2,1800000.0,west avenue tower
+2792,Apartment,1040,1,2,1350000.0,cayan tower
+2793,Apartment,2184,3,4,2700000.0,trident grand residence
+2794,Apartment,1501,2,2,2280000.0,emaar 6 towers
+2795,Apartment,722,1,2,800000.0,skyview tower
+2796,Apartment,2390,3,3,3200000.0,emaar 6 towers
+2797,Apartment,1500,2,3,1399000.0,dec towers
+2798,Townhouse,5500,4,6,9500000.0,the jewels
+2799,Apartment,545,0,1,1050000.0,the address dubai marina
+2800,Apartment,1497,2,3,2800000.0,marina promenade
+2801,Apartment,1392,2,3,1899000.0,al sahab
+2802,Apartment,1599,2,3,2390000.0,marina arcade tower
+2803,Apartment,474,0,1,937000.0,sparkle towers
+2804,Apartment,865,1,2,1330756.0,sparkle towers
+2805,Duplex,2660,3,4,2950000.0,marina heights
+2806,Apartment,1346,2,2,1845000.0,park island
+2807,Apartment,1525,1,2,2250000.0,emaar 6 towers
+2808,Apartment,1407,2,3,1999999.0,al majara
+2809,Penthouse,2649,3,4,6500000.0,marina quays
+2810,Apartment,900,1,2,1250000.0,orra harbour residences and hotel apartments
+2811,Apartment,847,1,2,1499950.0,damac heights
+2812,Townhouse,2800,3,3,2300000.0,trident waterfront
+2813,Apartment,3179,4,4,3100000.0,princess tower
+2814,Apartment,722,1,2,1100000.0,west avenue tower
+2815,Apartment,1813,3,4,3300000.0,cayan tower
+2816,Apartment,1350,2,2,1849999.0,orra marina
+2817,Apartment,730,1,2,1050000.0,studio one
+2818,Apartment,1480,2,3,2000000.0,park island
+2819,Apartment,2169,3,4,2300000.0,zumurud tower
+2820,Apartment,708,1,2,625000.0,marina diamond 6
+2821,Apartment,2120,4,4,3327000.0,damac heights
+2822,Apartment,1710,2,2,2660000.0,damac heights
+2823,Apartment,1579,2,3,2100000.0,trident bayside
+2824,Apartment,2609,4,5,5500000.0,cayan tower
+2825,Apartment,724,1,2,950000.0,studio one
+2826,Apartment,864,1,1,940000.0,princess tower
+2827,Apartment,1653,2,3,1550000.0,trident marinascape
+2828,Apartment,2126,3,3,3195000.0,trident grand residence
+2830,Apartment,1392,2,2,1540000.0,al sahab
+2831,Apartment,1036,2,2,1400000.0,silverene
+2832,Apartment,2900,4,5,3900000.0,emaar 6 towers
+2833,Apartment,960,1,2,2300000.0,marina gate
+2834,Apartment,1477,2,3,2300000.0,trident grand residence
+2835,Apartment,1410,2,3,2100000.0,marina promenade
+2836,Penthouse,7600,5,7,11000000.0,trident grand residence
+2837,Apartment,2201,3,2,3650000.0,trident marinascape
+2838,Apartment,1554,2,2,2500000.0,emaar 6 towers
+2839,Apartment,909,1,2,1190000.0,no.9
+2840,Apartment,1463,2,3,1750000.0,park island
+2841,Apartment,1084,2,3,900000.0,marina diamond 6
+2842,Apartment,2131,3,5,2799999.0,trident grand residence
+2843,Apartment,1773,2,3,1899999.0,trident grand residence
+2844,Apartment,922,1,2,1090000.0,park island
+2845,Apartment,2164,3,4,2500000.0,al majara
+2846,Apartment,418,0,1,550000.0,marina view
+2847,Apartment,1456,2,2,1200000.0,marina crown
+2848,Apartment,3378,3,4,2850000.0,the jewels
+2849,Apartment,1206,2,2,1550000.0,marina arcade tower
+2850,Apartment,2979,3,4,2075000.0,23 marina
+2851,Apartment,3881,3,5,3400000.0,emirates crown
+2852,Apartment,841,1,1,1300000.0,al majara
+2853,Apartment,737,1,1,680000.0,marina diamond 3
+2854,Townhouse,2747,3,5,3900000.0,al sahab
+2855,Apartment,983,2,2,1050000.0,marina diamond 1
+2856,Apartment,1314,2,3,1100000.0,princess tower
+2857,Apartment,1776,3,4,1550000.0,trident grand residence
+2858,Apartment,2491,3,4,2800000.0,trident oceanic
+2859,Apartment,720,1,2,1000000.0,west avenue tower
+2860,Apartment,1300,2,3,1200000.0,marina heights
+2861,Apartment,2001,3,3,2350000.0,marina tower
+2862,Apartment,714,1,2,1050000.0,cayan tower
+2863,Apartment,1910,2,3,2200000.0,the address dubai marina
+2864,Apartment,923,1,2,850000.0,princess tower
+2865,Apartment,1112,2,3,1300000.0,studio one
+2866,Apartment,1702,3,3,2800000.0,iris blue
+2867,Apartment,1302,2,2,1590000.0,al majara
+2868,Apartment,1179,2,2,850000.0,marina residence
+2869,Apartment,828,1,2,1400000.0,silverene
+2870,Apartment,910,1,2,750000.0,sulafa tower
+2871,Apartment,1350,2,3,1400000.0,elite residence
+2872,Apartment,1405,2,3,2450000.0,marina promenade
+2873,Apartment,1440,2,3,1525000.0,marina tower
+2874,Apartment,1180,2,2,1200000.0,princess tower
+2875,Apartment,5081,4,4,8500000.0,silverene
+2876,Apartment,1331,2,3,1200000.0,elite residence
+2877,Apartment,713,1,2,1050000.0,cayan tower
+2878,Apartment,3619,3,5,2295000.0,the jewels
+2879,Apartment,1300,3,3,1075000.0,marina wharf
+2880,Apartment,660,1,2,1295000.0,no.9
+2881,Apartment,2900,4,5,3950000.0,emaar 6 towers
+2882,Apartment,1211,2,3,2099000.0,marina gate
+2883,Apartment,713,1,2,1100000.0,west avenue tower
+2884,Apartment,2381,3,5,2500000.0,azure
+2885,Apartment,2153,3,4,4000000.0,marina gate
+2886,Apartment,2153,3,4,4500000.0,marina gate
+2887,Apartment,1255,2,2,2199000.0,marina gate
+2888,Apartment,1477,2,3,2000000.0,trident grand residence
+2889,Penthouse,3172,4,6,3950000.0,elite residence
+2890,Apartment,951,1,1,1200000.0,al majara
+2891,Apartment,1481,2,3,2618000.0,marina gate
+2892,Apartment,1509,2,2,2400000.0,emaar 6 towers
+2893,Apartment,1780,2,3,1140000.0,mag 218
+2894,Apartment,1477,2,3,2000000.0,trident grand residence
+2895,Penthouse,15320,5,7,8600000.0,marina view
+2896,Apartment,650,1,2,785000.0,bay central
+2897,Apartment,1036,2,2,1450000.0,silverene
+2898,Apartment,1204,2,3,2000000.0,marina gate
+2899,Apartment,1794,3,3,1875000.0,marina terra
+2900,Apartment,1120,1,2,1050000.0,ocean heights
+2901,Apartment,2105,3,4,3300000.0,marina promenade
+2902,Apartment,1765,3,4,3840000.0,no.9
+2903,Apartment,827,1,2,1192500.0,sparkle towers
+2904,Apartment,2581,4,4,2190000.0,azure
+2905,Apartment,826,1,2,1229412.0,sparkle towers
+2906,Apartment,2018,3,3,1749999.0,dorra bay
+2907,Apartment,2979,3,4,2150000.0,23 marina
+2908,Penthouse,14349,5,7,49000000.0,le reve
+2909,Apartment,1208,2,2,1188000.0,botanica tower
+2910,Apartment,958,1,2,1295000.0,marina promenade
+2911,Apartment,1929,2,1,2121000.0,marina 101
+2912,Apartment,1189,1,2,1307900.0,marina 101
+2913,Apartment,1750,2,1,1925000.0,marina 101
+2914,Apartment,2056,3,4,1650000.0,princess tower
+2915,Apartment,1470,2,2,1575000.0,al majara
+2916,Apartment,761,1,1,900000.0,marina quays
+2917,Apartment,802,1,1,1200000.0,elite residence
+2918,Apartment,542,0,1,850000.0,silverene
+2919,Apartment,1067,1,2,855000.0,the jewels
+2920,Apartment,2400,3,3,2300000.0,marina heights
+2921,Apartment,1347,2,3,2400000.0,park island
+2922,Apartment,1054,1,1,1299999.0,park island
+2923,Apartment,1709,2,3,1200000.0,trident waterfront
+2924,Apartment,922,1,2,1089000.0,park island
+2925,Apartment,1377,2,2,2090000.0,no.9
+2926,Apartment,1769,3,4,1800999.0,trident grand residence
+2927,Apartment,963,2,2,750000.0,marina diamond 2
+2928,Apartment,3868,4,6,2750000.0,marina terra
+2929,Apartment,627,1,1,975000.0,marina gate
+2930,Apartment,502,0,1,670000.0,studio one
+2931,Apartment,1350,2,2,1595000.0,orra marina
+2932,Apartment,1105,2,2,1180000.0,the point
+2933,Apartment,1681,3,4,1599888.0,ocean heights
+2934,Apartment,863,1,2,875000.0,princess tower
+2935,Apartment,2547,4,5,4800000.0,cayan tower
+2936,Apartment,1326,3,3,1100000.0,manchester tower
+2937,Apartment,1776,3,4,1950000.0,trident grand residence
+2938,Apartment,1256,2,2,2100000.0,marina gate
+2939,Apartment,2980,3,4,2000000.0,23 marina
+2940,Apartment,2550,4,4,3500000.0,cayan tower
+2941,Apartment,860,1,1,550000.0,marina park
+2942,Apartment,1940,3,5,2200000.0,marina terra
+2943,Apartment,963,2,2,720000.0,marina diamond 2
+2944,Apartment,1635,2,3,1100000.0,westside marina
+2945,Apartment,1277,2,3,2200000.0,marina gate
+2946,Apartment,775,1,2,2300000.0,marina gate
+2947,Apartment,592,1,1,900000.0,silverene
+2948,Apartment,3022,4,5,2499999.0,marina crown
+2949,Apartment,1765,3,4,2999999.0,no.9
+2950,Apartment,4373,3,4,4900000.0,liv residence
+2951,Penthouse,3847,3,5,2700000.0,the torch
+2952,Apartment,875,1,2,1200000.0,cayan tower
+2953,Apartment,2141,2,3,1900000.0,the jewels
+2954,Apartment,1600,2,3,1800000.0,marina arcade tower
+2955,Apartment,1556,2,2,2510000.0,silverene
+2956,Apartment,1452,2,3,2000000.0,trident grand residence
+2957,Apartment,1384,2,2,1225000.0,sulafa tower
+2958,Apartment,958,1,2,1250000.0,marina promenade
+2959,Apartment,896,1,2,900000.0,time place tower
+2960,Apartment,1461,2,3,1650000.0,al sahab
+2961,Apartment,367,0,1,450000.0,zumurud tower
+2962,Apartment,1951,2,2,1680000.0,trident marinascape
+2963,Apartment,1559,2,3,1275000.0,time place tower
+2964,Apartment,709,1,1,875000.0,park island
+2965,Apartment,1325,2,2,1800000.0,marina gate
+2966,Apartment,2408,4,4,1900000.0,horizon tower
+2967,Apartment,2322,3,4,5500000.0,emaar 6 towers
+2968,Apartment,1602,2,2,2000000.0,ocean heights
+2969,Apartment,1002,1,2,1795000.0,marina promenade
+2970,Apartment,909,1,2,1200000.0,park island
+2971,Apartment,1509,3,4,1200000.0,sulafa tower
+2972,Apartment,1377,2,3,1150000.0,sulafa tower
+2973,Apartment,2098,3,4,2899999.0,marina promenade
+2974,Apartment,5051,3,5,4500000.0,marina tower
+2975,Townhouse,4618,4,5,10650000.0,marina gate
+2976,Apartment,910,1,2,650000.0,sulafa tower
+2977,Apartment,5600,4,5,5500000.0,23 marina
+2978,Apartment,360,0,1,550000.0,studio one
+2979,Apartment,2091,3,4,3260000.0,marina arcade tower
+2980,Apartment,1214,2,3,1876678.0,marina arcade tower
+2981,Apartment,1786,3,4,2625000.0,silverene
+2982,Penthouse,3307,4,6,6650000.0,marina gate
+2983,Apartment,3275,3,4,7958000.0,no.9
+2984,Apartment,3882,3,6,3200000.0,emirates crown
+2985,Penthouse,6982,5,5,8500000.0,emaar 6 towers
+2986,Apartment,700,1,1,999999.0,no.9
+2987,Apartment,844,1,2,650000.0,mag 218
+2988,Apartment,867,1,1,1300000.0,marina gate
+2989,Apartment,735,1,2,725000.0,iris blue
+2990,Apartment,1375,3,3,1400000.0,marina wharf
+2991,Apartment,773,1,2,1300000.0,marina gate
+2992,Apartment,500,0,1,690000.0,botanica tower
+2993,Apartment,2490,3,4,2250000.0,trident marinascape
+2994,Apartment,705,1,2,950000.0,bay central
+2995,Apartment,1603,2,3,2500000.0,trident grand residence
+2996,Apartment,708,1,2,950000.0,dorra bay
+2997,Apartment,868,1,2,1495000.0,marina gate
+2998,Apartment,1595,3,2,1225000.0,la riviera
+3000,Apartment,788,1,1,690000.0,time place tower
+3001,Apartment,1376,2,3,1780000.0,damac heights
+3002,Apartment,609,1,2,949000.0,silverene
+3003,Apartment,916,1,2,850000.0,sulafa tower
+3004,Penthouse,4717,4,5,9980000.0,liv residence
+3005,Apartment,5079,4,4,8500000.0,silverene
+3006,Apartment,1191,2,2,799999.0,yacht bay
+3007,Apartment,1357,2,3,1250000.0,ocean heights
+3008,Apartment,1713,3,3,1300000.0,the torch
+3009,Apartment,2018,3,3,1799000.0,dorra bay
+3010,Apartment,1480,2,3,1675000.0,park island
+3012,Apartment,1480,2,3,1895000.0,park island
+3013,Apartment,3868,4,5,2750000.0,marina terra
+3014,Apartment,958,1,1,1300000.0,marina promenade
+3015,Apartment,895,1,2,1250000.0,marina promenade
+3016,Apartment,3930,3,4,3349000.0,marina tower
+3017,Apartment,572,1,1,525000.0,marina diamond 2
+3018,Apartment,1159,1,1,1248000.0,ocean heights
+3019,Apartment,1646,2,3,1800000.0,trident marinascape
+3020,Apartment,1853,3,4,2500000.0,marina tower
+3021,Penthouse,3313,3,4,7150000.0,no.9
+3022,Apartment,1334,2,2,1325000.0,la riviera
+3023,Apartment,1184,2,2,850000.0,marina residence
+3024,Apartment,1307,2,4,1390000.0,continental tower
+3025,Apartment,1190,1,2,2000000.0,emaar 6 towers
+3026,Apartment,2150,3,3,1210000.0,sulafa tower
+3027,Apartment,945,1,1,1149000.0,al sahab
+3028,Apartment,696,1,2,1120000.0,bay central
+3029,Apartment,2455,2,4,1590000.0,emirates crown
+3030,Apartment,1216,2,3,1325000.0,the waves
+3031,Duplex,2400,3,3,2400000.0,princess tower
+3032,Apartment,985,2,2,1100000.0,marina wharf
+3033,Apartment,1219,2,3,925000.0,marina pinnacle
+3034,Apartment,3375,3,4,2700000.0,the jewels
+3035,Apartment,860,1,1,680000.0,princess tower
+3036,Apartment,2018,3,3,1899998.0,dorra bay
+3037,Apartment,1254,2,3,2300000.0,damac heights
+3038,Apartment,3009,3,3,3099999.0,cayan tower
+3039,Apartment,609,1,2,1049999.0,silverene
+3040,Apartment,599,1,2,1150000.0,silverene
+3041,Apartment,1427,2,3,3199998.0,silverene
+3042,Apartment,1058,2,3,2094999.0,silverene
+3043,Apartment,1248,2,3,3250000.0,silverene
+3044,Apartment,826,1,2,1350000.0,silverene
+3045,Apartment,1347,2,2,1900000.0,park island
+3046,Penthouse,5409,5,6,6300000.0,marina terra
+3047,Apartment,917,1,1,775000.0,sulafa tower
+3048,Apartment,791,1,2,900000.0,the point
+3049,Apartment,1091,2,2,975000.0,marina diamond 6
+3050,Apartment,2516,3,4,3450000.0,emaar 6 towers
+3051,Apartment,1405,2,2,2500000.0,marina promenade
+3052,Apartment,2429,3,4,2800000.0,emaar 6 towers
+3053,Apartment,1375,3,3,1400000.0,marina wharf
+3054,Apartment,866,1,2,1325000.0,marina gate
+3055,Apartment,1139,2,2,2210775.0,5242
+3056,Apartment,3226,4,5,3650000.0,elite residence
+3057,Apartment,2170,3,4,2650000.0,trident marinascape
+3058,Apartment,2450,3,4,2250000.0,trident marinascape
+3059,Apartment,916,1,2,740000.0,sulafa tower
+3060,Apartment,1219,2,2,1100000.0,marina pinnacle
+3061,Apartment,1676,2,3,1400000.0,kg tower
+3062,Apartment,2408,4,4,1795000.0,horizon tower
+3063,Apartment,1758,2,3,1400000.0,marina sail
+3064,Apartment,1139,2,2,1850000.0,5242
+3065,Townhouse,2456,2,3,2200000.0,marina quays
+3066,Apartment,837,1,2,545000.0,marina pinnacle
+3067,Apartment,2174,3,4,2450000.0,marina heights
+3068,Apartment,2167,3,4,2450000.0,trident marinascape
+3069,Penthouse,4683,4,5,11500000.0,marina gate
+3070,Apartment,1385,2,3,1900000.0,west avenue tower
+3071,Penthouse,3180,4,4,2900000.0,princess tower
+3072,Apartment,740,1,2,720000.0,sulafa tower
+3073,Apartment,1250,2,3,1500000.0,marina arcade tower
+3074,Apartment,1045,1,2,1000000.0,the waves

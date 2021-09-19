@@ -1,0 +1,84 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>Recommender</title>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
+</head>
+
+<body>
+  <nav class="navbar navbar-inverse navbar-fixed-top">
+    <div class="container">
+        <div class="navbar-header">
+            <a class="navbar-brand" href="/">Recommender</a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+            <ul class="nav navbar-nav">
+                <li><a href="https://en.wikipedia.org/wiki/42_(number)">42</a></li>
+                <li><a href="https://github.com/andresgtn">Code Repository</a></li>
+            </ul>
+        </div>
+    </div>
+</nav>
+
+<div class="jumbotron">
+    <div class="container">
+        <h2 class="text-center">Marina Listings Recommender</h2>
+        <p class="text-center">Enter: price, bedrooms, size. Example: 2000000, 2, 1500</p>
+        <hr />
+
+        <div class="row">
+            <div class="col-lg-4 form-group-lg">
+                <form action="/go" method="get">
+                    <input type="text" class="form-control form-control-lg" name="query" placeholder="Enter: price, bedrooms, size">
+                    <button type="submit" class="btn btn-lg btn-success">Generate</button>
+
+                </form>
+            </div>
+        </div>
+
+        {% block message %}
+        {% endblock %}
+
+        <div class="row">
+            <div class="col-lg-4 form-group-lg">
+                <form action="/u_id" method="get">
+                    <input type="text" class="form-control form-control-lg" name="id_query" placeholder="Enter identifier">
+                    <button type="submit" class="btn btn-lg btn-success">Generate</button>
+
+                </form>
+            </div>
+        </div>
+        {% block message_listing %}
+        {% endblock %}
+    </div>
+</div>
+
+<div class="container">
+    {% block content %}
+
+    {% endblock %}
+    {% block stats %}
+    <h3> {{df1.title}} </h3>
+    {{df1.table|safe}}
+
+    <h3> {{df2.title}} </h3>
+    {{df2.table|safe}}
+
+    <h3> {{df3.title}} </h3>
+    {{df3.table|safe}}
+    {% endblock %}
+
+</div>
+
+
+
+</body>
+</html>

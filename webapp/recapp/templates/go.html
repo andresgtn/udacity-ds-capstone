@@ -1,0 +1,12 @@
+{% extends "master.html" %}
+{% block title %}Recommendtions{% endblock %}
+
+{% block message %}
+    <p class="text">Search criteria: {{query}}</p>
+{% endblock %}
+
+{% block content %}
+<h3> {{df4.title}} </h3>
+{{df4.table|safe}}
+
+{% endblock %}
