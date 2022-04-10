@@ -28,8 +28,6 @@ The goal is to present summary statistics about a particular community, and to p
 4. Create a webapp to serve the model and area summary statistics to users
 5. Serve the model to the user through a webapp
 
-## Metrics
-
 # Analysis
 
 ## Algorithms and Techniques
