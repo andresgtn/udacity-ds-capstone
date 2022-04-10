@@ -32,15 +32,9 @@ The goal is to present summary statistics about a particular community, and to p
 
 # Analysis
 
-## Data Exploration
-
-## Exploratory Visualization
-
 ## Algorithms and Techniques
 
 The model used is [Sklearn's NearestNeighboors](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.NearestNeighbors.html) which as the page describes, is an unsupervised learner for implementing neighboor searches. This library was chosen rather than implementing the algorithm from scratch as was done during the course - sklearn has a simple interface, is well documented and maintained well.
-
-## Benchmark
 
 # Methodology
 
@@ -60,8 +54,6 @@ The implementation can be split into three stages:
 Data collection and preprocessing formed an extensive part of the project. Collecting online data and getting it into usable form was messy and required a lot of manual work, especially when websites change and you need to adjust the code collecting the data. Not all data is read perfectly, so some post processing needs to be done to prepare the data for the model.
 
 For the webapp, it was interesting to learn how much one can reuse code from previous exercises as long as it is well documented and properly structured.  I took what we learned in the [World Bank](https://github.com/andresgtn/ud-worldbank-dashboard) project and repurposed the code to fit this project. I had to extend it but the basic skeleton helped me get started and save time.
-
-## Refinement
 
 # Results
 
@@ -83,7 +75,7 @@ Some questions that a user can answer by looking at the Listing Stats tables are
 - If my budget is 2m, what is the max number of bedrooms could I afford? Between 2-3 bedrooms, and maybe a cheap 4br. 
 - If I want a 2,500 Sqft 2-bedroom apartment, could I find any options here? The answer is yes, but I might not find too many options since the median size for a 2br is 1,350 sqft.
 
-*Additions to 'stats by #bedrooms' could be:
+Some extensions to 'stats by #bedrooms' could be:
 - Show a listing count for each row to give a sense of the number of options available.
 - Calculate price/size as investors use this metric a lot.
 
@@ -97,13 +89,7 @@ The user interface is quite simple and work could be done to increase its usabil
 
 There is not much validation to be done other than inspecting the results visually and making sure they make sense. I work in the real estate industry so I can quickly browse through the results and see whether they make sense or not.
 
-## Justification
-
 # Conclusion
-
-
-
-## Free-Form Visualization
 
 ## Reflection
 
