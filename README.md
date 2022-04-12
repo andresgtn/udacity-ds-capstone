@@ -28,6 +28,10 @@ The goal is to present summary statistics about a particular community, and to p
 4. Create a webapp to serve the model and area summary statistics to users
 5. Serve the model to the user through a webapp
 
+## Metrics
+
+I found no specific metrics to automatically test the results of the nearest neighboors algorithm - testing will be done by visually inspecting results and output validity by choosing different inputs from the dataset and determining if the outputs make sense.
+
 # Analysis
 
 ## Algorithms and Techniques
