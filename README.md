@@ -34,9 +34,9 @@ I found no specific metrics to automatically test the results of the nearest nei
 
 # Analysis
 
-## Algorithms and Techniques
+## Data exploration and visualization
 
-The model used is [Sklearn's NearestNeighboors](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.NearestNeighbors.html) which as the page describes, is an unsupervised learner for implementing neighboor searches. This library was chosen rather than implementing the algorithm from scratch as was done during the course - sklearn has a simple interface, is well documented and maintained well.
+This section can be found by accessing the data directory and opening the notebook data_exploration_and_visualization.ipynb. I found it cleaner to contain all exploration within that notebook rathen than adding the results here.
 
 # Methodology
 
@@ -55,11 +55,17 @@ The implementation can be split into three stages:
 
 Data collection and preprocessing formed an extensive part of the project. Collecting online data and getting it into usable form was messy and required a lot of manual work, especially when websites change and you need to adjust the code collecting the data. Not all data is read perfectly, so some post processing needs to be done to prepare the data for the model.
 
+The model used is [Sklearn's NearestNeighbors](https://scikit-learn.org/stable/modules/generated/sklearn.neighbors.NearestNeighbors.html) which as the page describes, is an unsupervised learner for implementing neighboor searches. This library was chosen rather than implementing the algorithm from scratch as was done during the course - sklearn has a simple interface, is well documented and maintained well.
+
 For the webapp, it was interesting to learn how much one can reuse code from previous exercises as long as it is well documented and properly structured.  I took what we learned in the [World Bank](https://github.com/andresgtn/ud-worldbank-dashboard) project and repurposed the code to fit this project. I had to extend it but the basic skeleton helped me get started and save time.
+
+## Refinement
+
+I initially though about implementing nearest neighbors from scratch but quickly found that sklearn provided a packaged solution and decided to use that instead. As discussed in the Data exploration and visualization section, I attempted to remove "duplicate" listings using a clustering algorithm but decided to drop the idea until I figure out a robust method that will not drop listings that are nearly identical but not duplicates. 
 
 # Results
 
-## Program and User Flow
+## Program and User Flow (extra section to explain how it all comes together)
 
 This section covers how the app is structured and how a user interacts with it.
 
@@ -90,6 +96,10 @@ The user interface is quite simple and work could be done to increase its usabil
 ## Model Evaluation and Validation
 
 There is not much validation to be done other than inspecting the results visually and making sure they make sense. I work in the real estate industry so I can quickly browse through the results and see whether they make sense or not.
+
+## Justification
+
+This dataset has no missing values as I made sure of it when collecting it, so we don't have to worry about imputing values which might affect the performance of sklearn's algorithm.
 
 # Conclusion
 
